@@ -1,0 +1,78 @@
+\select@language {hebrew}
+\select@language {english}
+\select@language {hebrew}
+\select@language {english}
+\select@language {hebrew}
+\select@language {english}
+\select@language {hebrew}
+\select@language {english}
+\select@language {hebrew}
+\contentsline {chapter}{תפילת שחרית}{2}
+\contentsline {section}{ברכת התורה}{5}
+\contentsline {section}{עטיפת הטלית והנחת התפילין}{10}
+\contentsline {section}{שחרית לחול}{11}
+\contentsline {chapter}{שחרית לחול}{20}
+\contentsline {section}{תפילת העמידה}{25}
+\contentsline {section}{תחנון}{32}
+\contentsline {section}{סדר קריאת התורה}{37}
+\contentsline {section}{סיום התפילה}{42}
+\contentsline {section}{שיר של יום}{46}
+\contentsline {section}{נטילת הלולב}{51}
+\contentsline {section}{הלל‎}{52}
+\contentsline {chapter}{מוסף לראש חודש}{58}
+\contentsline {chapter}{קדיש דרבנן}{63}
+\contentsline {chapter}{אבינו מלכנו}{64}
+\contentsline {chapter}{מנחה לחול}{66}
+\contentsline {chapter}{ערבית לחול}{80}
+\contentsline {chapter}{ספירת העמר}{91}
+\contentsline {chapter}{עירוב תבשילין}{93}
+\contentsline {chapter}{הדלקת הנרות שבת ויום טוב}{93}
+\contentsline {chapter}{קבלת שבת}{94}
+\contentsline {chapter}{ערבית לשבת ויום טוב}{98}
+\contentsline {chapter}{קידוש ליל שבת}{110}
+\contentsline {chapter}{קידוש ליל יום טוב}{113}
+\contentsline {chapter}{קידוש ליל ראש השנה}{114}
+\contentsline {chapter}{שחרית לשבת ויום טוב}{115}
+\contentsline {section}{תפילת העמידה}{139}
+\contentsline {section}{נטילת הלולב}{145}
+\contentsline {section}{הלל‎}{145}
+\contentsline {section}{סדר קריאת התורה}{151}
+\contentsline {chapter}{מוסף לשבת}{163}
+\contentsline {chapter}{קידושא רבא}{176}
+\contentsline {chapter}{מנחה לשבת ויום טוב}{177}
+\contentsline {section}{ברכי נפשי}{188}
+\contentsline {section}{פרקי אבות}{193}
+\contentsline {chapter}{ערבית למוצאי שבת ויום טוב}{214}
+\contentsline {section}{הבדלה}{230}
+\contentsline {section}{ברכת הלבנה}{231}
+\contentsline {chapter}{קריאת שמע שעל המיטה}{233}
+\contentsline {chapter}{תפלת העמידה לשלש רגלים}{236}
+\contentsline {chapter}{תפלת מוסף לשלש לרגלים}{242}
+\contentsline {section}{ברכת כהנים}{251}
+\contentsline {section}{תפילת טל}{255}
+\contentsline {section}{תפילת גשם}{257}
+\contentsline {chapter}{הושענות}{259}
+\contentsline {section}{הושענות להושענא רבא}{263}
+\contentsline {chapter}{הקפות לשמחת תורה}{271}
+\contentsline {chapter}{יזכור}{273}
+\contentsline {chapter}{בדיקת וביטול חמץ}{274}
+\contentsline {chapter}{התרת נדרים}{275}
+\contentsline {chapter}{וידוי}{277}
+\contentsline {chapter}{חנוכה}{281}
+\contentsline {chapter}{פורים}{283}
+\contentsline {chapter}{ברית מילה}{285}
+\contentsline {chapter}{פדיון הבן}{287}
+\contentsline {chapter}{ברכת המזון}{288}
+\contentsline {section}{זמון לנשואין}{295}
+\contentsline {section}{שבע ברכות}{295}
+\contentsline {section}{ברכה מעין שלש}{296}
+\contentsline {chapter}{קריאת התורה}{297}
+\contentsline {section}{פרשיות לכל השנה}{297}
+\contentsline {section}{חנוכה}{324}
+\contentsline {section}{פורים}{329}
+\contentsline {section}{חה“מ פסח}{329}
+\contentsline {section}{חה“מ סכות}{334}
+\contentsline {section}{תשעה באב}{336}
+\contentsline {section}{תענית ציבור}{338}
+\contentsline {section}{ראש חדש}{340}
+\contentsline {chapter}{תפלת הדרך}{341}
