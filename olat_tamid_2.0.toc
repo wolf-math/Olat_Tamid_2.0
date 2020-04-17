@@ -41,7 +41,7 @@
 \contentsline {chapter}{קידושא רבא}{176}
 \contentsline {chapter}{מנחה לשבת ויום טוב}{177}
 \contentsline {section}{ברכי נפשי}{188}
-\contentsline {section}{פרקי אבות}{193}
+\contentsline {section}{פרקי אבות}{192}
 \contentsline {chapter}{ערבית למוצאי שבת ויום טוב}{214}
 \contentsline {section}{הבדלה}{230}
 \contentsline {section}{ברכת הלבנה}{231}

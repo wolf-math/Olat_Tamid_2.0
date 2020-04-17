@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2020.4.5)  17 APR 2020 08:32
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2020.4.5)  17 APR 2020 09:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2001,32 +2001,33 @@ Requested font "[fonts/ShlomoLightBold]/OT" at 10.95pt
 . <->"[fonts/ShlomoLightBold]/OT:mapping=tex-text;"
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
-LaTeX Info: Redefining \rmfamily on input line 84.
+LaTeX Info: Redefining \rmfamily on input line 76.
 Requested font "[fonts/Shlomo]/OT:mapping=tex-text;" at 10.95pt
  -> ./fonts/Shlomo.ttf
 Requested font "FreeSans" at 10.95pt
- -> ^^�^^G^^�/^^U
+ -> ^^�^^K^^$=V
 Requested font "FreeSans/OT" at 10.95pt
- -> `^^I^^�/^^U
+ -> p^^K^^$=V
 \g__fontspec_family_FreeSans_int=\count329
 Requested font "FreeSans/BI/OT" at 10.95pt
- ->  ^^B^^�/^^U
+ -> 0^^
+K^^$=V
 Requested font "FreeSans/B/OT" at 10.95pt
- -> 
+ -> ^^P^^K^^$=V
 Requested font "FreeSans/I/OT" at 10.95pt
  -> 
 Requested font "FreeSans/B/OT" at 10.95pt
- -> ^^^^F^^�/^^U
+ -> ^^ ^^K^^$=V
 Requested font "FreeSans/B/OT" at 10.95pt
- -> ^^^^F^^�/^^U
+ -> ^^ ^^K^^$=V
 Requested font "FreeSans/I/OT" at 10.95pt
- -> ^^^^F^^�/^^U
+ -> ^^ ^^K^^$=V
 Requested font "FreeSans/I/OT" at 10.95pt
- -> ^^^^F^^�/^^U
+ -> ^^ ^^K^^$=V
 Requested font "FreeSans/BI/OT" at 10.95pt
- -> ^^�{^^/^^U
+ -> ^^�CW^^$=V
 Requested font "FreeSans/BI/OT" at 10.95pt
- -> ^^ ^^�^^/^^U
+ -> ^^PW^^$=V
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -2050,7 +2051,7 @@ Requested font "FreeSans/BI/OT" at 10.95pt
 . <->"FreeSans/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
-LaTeX Info: Redefining \sffamily on input line 85.
+LaTeX Info: Redefining \sffamily on input line 77.
 \iiindent=\skip90
 )
 
@@ -2417,7 +2418,7 @@ Overfull \hbox (1.23293pt too wide) detected at line 43
 
 
 Overfull \hbox (1.23293pt too wide) detected at line 44
- [][][]\TU/Shlomo(1)/m/n/10.95 193[][][]
+ [][][]\TU/Shlomo(1)/m/n/10.95 192[][][]
  []
 
 
@@ -2547,9 +2548,9 @@ Requested font "FreeSans/I/OT" at 8.0pt
 Requested font "FreeSans/I/OT" at 8.0pt
  -> 
 Requested font "FreeSans/BI/OT" at 8.0pt
- -> ^^�x^^"/^^U
+ -> ^^�Cx^^$=V
 Requested font "FreeSans/BI/OT" at 8.0pt
- -> 0X^^%/^^U
+ -> ^^�L{^^$=V
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -2664,7 +2665,7 @@ at 10.0pt
  -> ./fonts/Shlomo.ttf
 Requested font "FreeSans/B/OT:script=hebr;language=DFLT;mapping=tex-text;" at 8
 .0pt
- -> P^^2^^7/^^U
+ -> ^^�r^^�^^$=V
 Requested font "[fonts/Shlomo]/OT:mapping=tex-text;" at 10.0pt
  -> ./fonts/Shlomo.ttf
 Requested font "[fonts/Shlomo]/OT" at 10.0pt
@@ -2904,12 +2905,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 Requested font "[fonts/Shlomo]/OT:mapping=tex-text;" at 7.0pt
  -> ./fonts/Shlomo.ttf
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 1335.
+(Font)              <7> on input line 1337.
 Requested font "[fonts/ShlomoBold]/OT:script=hebr;language=DFLT;mapping=tex-tex
 t;" at 10.0pt
  -> ./fonts/ShlomoBold.ttf
 
-Overfull \hbox (16.02376pt too wide) in paragraph at lines 1335--1335
+Overfull \hbox (16.02376pt too wide) in paragraph at lines 1337--1337
  [][][] [] 
  []
 
@@ -2941,27 +2942,27 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [27]
-Underfull \hbox (badness 5711) in paragraph at lines 1381--1381
+Underfull \hbox (badness 5711) in paragraph at lines 1383--1383
  []\TU/Shlomo(1)/m/n/10 יְיָ אֱלֹהֵֽינוּ וֵאלֹהֵי אֲבוֹתֵֽינוּ[] 
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 1381--1381
+Underfull \hbox (badness 2119) in paragraph at lines 1383--1383
  []\TU/Shlomo(1)/m/n/10 בְּרֵאשִׁית: בְּרָכוֹת וְהוֹדָאוֹת[] 
  []
 
 
-Underfull \hbox (badness 3291) in paragraph at lines 1381--1381
+Underfull \hbox (badness 3291) in paragraph at lines 1383--1383
  []\TU/Shlomo(1)/m/n/10 לְשִׁמְךָ הַגָּדוֹל וְהַקָּדוֹשׁ עַל[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1383--1383
  []\TU/Shlomo(1)/m/n/10 וּתְקַיְּֿמֵֽנוּ וְתֶאֱסוֹף גָּלֻיּוֹתֵֽינוּ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1383--1383
  []\TU/Shlomo(1)/m/n/10 וְלַעֲשׂוֹת רְצֹנֶֽךָ וּלְעָבְדְּֿךָ[] 
  []
 
@@ -2969,18 +2970,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 1381--1381
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \hbox (badness 1571) in paragraph at lines 1381--1381
+Underfull \hbox (badness 1571) in paragraph at lines 1383--1383
  [][]\TU/Shlomo(1)/bx/n/12 מוֹדִים \TU/Shlomo(1)/m/n/10.95 אֲנַֽחְנוּ לָךְ שָׁאַתָּ
 ה הוּא יְיָ[] 
  []
 
 
-Underfull \hbox (badness 4913) in paragraph at lines 1381--1381
+Underfull \hbox (badness 4913) in paragraph at lines 1383--1383
  []\TU/Shlomo(1)/m/n/10.95 הַפְּֿקוּדוֹת לָךְ וְעַל נִסֶּֽיךָ שֶׁבְּֿכָל[] 
  []
 
 
-Underfull \hbox (badness 3590) in paragraph at lines 1381--1381
+Underfull \hbox (badness 3590) in paragraph at lines 1383--1383
  []\TU/Shlomo(1)/m/n/10.95 שֶׁבְּֿכָל עֵת עֶֽרֶב וָבֹֽקֶר וְצָהֳרָֽיִם:[] 
  []
 
@@ -2998,78 +2999,78 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [28]
-Underfull \hbox (badness 1817) in paragraph at lines 1383--1383
+Underfull \hbox (badness 1817) in paragraph at lines 1385--1385
  [][]\TU/FreeSans(1)/m/n/8 בחנוכה:  \TU/Shlomo(1)/m/n/10 בִּימֵי מַתִּתְיָֽהוּ בֶּן
  יוֹחָנָן כֹּהֵן[] 
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 1383--1383
+Underfull \hbox (badness 1005) in paragraph at lines 1385--1385
  []\TU/Shlomo(1)/m/n/10 גָּדוֹל חַשְׁמֹנַי וּבָנָיו כְּשֶׁעָמְֿדָה מַלְכוּת יָוָן[] 
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 1383--1383
+Underfull \hbox (badness 1107) in paragraph at lines 1385--1385
  []\TU/Shlomo(1)/m/n/10 מָסַֽרְתָּ גִּבּוֹרִים בְּיַד חַלָּשִׁים וְרַבִּים בְּיַד[] 
  []
 
 
-Underfull \hbox (badness 4096) in paragraph at lines 1383--1383
+Underfull \hbox (badness 4096) in paragraph at lines 1385--1385
  [][]\TU/FreeSans(1)/m/n/8 בפורים:  \TU/Shlomo(1)/m/n/10 בִּימֵי מָרְדֳּכַי[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1383--1383
+Underfull \hbox (badness 10000) in paragraph at lines 1385--1385
  []\TU/Shlomo(1)/m/n/10 וְִאֶסְתֵּר בְּשׁוּשַׁן הַבִּירָה[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1383--1383
+Underfull \hbox (badness 10000) in paragraph at lines 1385--1385
  []\TU/Shlomo(1)/m/n/10 כְּשֶׁעָמַד עֲלֵיהֶם הָמָן[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1383--1383
+Underfull \hbox (badness 10000) in paragraph at lines 1385--1385
  []\TU/Shlomo(1)/m/n/10 הָרָשָׁע בִּקֵּשׁ   \TU/FreeSans(1)/m/n/6 (אסתר ג)[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1383--1383
+Underfull \hbox (badness 10000) in paragraph at lines 1385--1385
  []\TU/Shlomo(1)/m/n/10 לְהַשְׁמִ֡יד לַֽהֲרֹ֣ג וּלְאַבֵּ֣ד[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1383--1383
+Underfull \hbox (badness 10000) in paragraph at lines 1385--1385
  []\TU/Shlomo(1)/m/n/10 אֶת־כָּל־הַ֠יְּֿהוּדִים מִנַּ֨עַר[] 
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 1383--1383
+Underfull \hbox (badness 1077) in paragraph at lines 1385--1385
  []\TU/Shlomo(1)/m/n/10 וְעַד־זָקֵ֨ן טַ֤ף וְנָשִׁים֙ בְּי֣וֹם[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1383--1383
+Underfull \hbox (badness 10000) in paragraph at lines 1385--1385
  []\TU/Shlomo(1)/m/n/10 שְׁנֵים־עָשָׂ֖ר הוּא־חֹ֣דֶשׁ[] 
  []
 
 
-Underfull \hbox (badness 4673) in paragraph at lines 1383--1383
+Underfull \hbox (badness 4673) in paragraph at lines 1385--1385
  []\TU/Shlomo(1)/m/n/10 בְּרַחֲמֶֽיךָ הָרַבִּים הֵפַֽרְתָּ[] 
  []
 
 
-Underfull \hbox (badness 4954) in paragraph at lines 1383--1383
+Underfull \hbox (badness 4954) in paragraph at lines 1385--1385
  []\TU/Shlomo(1)/m/n/10 אֶת עֲצָתוֹ וְקִלְקַלְתָּ אֶת[] 
  []
 
 
-Underfull \hbox (badness 3058) in paragraph at lines 1383--1383
+Underfull \hbox (badness 3058) in paragraph at lines 1385--1385
  []\TU/Shlomo(1)/m/n/10 מַחֲשַׁבְתּוֹ וַהֲשֵׁבֽוֹתָ גְּמוּלוֹ[] 
  []
 
 
-Underfull \hbox (badness 3668) in paragraph at lines 1383--1383
+Underfull \hbox (badness 3668) in paragraph at lines 1385--1385
  []\TU/Shlomo(1)/m/n/10 בְּרֹאשׁוֹ וְתָלוּ אוֹתוֹ וְאֶת[] 
  []
 
@@ -3086,32 +3087,32 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [29]
-Underfull \hbox (badness 2401) in paragraph at lines 1387--1387
+Underfull \hbox (badness 2401) in paragraph at lines 1389--1389
  []\TU/Shlomo(1)/m/n/10.95 עָלֵֽינוּ אַף אַתָּה עֲשֵׂה עִמָּֽנוּ כַּאֲשֶׁר[] 
  []
 
 
-Underfull \hbox (badness 1817) in paragraph at lines 1387--1387
+Underfull \hbox (badness 1817) in paragraph at lines 1389--1389
  []\TU/Shlomo(1)/m/n/10.95 הִבְטַחְתָּֽנוּ: הַשְׁקִ֩יפָה֩ מִמְּע֨וֹן קָדְשְׁךָ֜[] 
  []
 
 
-Underfull \hbox (badness 6047) in paragraph at lines 1387--1387
+Underfull \hbox (badness 6047) in paragraph at lines 1389--1389
  []\TU/Shlomo(1)/m/n/10.95 נִשְׁבַּ֨עְתָּ֙ לַֽאֲבֹתֵ֔ינוּ אֶ֛רֶץ זָבַ֥ת חָלָ֖ב[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1387--1387
+Underfull \hbox (badness 10000) in paragraph at lines 1389--1389
  []\TU/Shlomo(1)/m/n/10.95 בִּגְבוּרָה אַתָּה שָׁלוֹם[] 
  []
 
 
-Underfull \hbox (badness 2469) in paragraph at lines 1387--1387
+Underfull \hbox (badness 2469) in paragraph at lines 1389--1389
  []\TU/Shlomo(1)/m/n/10.95 שֶׁתָּשִׂים עָלֵֽינוּ וְעַל כָּל[] 
  []
 
 
-Underfull \hbox (badness 1194) in paragraph at lines 1387--1387
+Underfull \hbox (badness 1194) in paragraph at lines 1389--1389
  []\TU/Shlomo(1)/m/n/10.95 עַמְּךָ בֵּית יִשְׂרָאֵל חַיִּים[] 
  []
 
@@ -3140,7 +3141,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 LaTeX Warning: Marginpar on page 32 moved.
 
 
-Underfull \hbox (badness 2368) in paragraph at lines 1435--1439
+Underfull \hbox (badness 2368) in paragraph at lines 1437--1441
  [][]\TU/Shlomo(1)/bx/n/12 הַטֵּ֨ה[] \TU/Shlomo(1)/m/n/10.95 אֱלֹהַ֥י אָזְנְֿךָ֘
  וּֽשֲׁמָע֒ פְּקַ֣חה עֵינֶ֗יךָ וּרְאֵה֙ שֹֽׁמְֿמֹתֵ֔ינוּ וְהָעִ֕יר[] 
  []
@@ -3178,12 +3179,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [34]
-Underfull \hbox (badness 10000) in paragraph at lines 1492--1492
+Underfull \hbox (badness 10000) in paragraph at lines 1494--1494
  [][] 
  []
 
 
-Overfull \hbox (14.66653pt too wide) in alignment at lines 1498--1560
+Overfull \hbox (14.66653pt too wide) in alignment at lines 1500--1562
  [] [] 
  []
 
@@ -3238,172 +3239,172 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [38]
-Underfull \hbox (badness 10000) in paragraph at lines 1733--1735
+Underfull \hbox (badness 10000) in paragraph at lines 1735--1737
  []\TU/Shlomo(1)/m/n/10 עָלֵָיהָ וִיבָרֲכֶֽהָ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1733--1735
+Underfull \hbox (badness 10000) in paragraph at lines 1735--1737
  []\TU/Shlomo(1)/m/n/10 וִירַפְּֿאֶֽהָ וִיחַזְּֿקֶֽהָ[] 
  []
 
 
-Underfull \hbox (badness 1622) in paragraph at lines 1733--1735
+Underfull \hbox (badness 1622) in paragraph at lines 1735--1737
  []\TU/Shlomo(1)/m/n/10 וִיחַיֶּֽהָ וְיַצִּילֶֽהָ, מִכָּל[] 
  []
 
 
-Underfull \hbox (badness 4739) in paragraph at lines 1733--1735
+Underfull \hbox (badness 4739) in paragraph at lines 1735--1737
  []\TU/Shlomo(1)/m/n/10 צָרָה וְצוּקָה וְיִשְׁלַח[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1733--1735
+Underfull \hbox (badness 10000) in paragraph at lines 1735--1737
  []\TU/Shlomo(1)/m/n/10 לְכָל־אֵבָרָיהָ וְגִידֶֽיהָ[] 
  []
 
 
-Underfull \hbox (badness 2005) in paragraph at lines 1733--1735
+Underfull \hbox (badness 2005) in paragraph at lines 1735--1737
  []\TU/Shlomo(1)/m/n/10 וּלְכָל־ גּוּפָהּ וְנַפְשָׁהּ,[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1733--1735
+Underfull \hbox (badness 10000) in paragraph at lines 1735--1737
  []\TU/Shlomo(1)/m/n/10 וְיָנֽוּחוּ עָלְֶיהָ כָּל־[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1733--1735
+Underfull \hbox (badness 10000) in paragraph at lines 1735--1737
  []\TU/Shlomo(1)/m/n/10 הַבְּֿרָכוׂת, וִיבַטֵּל[] 
  []
 
 
-Underfull \hbox (badness 7415) in paragraph at lines 1733--1735
+Underfull \hbox (badness 7415) in paragraph at lines 1735--1737
  []\TU/Shlomo(1)/m/n/10 מֵעָלֶֽיהָ כָּל־ גְּזֵרוׂת[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1733--1735
+Underfull \hbox (badness 10000) in paragraph at lines 1735--1737
  []\TU/Shlomo(1)/m/n/10 קָשׁוׂת, וִימַלֵּא כָל־[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1733--1735
+Underfull \hbox (badness 10000) in paragraph at lines 1735--1737
  []\TU/Shlomo(1)/m/n/10 מִשְׁאֲלוׂת לִבָּהּ[] 
  []
 
 
-Underfull \hbox (badness 1946) in paragraph at lines 1733--1735
+Underfull \hbox (badness 1946) in paragraph at lines 1735--1737
  []\TU/Shlomo(1)/m/n/10 לְטוׂבָה, וְיַצְמִֽיחַ לָהּ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1736--1738
+Underfull \hbox (badness 10000) in paragraph at lines 1738--1740
  []\TU/Shlomo(1)/m/n/10 עָלֵָיו וִיבָרֲכֵֽהוּ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1736--1738
+Underfull \hbox (badness 10000) in paragraph at lines 1738--1740
  []\TU/Shlomo(1)/m/n/10 וִירַפְּֿאֵֽהוּ וִיחַזְּֿקֵהוּ[] 
  []
 
 
-Underfull \hbox (badness 4739) in paragraph at lines 1736--1738
+Underfull \hbox (badness 4739) in paragraph at lines 1738--1740
  []\TU/Shlomo(1)/m/n/10 צָרָה וְצוּקָה וְיִשְׁלַח[] 
  []
 
 
-Underfull \hbox (badness 3701) in paragraph at lines 1736--1738
+Underfull \hbox (badness 3701) in paragraph at lines 1738--1740
  []\TU/Shlomo(1)/m/n/10 לְכָל־ אֵבָרָיו וְגִידָיו[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1736--1738
+Underfull \hbox (badness 10000) in paragraph at lines 1738--1740
  []\TU/Shlomo(1)/m/n/10 וּלְכָל־ גּוּפוּ וְנַפְשׁוׂ,[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1736--1738
+Underfull \hbox (badness 10000) in paragraph at lines 1738--1740
  []\TU/Shlomo(1)/m/n/10 וְיָנֽוּחוּ עָלָיו כָּל־[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1736--1738
+Underfull \hbox (badness 10000) in paragraph at lines 1738--1740
  []\TU/Shlomo(1)/m/n/10 הַבְּֿרָכוׂת, וִיבַטֵּל[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1736--1738
+Underfull \hbox (badness 10000) in paragraph at lines 1738--1740
  []\TU/Shlomo(1)/m/n/10 מֵעָלָיו כָּל־גְּזֵרוׂת[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1736--1738
+Underfull \hbox (badness 10000) in paragraph at lines 1738--1740
  []\TU/Shlomo(1)/m/n/10 קָשׁוׂת, וִימַלֵּא כָל־[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1736--1738
+Underfull \hbox (badness 10000) in paragraph at lines 1738--1740
  []\TU/Shlomo(1)/m/n/10 וְיַצְמִֽיחַ לוׂ וּלְכָל־[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1736--1738
+Underfull \hbox (badness 10000) in paragraph at lines 1738--1740
  []\TU/Shlomo(1)/m/n/10 יִשְׂרָאֵל יְשׁוּעָה[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1739--1741
+Underfull \hbox (badness 10000) in paragraph at lines 1741--1743
  []\TU/Shlomo(1)/m/n/10 עָלֵָיהֶם וִיבָרֲכְֶם[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1739--1741
+Underfull \hbox (badness 10000) in paragraph at lines 1741--1743
  []\TU/Shlomo(1)/m/n/10 וִירַפְּֿאֶֽם וִיחַזְּֿקֶֽם[] 
  []
 
 
-Underfull \hbox (badness 1776) in paragraph at lines 1739--1741
+Underfull \hbox (badness 1776) in paragraph at lines 1741--1743
  []\TU/Shlomo(1)/m/n/10 וִיחַיֶּֽם וְיַצִּילֶֽם, מִכָּל[] 
  []
 
 
-Underfull \hbox (badness 4739) in paragraph at lines 1739--1741
+Underfull \hbox (badness 4739) in paragraph at lines 1741--1743
  []\TU/Shlomo(1)/m/n/10 צָרָה וְצוּקָה וְיִשְׁלַח[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1739--1741
+Underfull \hbox (badness 10000) in paragraph at lines 1741--1743
  []\TU/Shlomo(1)/m/n/10 לְכָל־ אֵבָרָיהֶם[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1739--1741
+Underfull \hbox (badness 10000) in paragraph at lines 1741--1743
  []\TU/Shlomo(1)/m/n/10 וְגִידֶֽיהֶם וּלְכָל־[] 
  []
 
 
-Underfull \hbox (badness 3679) in paragraph at lines 1739--1741
+Underfull \hbox (badness 3679) in paragraph at lines 1741--1743
  []\TU/Shlomo(1)/m/n/10 גּוּפָם וְנַפְשָׁם, וְיָנֽוּחוּ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1739--1741
+Underfull \hbox (badness 10000) in paragraph at lines 1741--1743
  []\TU/Shlomo(1)/m/n/10 וִיבַטֵּל מֵעָלֶֽיהֶם[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1739--1741
+Underfull \hbox (badness 10000) in paragraph at lines 1741--1743
  []\TU/Shlomo(1)/m/n/10 כָּל־גְּזֵרוׂת קָשׁוׂת,[] 
  []
 
 
-Underfull \hbox (badness 1515) in paragraph at lines 1739--1741
+Underfull \hbox (badness 1515) in paragraph at lines 1741--1743
  []\TU/Shlomo(1)/m/n/10 לְהֶם וּלְכָל־ יִשְׂרָאֵל[] 
  []
 
 
-Underfull \hbox (badness 5147) in paragraph at lines 1739--1741
+Underfull \hbox (badness 5147) in paragraph at lines 1741--1743
  []\TU/Shlomo(1)/m/n/10 יְשׁוּעָה בְּקָרוׂב, וְכֵן[] 
  []
 
@@ -3426,7 +3427,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [40
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1856--1856
+Underfull \hbox (badness 10000) in paragraph at lines 1858--1858
  [][] 
  []
 
@@ -3457,7 +3458,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [42]
-Underfull \hbox (badness 10000) in paragraph at lines 1879--1889
+Underfull \hbox (badness 10000) in paragraph at lines 1881--1891
  [][] 
  []
 
@@ -3498,7 +3499,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [45]
-Underfull \hbox (badness 10000) in paragraph at lines 1963--1963
+Underfull \hbox (badness 10000) in paragraph at lines 1965--1965
  [][] 
  []
 
@@ -3509,12 +3510,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [46]
-Underfull \hbox (badness 10000) in paragraph at lines 1993--2002
+Underfull \hbox (badness 10000) in paragraph at lines 1995--2004
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2009--2035
+Underfull \hbox (badness 10000) in paragraph at lines 2011--2037
  [][] 
  []
 
@@ -3525,7 +3526,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [47]
-Underfull \hbox (badness 10000) in paragraph at lines 2041--2058
+Underfull \hbox (badness 10000) in paragraph at lines 2043--2060
  [][] 
  []
 
@@ -3536,7 +3537,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [48]
-Underfull \hbox (badness 10000) in paragraph at lines 2063--2069
+Underfull \hbox (badness 10000) in paragraph at lines 2065--2071
  [][] 
  []
 
@@ -3554,13 +3555,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [50]
-Underfull \hbox (badness 2662) in paragraph at lines 2089--2093
+Underfull \hbox (badness 2662) in paragraph at lines 2091--2095
  []\TU/Shlomo(1)/m/n/10 בַּל־עָלֶֽיךָ׃ לִ֭קְדוֹשִׁים אֲשֶׁר־בָּאָ֣רֶץ הֵ֑מָּה וְ֝אַדִּ
 ירֵ֗י כָּל־חֶפְצִי־בָֽם׃ יִרְבּ֥וּ[] 
  []
 
 
-Underfull \hbox (badness 2173) in paragraph at lines 2089--2093
+Underfull \hbox (badness 2173) in paragraph at lines 2091--2095
  []\TU/Shlomo(1)/m/n/10 עַצְּֿבוֹתָם֘ אַחֵ֢ר מָ֫הָ֥רוּ בַּל־אַסִּ֣יךְ נִסְכֵּיהֶ֣ם מִ
 דָּ֑ם וּבַל־אֶשָּׂ֥א אֶת־שְׁ֝מוֹתָ֗ם[] 
  []
@@ -3574,17 +3575,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [51
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 2284--2284
+Underfull \hbox (badness 10000) in paragraph at lines 2286--2286
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2284--2284
+Underfull \hbox (badness 10000) in paragraph at lines 2286--2286
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2284--2284
+Underfull \hbox (badness 10000) in paragraph at lines 2286--2286
  [][] 
  []
 
@@ -3599,12 +3600,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [52]
-Underfull \hbox (badness 10000) in paragraph at lines 2284--2284
+Underfull \hbox (badness 10000) in paragraph at lines 2286--2286
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2284--2284
+Underfull \hbox (badness 10000) in paragraph at lines 2286--2286
  [][] 
  []
 
@@ -3619,17 +3620,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [53]
-Underfull \hbox (badness 10000) in paragraph at lines 2284--2284
+Underfull \hbox (badness 10000) in paragraph at lines 2286--2286
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2284--2284
+Underfull \hbox (badness 10000) in paragraph at lines 2286--2286
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2284--2284
+Underfull \hbox (badness 10000) in paragraph at lines 2286--2286
  [][] 
  []
 
@@ -3650,12 +3651,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [55]
-Underfull \hbox (badness 10000) in paragraph at lines 2284--2284
+Underfull \hbox (badness 10000) in paragraph at lines 2286--2286
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2284--2284
+Underfull \hbox (badness 10000) in paragraph at lines 2286--2286
  [][] 
  []
 
@@ -3673,7 +3674,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [57]
-Overfull \hbox (16.02376pt too wide) in paragraph at lines 2329--2354
+Overfull \hbox (16.02376pt too wide) in paragraph at lines 2331--2356
  [][][] [] 
  []
 
@@ -3690,43 +3691,43 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [59]
-Underfull \hbox (badness 5711) in paragraph at lines 2379--2379
+Underfull \hbox (badness 5711) in paragraph at lines 2381--2381
  []\TU/Shlomo(1)/m/n/10 יְיָ אֱלֹהֵֽינוּ וֵאלֹהֵי אֲבוֹתֵֽינוּ[] 
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 2379--2379
+Underfull \hbox (badness 2119) in paragraph at lines 2381--2381
  []\TU/Shlomo(1)/m/n/10 בְּרֵאשִׁית: בְּרָכוֹת וְהוֹדָאוֹת[] 
  []
 
 
-Underfull \hbox (badness 3291) in paragraph at lines 2379--2379
+Underfull \hbox (badness 3291) in paragraph at lines 2381--2381
  []\TU/Shlomo(1)/m/n/10 לְשִׁמְךָ הַגָּדוֹל וְהַקָּדוֹשׁ עַל[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2379--2379
+Underfull \hbox (badness 10000) in paragraph at lines 2381--2381
  []\TU/Shlomo(1)/m/n/10 וּתְקַיְּֿמֵֽנוּ וְתֶאֱסוֹף גָּלֻיּוֹתֵֽינוּ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2379--2379
+Underfull \hbox (badness 10000) in paragraph at lines 2381--2381
  []\TU/Shlomo(1)/m/n/10 וְלַעֲשׂוֹת רְצֹנֶֽךָ וּלְעָבְדְּֿךָ[] 
  []
 
 
-Underfull \hbox (badness 1571) in paragraph at lines 2379--2379
+Underfull \hbox (badness 1571) in paragraph at lines 2381--2381
  [][]\TU/Shlomo(1)/bx/n/12 מוֹדִים \TU/Shlomo(1)/m/n/10.95 אֲנַֽחְנוּ לָךְ שָׁאַתָּ
 ה הוּא יְיָ[] 
  []
 
 
-Underfull \hbox (badness 4913) in paragraph at lines 2379--2379
+Underfull \hbox (badness 4913) in paragraph at lines 2381--2381
  []\TU/Shlomo(1)/m/n/10.95 הַפְּֿקוּדוֹת לָךְ וְעַל נִסֶּֽיךָ שֶׁבְּֿכָל[] 
  []
 
 
-Underfull \hbox (badness 3590) in paragraph at lines 2379--2379
+Underfull \hbox (badness 3590) in paragraph at lines 2381--2381
  []\TU/Shlomo(1)/m/n/10.95 שֶׁבְּֿכָל עֵת עֶֽרֶב וָבֹֽקֶר וְצָהֳרָֽיִם:[] 
  []
 
@@ -3739,32 +3740,32 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [60
 
 ]
-Underfull \hbox (badness 2401) in paragraph at lines 2399--2399
+Underfull \hbox (badness 2401) in paragraph at lines 2401--2401
  []\TU/Shlomo(1)/m/n/10.95 עָלֵֽינוּ אַף אַתָּה עֲשֵׂה עִמָּֽנוּ כַּאֲשֶׁר[] 
  []
 
 
-Underfull \hbox (badness 1817) in paragraph at lines 2399--2399
+Underfull \hbox (badness 1817) in paragraph at lines 2401--2401
  []\TU/Shlomo(1)/m/n/10.95 הִבְטַחְתָּֽנוּ: הַשְׁקִ֩יפָה֩ מִמְּע֨וֹן קָדְשְׁךָ֜[] 
  []
 
 
-Underfull \hbox (badness 6047) in paragraph at lines 2399--2399
+Underfull \hbox (badness 6047) in paragraph at lines 2401--2401
  []\TU/Shlomo(1)/m/n/10.95 נִשְׁבַּ֨עְתָּ֙ לַֽאֲבֹתֵ֔ינוּ אֶ֛רֶץ זָבַ֥ת חָלָ֖ב[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2399--2399
+Underfull \hbox (badness 10000) in paragraph at lines 2401--2401
  []\TU/Shlomo(1)/m/n/10.95 בִּגְבוּרָה אַתָּה שָׁלוֹם[] 
  []
 
 
-Underfull \hbox (badness 2469) in paragraph at lines 2399--2399
+Underfull \hbox (badness 2469) in paragraph at lines 2401--2401
  []\TU/Shlomo(1)/m/n/10.95 שֶׁתָּשִׂים עָלֵֽינוּ וְעַל כָּל[] 
  []
 
 
-Underfull \hbox (badness 1194) in paragraph at lines 2399--2399
+Underfull \hbox (badness 1194) in paragraph at lines 2401--2401
  []\TU/Shlomo(1)/m/n/10.95 עַמְּךָ בֵּית יִשְׂרָאֵל חַיִּים[] 
  []
 
@@ -3810,6 +3811,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [66
 
 ]
+Overfull \hbox (16.02376pt too wide) in paragraph at lines 2522--2522
+ [][][] [] 
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -3820,10 +3826,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [67]
-Overfull \hbox (16.02376pt too wide) in paragraph at lines 2520--2520
- [][][] [] 
- []
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 12.84935pt.
@@ -3847,27 +3849,27 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [70]
-Underfull \hbox (badness 5711) in paragraph at lines 2580--2580
+Underfull \hbox (badness 5711) in paragraph at lines 2582--2582
  []\TU/Shlomo(1)/m/n/10 יְיָ אֱלֹהֵֽינוּ וֵאלֹהֵי אֲבוֹתֵֽינוּ[] 
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 2580--2580
+Underfull \hbox (badness 2119) in paragraph at lines 2582--2582
  []\TU/Shlomo(1)/m/n/10 בְּרֵאשִׁית: בְּרָכוֹת וְהוֹדָאוֹת[] 
  []
 
 
-Underfull \hbox (badness 3291) in paragraph at lines 2580--2580
+Underfull \hbox (badness 3291) in paragraph at lines 2582--2582
  []\TU/Shlomo(1)/m/n/10 לְשִׁמְךָ הַגָּדוֹל וְהַקָּדוֹשׁ עַל[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2580--2580
+Underfull \hbox (badness 10000) in paragraph at lines 2582--2582
  []\TU/Shlomo(1)/m/n/10 וּתְקַיְּֿמֵֽנוּ וְתֶאֱסוֹף גָּלֻיּוֹתֵֽינוּ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2580--2580
+Underfull \hbox (badness 10000) in paragraph at lines 2582--2582
  []\TU/Shlomo(1)/m/n/10 וְלַעֲשׂוֹת רְצֹנֶֽךָ וּלְעָבְדְּֿךָ[] 
  []
 
@@ -3878,18 +3880,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \hbox (badness 1571) in paragraph at lines 2580--2580
+Underfull \hbox (badness 1571) in paragraph at lines 2582--2582
  [][]\TU/Shlomo(1)/bx/n/12 מוֹדִים \TU/Shlomo(1)/m/n/10.95 אֲנַֽחְנוּ לָךְ שָׁאַתָּ
 ה הוּא יְיָ[] 
  []
 
 
-Underfull \hbox (badness 4913) in paragraph at lines 2580--2580
+Underfull \hbox (badness 4913) in paragraph at lines 2582--2582
  []\TU/Shlomo(1)/m/n/10.95 הַפְּֿקוּדוֹת לָךְ וְעַל נִסֶּֽיךָ שֶׁבְּֿכָל[] 
  []
 
 
-Underfull \hbox (badness 3590) in paragraph at lines 2580--2580
+Underfull \hbox (badness 3590) in paragraph at lines 2582--2582
  []\TU/Shlomo(1)/m/n/10.95 שֶׁבְּֿכָל עֵת עֶֽרֶב וָבֹֽקֶר וְצָהֳרָֽיִם:[] 
  []
 
@@ -3914,78 +3916,78 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [72]
-Underfull \hbox (badness 1817) in paragraph at lines 2584--2584
+Underfull \hbox (badness 1817) in paragraph at lines 2586--2586
  [][]\TU/FreeSans(1)/m/n/8 בחנוכה:  \TU/Shlomo(1)/m/n/10 בִּימֵי מַתִּתְיָֽהוּ בֶּן
  יוֹחָנָן כֹּהֵן[] 
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 2584--2584
+Underfull \hbox (badness 1005) in paragraph at lines 2586--2586
  []\TU/Shlomo(1)/m/n/10 גָּדוֹל חַשְׁמֹנַי וּבָנָיו כְּשֶׁעָמְֿדָה מַלְכוּת יָוָן[] 
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 2584--2584
+Underfull \hbox (badness 1107) in paragraph at lines 2586--2586
  []\TU/Shlomo(1)/m/n/10 מָסַֽרְתָּ גִּבּוֹרִים בְּיַד חַלָּשִׁים וְרַבִּים בְּיַד[] 
  []
 
 
-Underfull \hbox (badness 4096) in paragraph at lines 2584--2584
+Underfull \hbox (badness 4096) in paragraph at lines 2586--2586
  [][]\TU/FreeSans(1)/m/n/8 בפורים:  \TU/Shlomo(1)/m/n/10 בִּימֵי מָרְדֳּכַי[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2584--2584
+Underfull \hbox (badness 10000) in paragraph at lines 2586--2586
  []\TU/Shlomo(1)/m/n/10 וְִאֶסְתֵּר בְּשׁוּשַׁן הַבִּירָה[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2584--2584
+Underfull \hbox (badness 10000) in paragraph at lines 2586--2586
  []\TU/Shlomo(1)/m/n/10 כְּשֶׁעָמַד עֲלֵיהֶם הָמָן[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2584--2584
+Underfull \hbox (badness 10000) in paragraph at lines 2586--2586
  []\TU/Shlomo(1)/m/n/10 הָרָשָׁע בִּקֵּשׁ   \TU/FreeSans(1)/m/n/6 (אסתר ג)[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2584--2584
+Underfull \hbox (badness 10000) in paragraph at lines 2586--2586
  []\TU/Shlomo(1)/m/n/10 לְהַשְׁמִ֡יד לַֽהֲרֹ֣ג וּלְאַבֵּ֣ד[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2584--2584
+Underfull \hbox (badness 10000) in paragraph at lines 2586--2586
  []\TU/Shlomo(1)/m/n/10 אֶת־כָּל־הַ֠יְּֿהוּדִים מִנַּ֨עַר[] 
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 2584--2584
+Underfull \hbox (badness 1077) in paragraph at lines 2586--2586
  []\TU/Shlomo(1)/m/n/10 וְעַד־זָקֵ֨ן טַ֤ף וְנָשִׁים֙ בְּי֣וֹם[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2584--2584
+Underfull \hbox (badness 10000) in paragraph at lines 2586--2586
  []\TU/Shlomo(1)/m/n/10 שְׁנֵים־עָשָׂ֖ר הוּא־חֹ֣דֶשׁ[] 
  []
 
 
-Underfull \hbox (badness 4673) in paragraph at lines 2584--2584
+Underfull \hbox (badness 4673) in paragraph at lines 2586--2586
  []\TU/Shlomo(1)/m/n/10 בְּרַחֲמֶֽיךָ הָרַבִּים הֵפַֽרְתָּ[] 
  []
 
 
-Underfull \hbox (badness 4954) in paragraph at lines 2584--2584
+Underfull \hbox (badness 4954) in paragraph at lines 2586--2586
  []\TU/Shlomo(1)/m/n/10 אֶת עֲצָתוֹ וְקִלְקַלְתָּ אֶת[] 
  []
 
 
-Underfull \hbox (badness 3058) in paragraph at lines 2584--2584
+Underfull \hbox (badness 3058) in paragraph at lines 2586--2586
  []\TU/Shlomo(1)/m/n/10 מַחֲשַׁבְתּוֹ וַהֲשֵׁבֽוֹתָ גְּמוּלוֹ[] 
  []
 
 
-Underfull \hbox (badness 3668) in paragraph at lines 2584--2584
+Underfull \hbox (badness 3668) in paragraph at lines 2586--2586
  []\TU/Shlomo(1)/m/n/10 בְּרֹאשׁוֹ וְתָלוּ אוֹתוֹ וְאֶת[] 
  []
 
@@ -3998,32 +4000,32 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [73
 
 ]
-Underfull \hbox (badness 2401) in paragraph at lines 2590--2590
+Underfull \hbox (badness 2401) in paragraph at lines 2592--2592
  []\TU/Shlomo(1)/m/n/10.95 עָלֵֽינוּ אַף אַתָּה עֲשֵׂה עִמָּֽנוּ כַּאֲשֶׁר[] 
  []
 
 
-Underfull \hbox (badness 1817) in paragraph at lines 2590--2590
+Underfull \hbox (badness 1817) in paragraph at lines 2592--2592
  []\TU/Shlomo(1)/m/n/10.95 הִבְטַחְתָּֽנוּ: הַשְׁקִ֩יפָה֩ מִמְּע֨וֹן קָדְשְׁךָ֜[] 
  []
 
 
-Underfull \hbox (badness 6047) in paragraph at lines 2590--2590
+Underfull \hbox (badness 6047) in paragraph at lines 2592--2592
  []\TU/Shlomo(1)/m/n/10.95 נִשְׁבַּ֨עְתָּ֙ לַֽאֲבֹתֵ֔ינוּ אֶ֛רֶץ זָבַ֥ת חָלָ֖ב[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2590--2590
+Underfull \hbox (badness 10000) in paragraph at lines 2592--2592
  []\TU/Shlomo(1)/m/n/10.95 בִּגְבוּרָה אַתָּה שָׁלוֹם[] 
  []
 
 
-Underfull \hbox (badness 2469) in paragraph at lines 2590--2590
+Underfull \hbox (badness 2469) in paragraph at lines 2592--2592
  []\TU/Shlomo(1)/m/n/10.95 שֶׁתָּשִׂים עָלֵֽינוּ וְעַל כָּל[] 
  []
 
 
-Underfull \hbox (badness 1194) in paragraph at lines 2590--2590
+Underfull \hbox (badness 1194) in paragraph at lines 2592--2592
  []\TU/Shlomo(1)/m/n/10.95 עַמְּךָ בֵּית יִשְׂרָאֵל חַיִּים[] 
  []
 
@@ -4036,32 +4038,32 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [74
 
 ]
-Underfull \hbox (badness 7012) in paragraph at lines 2600--2602
+Underfull \hbox (badness 7012) in paragraph at lines 2602--2604
  [][]\TU/Shlomo(1)/bx/n/12 שָׁלוֹם \TU/Shlomo(1)/m/n/10.95 רָב עַל[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2600--2602
+Underfull \hbox (badness 10000) in paragraph at lines 2602--2604
  []\TU/Shlomo(1)/m/n/10.95 יִשְׂרָאֵל עַמְּֿךָ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2600--2602
+Underfull \hbox (badness 10000) in paragraph at lines 2602--2604
  []\TU/Shlomo(1)/m/n/10.95 תָּשִׂים לְעוֹלָם[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2600--2602
+Underfull \hbox (badness 10000) in paragraph at lines 2602--2604
  []\TU/Shlomo(1)/m/n/10.95 כִּי אַתָּה הוּא[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2614--2615
+Underfull \hbox (badness 10000) in paragraph at lines 2616--2617
  [][]\TU/Shlomo(1)/m/n/10.95 בָּרוּךְ אַתָּה יְיָ[] 
  []
 
 
-Underfull \hbox (badness 4353) in paragraph at lines 2614--2615
+Underfull \hbox (badness 4353) in paragraph at lines 2616--2617
  []\TU/Shlomo(1)/m/n/10.95 הַמְֿבָרֵךְ אֶת עַמּוֹ[] 
  []
 
@@ -4074,7 +4076,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [75
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 2665--2665
+Underfull \hbox (badness 10000) in paragraph at lines 2667--2667
  [][] 
  []
 
@@ -4130,7 +4132,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [79]
-Underfull \hbox (badness 6510) in paragraph at lines 2706--2706
+Underfull \hbox (badness 6510) in paragraph at lines 2708--2708
  [][][]\TU/Shlomo(1)/m/n/9 יִתְבָּרַךְ וְיִשְׁתַּבַּח וְיִתְפָּאַר[] 
  []
 
@@ -4213,78 +4215,78 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [86]
-Underfull \hbox (badness 1817) in paragraph at lines 2847--2847
+Underfull \hbox (badness 1817) in paragraph at lines 2849--2849
  [][]\TU/FreeSans(1)/m/n/8 בחנוכה:  \TU/Shlomo(1)/m/n/10 בִּימֵי מַתִּתְיָֽהוּ בֶּן
  יוֹחָנָן כֹּהֵן[] 
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 2847--2847
+Underfull \hbox (badness 1005) in paragraph at lines 2849--2849
  []\TU/Shlomo(1)/m/n/10 גָּדוֹל חַשְׁמֹנַי וּבָנָיו כְּשֶׁעָמְֿדָה מַלְכוּת יָוָן[] 
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 2847--2847
+Underfull \hbox (badness 1107) in paragraph at lines 2849--2849
  []\TU/Shlomo(1)/m/n/10 מָסַֽרְתָּ גִּבּוֹרִים בְּיַד חַלָּשִׁים וְרַבִּים בְּיַד[] 
  []
 
 
-Underfull \hbox (badness 4096) in paragraph at lines 2847--2847
+Underfull \hbox (badness 4096) in paragraph at lines 2849--2849
  [][]\TU/FreeSans(1)/m/n/8 בפורים:  \TU/Shlomo(1)/m/n/10 בִּימֵי מָרְדֳּכַי[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2847--2847
+Underfull \hbox (badness 10000) in paragraph at lines 2849--2849
  []\TU/Shlomo(1)/m/n/10 וְִאֶסְתֵּר בְּשׁוּשַׁן הַבִּירָה[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2847--2847
+Underfull \hbox (badness 10000) in paragraph at lines 2849--2849
  []\TU/Shlomo(1)/m/n/10 כְּשֶׁעָמַד עֲלֵיהֶם הָמָן[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2847--2847
+Underfull \hbox (badness 10000) in paragraph at lines 2849--2849
  []\TU/Shlomo(1)/m/n/10 הָרָשָׁע בִּקֵּשׁ   \TU/FreeSans(1)/m/n/6 (אסתר ג)[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2847--2847
+Underfull \hbox (badness 10000) in paragraph at lines 2849--2849
  []\TU/Shlomo(1)/m/n/10 לְהַשְׁמִ֡יד לַֽהֲרֹ֣ג וּלְאַבֵּ֣ד[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2847--2847
+Underfull \hbox (badness 10000) in paragraph at lines 2849--2849
  []\TU/Shlomo(1)/m/n/10 אֶת־כָּל־הַ֠יְּֿהוּדִים מִנַּ֨עַר[] 
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 2847--2847
+Underfull \hbox (badness 1077) in paragraph at lines 2849--2849
  []\TU/Shlomo(1)/m/n/10 וְעַד־זָקֵ֨ן טַ֤ף וְנָשִׁים֙ בְּי֣וֹם[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2847--2847
+Underfull \hbox (badness 10000) in paragraph at lines 2849--2849
  []\TU/Shlomo(1)/m/n/10 שְׁנֵים־עָשָׂ֖ר הוּא־חֹ֣דֶשׁ[] 
  []
 
 
-Underfull \hbox (badness 4673) in paragraph at lines 2847--2847
+Underfull \hbox (badness 4673) in paragraph at lines 2849--2849
  []\TU/Shlomo(1)/m/n/10 בְּרַחֲמֶֽיךָ הָרַבִּים הֵפַֽרְתָּ[] 
  []
 
 
-Underfull \hbox (badness 4954) in paragraph at lines 2847--2847
+Underfull \hbox (badness 4954) in paragraph at lines 2849--2849
  []\TU/Shlomo(1)/m/n/10 אֶת עֲצָתוֹ וְקִלְקַלְתָּ אֶת[] 
  []
 
 
-Underfull \hbox (badness 3058) in paragraph at lines 2847--2847
+Underfull \hbox (badness 3058) in paragraph at lines 2849--2849
  []\TU/Shlomo(1)/m/n/10 מַחֲשַׁבְתּוֹ וַהֲשֵׁבֽוֹתָ גְּמוּלוֹ[] 
  []
 
 
-Underfull \hbox (badness 3668) in paragraph at lines 2847--2847
+Underfull \hbox (badness 3668) in paragraph at lines 2849--2849
  []\TU/Shlomo(1)/m/n/10 בְּרֹאשׁוֹ וְתָלוּ אוֹתוֹ וְאֶת[] 
  []
 
@@ -4297,12 +4299,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [87
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 2863--2864
+Underfull \hbox (badness 10000) in paragraph at lines 2865--2866
  [][]\TU/Shlomo(1)/m/n/10.95 בָּרוּךְ אַתָּה יְיָ[] 
  []
 
 
-Underfull \hbox (badness 4353) in paragraph at lines 2863--2864
+Underfull \hbox (badness 4353) in paragraph at lines 2865--2866
  []\TU/Shlomo(1)/m/n/10.95 הַמְֿבָרֵךְ אֶת עַמּוֹ[] 
  []
 
@@ -4327,7 +4329,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [89]
-Underfull \hbox (badness 10000) in paragraph at lines 2890--2891
+Underfull \hbox (badness 10000) in paragraph at lines 2892--2893
  [][] 
  []
 
@@ -4340,7 +4342,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [90
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 2897--2898
+Underfull \hbox (badness 10000) in paragraph at lines 2899--2900
  [][] 
  []
 
@@ -4382,7 +4384,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [97]
-Underfull \hbox (badness 6510) in paragraph at lines 3213--3213
+Underfull \hbox (badness 6510) in paragraph at lines 3215--3215
  [][][]\TU/Shlomo(1)/m/n/9 יִתְבָּרַךְ וְיִשְׁתַּבַּח וְיִתְפָּאַר[] 
  []
 
@@ -4422,7 +4424,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [101]
-Underfull \hbox (badness 1297) in paragraph at lines 3298--3300
+Underfull \hbox (badness 1297) in paragraph at lines 3300--3302
  [][]\TU/Shlomo(1)/bx/n/12 וַיְכֻלּ֛וּ[] \TU/Shlomo(1)/m/n/10.95 הַשָּׁמַ֥יִם וְהָא
 ָ֖רֶץ וְכָל־צְבָאָֽם׃ וַיְכַ֤ל אֱלֹהִים֙ בַּיּ֣וֹם הַשְּֿׁבִיעִ֔י[] 
  []
@@ -4448,12 +4450,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [103]
-Underfull \hbox (badness 10000) in paragraph at lines 3329--3330
+Underfull \hbox (badness 10000) in paragraph at lines 3331--3332
  [][]\TU/Shlomo(1)/m/n/10.95 בָּרוּךְ אַתָּה יְיָ[] 
  []
 
 
-Underfull \hbox (badness 4353) in paragraph at lines 3329--3330
+Underfull \hbox (badness 4353) in paragraph at lines 3331--3332
  []\TU/Shlomo(1)/m/n/10.95 הַמְֿבָרֵךְ אֶת עַמּוֹ[] 
  []
 
@@ -4471,7 +4473,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [104]
-Underfull \hbox (badness 1297) in paragraph at lines 3337--3340
+Underfull \hbox (badness 1297) in paragraph at lines 3339--3342
  []\TU/Shlomo(1)/bx/n/12 וַיְכֻלּ֛וּ []\TU/Shlomo(1)/bx/n/10.95 הַשָּׁמַ֥יִם וְהָאָ
 ֖רֶץ וְכָל־צְבָאָֽם׃ וַיְכַ֤ל אֱלֹהִים֙ בַּיּ֣וֹם הַשְּֿׁבִיעִ֔י[] 
  []
@@ -4481,7 +4483,7 @@ t;" at 8.0pt
  -> ./fonts/ShlomoBold.ttf
 Requested font "FreeSans/B/OT:script=latn;language=DFLT;mapping=tex-text;" at 8
 .0pt
- -> 0hp0^^U
+ -> 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -4513,7 +4515,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [107]
-Underfull \hbox (badness 10000) in paragraph at lines 3407--3421
+Underfull \hbox (badness 10000) in paragraph at lines 3409--3423
  [][] 
  []
 
@@ -4528,7 +4530,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [108]
-Underfull \hbox (badness 10000) in paragraph at lines 3424--3425
+Underfull \hbox (badness 10000) in paragraph at lines 3426--3427
  [][] 
  []
 
@@ -4541,7 +4543,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [109] [110
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 3471--3494
+Underfull \hbox (badness 10000) in paragraph at lines 3473--3496
  [][] 
  []
 
@@ -4565,7 +4567,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [112]
-Overfull \hbox (1.76985pt too wide) in paragraph at lines 3539--3554
+Overfull \hbox (1.76985pt too wide) in paragraph at lines 3541--3556
  [][] [] 
  []
 
@@ -4595,12 +4597,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 LaTeX Warning: Marginpar on page 117 moved.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3701--3723
+Underfull \hbox (badness 10000) in paragraph at lines 3703--3725
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3727--3751
+Underfull \hbox (badness 10000) in paragraph at lines 3729--3753
  [][] 
  []
 
@@ -4611,7 +4613,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [117]
-Underfull \hbox (badness 10000) in paragraph at lines 3754--3772
+Underfull \hbox (badness 10000) in paragraph at lines 3756--3774
  [][] 
  []
 
@@ -4622,7 +4624,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [118]
-Underfull \hbox (badness 10000) in paragraph at lines 3774--3793
+Underfull \hbox (badness 10000) in paragraph at lines 3776--3795
  [][] 
  []
 
@@ -4637,7 +4639,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [119]
-Underfull \hbox (badness 10000) in paragraph at lines 3794--3816
+Underfull \hbox (badness 10000) in paragraph at lines 3796--3818
  [][] 
  []
 
@@ -4652,7 +4654,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [120]
-Underfull \hbox (badness 10000) in paragraph at lines 3818--3845
+Underfull \hbox (badness 10000) in paragraph at lines 3820--3847
  [][] 
  []
 
@@ -4667,7 +4669,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [121]
-Underfull \hbox (badness 10000) in paragraph at lines 3848--3871
+Underfull \hbox (badness 10000) in paragraph at lines 3850--3873
  [][] 
  []
 
@@ -4682,12 +4684,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [122]
-Underfull \hbox (badness 10000) in paragraph at lines 3873--3889
+Underfull \hbox (badness 10000) in paragraph at lines 3875--3891
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3892--3898
+Underfull \hbox (badness 10000) in paragraph at lines 3894--3900
  [][] 
  []
 
@@ -4742,7 +4744,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [125
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 3937--3948
+Underfull \hbox (badness 10000) in paragraph at lines 3939--3950
  [][] 
  []
 
@@ -4755,12 +4757,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [126
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 3974--3989
+Underfull \hbox (badness 10000) in paragraph at lines 3976--3991
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3990--4000
+Underfull \hbox (badness 10000) in paragraph at lines 3992--4002
  [][] 
  []
 
@@ -4775,7 +4777,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [127]
-Underfull \hbox (badness 10000) in paragraph at lines 4002--4011
+Underfull \hbox (badness 10000) in paragraph at lines 4004--4013
  [][] 
  []
 
@@ -4820,7 +4822,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [131]
-Underfull \hbox (badness 6510) in paragraph at lines 4125--4125
+Underfull \hbox (badness 6510) in paragraph at lines 4127--4127
  [][]\TU/Shlomo(1)/m/n/9 יִתְבָּרַךְ וְיִשְׁתַּבַּח וְיִתְפָּאַר[] 
  []
 
@@ -4852,7 +4854,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [134]
-Underfull \hbox (badness 1546) in paragraph at lines 4186--4187
+Underfull \hbox (badness 1546) in paragraph at lines 4188--4189
  []\TU/Shlomo(1)/m/n/10.95 לְהָבִין וּלְהַשְׂכִּיל לִשְׁמֹֽעַ לִלְמֹד וּלְלַמֵּד לִשְׁ
 מֹר וְלַעֲשׂוֹת וּלְקַיֵּם[] 
  []
@@ -4875,42 +4877,42 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [136]
-Underfull \hbox (badness 3525) in paragraph at lines 4202--4208
+Underfull \hbox (badness 3525) in paragraph at lines 4204--4210
  []\TU/Shlomo(1)/m/n/10.95 וְיָשָׁר וְנֶאֱמָן וְטוֹב וְיָפֶה[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4202--4208
+Underfull \hbox (badness 10000) in paragraph at lines 4204--4210
  []\TU/Shlomo(1)/m/n/10.95 וְעָלֵינוּ עַל בָּנֵֽינוּ וְעַל[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4202--4208
+Underfull \hbox (badness 10000) in paragraph at lines 4204--4210
  []\TU/Shlomo(1)/m/n/10.95 עַל הָרִאשׁוֹנִים וְעַל[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4202--4208
+Underfull \hbox (badness 10000) in paragraph at lines 4204--4210
  []\TU/Shlomo(1)/m/n/10.95 הָאַחֲרוֹנִים לְעוֹלָם וָעֶד[] 
  []
 
 
-Underfull \hbox (badness 3354) in paragraph at lines 4202--4208
+Underfull \hbox (badness 3354) in paragraph at lines 4204--4210
  []\TU/Shlomo(1)/m/n/10.95 חֹק וְלֹא יַעֲבוֹר: אֱמֶת[] 
  []
 
 
-Underfull \hbox (badness 6396) in paragraph at lines 4202--4208
+Underfull \hbox (badness 6396) in paragraph at lines 4204--4210
  []\TU/Shlomo(1)/m/n/10.95 שֶׁאַתָּה הוּא יְיָ אֱלֹהֵֽינוּ[] 
  []
 
 
-Underfull \hbox (badness 8132) in paragraph at lines 4202--4208
+Underfull \hbox (badness 8132) in paragraph at lines 4204--4210
  []\TU/Shlomo(1)/m/n/10.95 וֵאלֹהֵי אֲבוֹתֵֽינוּ לְעוֹלָם[] 
  []
 
 
-Underfull \hbox (badness 1789) in paragraph at lines 4202--4208
+Underfull \hbox (badness 1789) in paragraph at lines 4204--4210
  []\TU/Shlomo(1)/m/n/10.95 וָעֶד: אַתָּה הוּא מַלְכֵּֽנוּ[] 
  []
 
@@ -4921,28 +4923,28 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \hbox (badness 2310) in paragraph at lines 4211--4211
+Underfull \hbox (badness 2310) in paragraph at lines 4213--4213
  []\TU/Shlomo(1)/m/n/10.95 וְאָהוּב וְחָבִיב וְנֶחְמָד וְנָעִים וְנוֹרָא[] 
  []
 
 
-Underfull \hbox (badness 4291) in paragraph at lines 4211--4211
+Underfull \hbox (badness 4291) in paragraph at lines 4213--4213
  []\TU/Shlomo(1)/m/n/10.95 וְאַדִּיר וּמְתֻקָּן וּמְקֻבָּל וְטוֹב וְיָפֶה[] 
  []
 
 
-Underfull \hbox (badness 1127) in paragraph at lines 4211--4211
+Underfull \hbox (badness 1127) in paragraph at lines 4213--4213
  []\TU/Shlomo(1)/m/n/10.95 וְכִסְאוֹ נָכוֹן וּמַלְכוּתוֹ וֶאֱמוּנָתוֹ לָעַד[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4211--4211
+Underfull \hbox (badness 10000) in paragraph at lines 4213--4213
  []\U/OrnementsADF/m/n/10.95 ^^N \TU/Shlomo(1)/m/n/10.95 עַל־אֲבוֹתֵֽינוּ וְעָלֵֽ
 ינוּ עַל־בָּנֵֽינוּ[] 
  []
 
 
-Underfull \hbox (badness 1924) in paragraph at lines 4211--4211
+Underfull \hbox (badness 1924) in paragraph at lines 4213--4213
  []\TU/Shlomo(1)/m/n/10.95 וְעַל־דּוֹרוֹתֵֽינוּ וְעַל כָּל־דּוֹרוֹת זֶֽרַע[] 
  []
 
@@ -4979,7 +4981,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [139
 
 ]
-Overfull \hbox (0.21373pt too wide) in alignment at lines 4231--4257
+Overfull \hbox (0.21373pt too wide) in alignment at lines 4233--4259
  [] [] 
  []
 
@@ -5002,43 +5004,43 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [141
 
 ]
-Underfull \hbox (badness 5711) in paragraph at lines 4284--4284
+Underfull \hbox (badness 5711) in paragraph at lines 4286--4286
  []\TU/Shlomo(1)/m/n/10 יְיָ אֱלֹהֵֽינוּ וֵאלֹהֵי אֲבוֹתֵֽינוּ[] 
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 4284--4284
+Underfull \hbox (badness 2119) in paragraph at lines 4286--4286
  []\TU/Shlomo(1)/m/n/10 בְּרֵאשִׁית: בְּרָכוֹת וְהוֹדָאוֹת[] 
  []
 
 
-Underfull \hbox (badness 3291) in paragraph at lines 4284--4284
+Underfull \hbox (badness 3291) in paragraph at lines 4286--4286
  []\TU/Shlomo(1)/m/n/10 לְשִׁמְךָ הַגָּדוֹל וְהַקָּדוֹשׁ עַל[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4284--4284
+Underfull \hbox (badness 10000) in paragraph at lines 4286--4286
  []\TU/Shlomo(1)/m/n/10 וּתְקַיְּֿמֵֽנוּ וְתֶאֱסוֹף גָּלֻיּוֹתֵֽינוּ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4284--4284
+Underfull \hbox (badness 10000) in paragraph at lines 4286--4286
  []\TU/Shlomo(1)/m/n/10 וְלַעֲשׂוֹת רְצֹנֶֽךָ וּלְעָבְדְּֿךָ[] 
  []
 
 
-Underfull \hbox (badness 1571) in paragraph at lines 4284--4284
+Underfull \hbox (badness 1571) in paragraph at lines 4286--4286
  [][]\TU/Shlomo(1)/bx/n/12 מוֹדִים \TU/Shlomo(1)/m/n/10.95 אֲנַֽחְנוּ לָךְ שָׁאַתָּ
 ה הוּא יְיָ[] 
  []
 
 
-Underfull \hbox (badness 4913) in paragraph at lines 4284--4284
+Underfull \hbox (badness 4913) in paragraph at lines 4286--4286
  []\TU/Shlomo(1)/m/n/10.95 הַפְּֿקוּדוֹת לָךְ וְעַל נִסֶּֽיךָ שֶׁבְּֿכָל[] 
  []
 
 
-Underfull \hbox (badness 3590) in paragraph at lines 4284--4284
+Underfull \hbox (badness 3590) in paragraph at lines 4286--4286
  []\TU/Shlomo(1)/m/n/10.95 שֶׁבְּֿכָל עֵת עֶֽרֶב וָבֹֽקֶר וְצָהֳרָֽיִם:[] 
  []
 
@@ -5053,32 +5055,32 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [142]
-Underfull \hbox (badness 2401) in paragraph at lines 4290--4290
+Underfull \hbox (badness 2401) in paragraph at lines 4292--4292
  []\TU/Shlomo(1)/m/n/10.95 עָלֵֽינוּ אַף אַתָּה עֲשֵׂה עִמָּֽנוּ כַּאֲשֶׁר[] 
  []
 
 
-Underfull \hbox (badness 1817) in paragraph at lines 4290--4290
+Underfull \hbox (badness 1817) in paragraph at lines 4292--4292
  []\TU/Shlomo(1)/m/n/10.95 הִבְטַחְתָּֽנוּ: הַשְׁקִ֩יפָה֩ מִמְּע֨וֹן קָדְשְׁךָ֜[] 
  []
 
 
-Underfull \hbox (badness 6047) in paragraph at lines 4290--4290
+Underfull \hbox (badness 6047) in paragraph at lines 4292--4292
  []\TU/Shlomo(1)/m/n/10.95 נִשְׁבַּ֨עְתָּ֙ לַֽאֲבֹתֵ֔ינוּ אֶ֛רֶץ זָבַ֥ת חָלָ֖ב[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4290--4290
+Underfull \hbox (badness 10000) in paragraph at lines 4292--4292
  []\TU/Shlomo(1)/m/n/10.95 בִּגְבוּרָה אַתָּה שָׁלוֹם[] 
  []
 
 
-Underfull \hbox (badness 2469) in paragraph at lines 4290--4290
+Underfull \hbox (badness 2469) in paragraph at lines 4292--4292
  []\TU/Shlomo(1)/m/n/10.95 שֶׁתָּשִׂים עָלֵֽינוּ וְעַל כָּל[] 
  []
 
 
-Underfull \hbox (badness 1194) in paragraph at lines 4290--4290
+Underfull \hbox (badness 1194) in paragraph at lines 4292--4292
  []\TU/Shlomo(1)/m/n/10.95 עַמְּךָ בֵּית יִשְׂרָאֵל חַיִּים[] 
  []
 
@@ -5093,12 +5095,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [143]
-Underfull \hbox (badness 10000) in paragraph at lines 4311--4311
+Underfull \hbox (badness 10000) in paragraph at lines 4313--4313
  [][]\TU/Shlomo(1)/m/n/10.95 בָּרוּךְ אַתָּה יְיָ[] 
  []
 
 
-Underfull \hbox (badness 4353) in paragraph at lines 4311--4311
+Underfull \hbox (badness 4353) in paragraph at lines 4313--4313
  []\TU/Shlomo(1)/m/n/10.95 הַמְֿבָרֵךְ אֶת עַמּוֹ[] 
  []
 
@@ -5112,12 +5114,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [144]
-Underfull \hbox (badness 10000) in paragraph at lines 4336--4336
+Underfull \hbox (badness 10000) in paragraph at lines 4338--4338
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4336--4336
+Underfull \hbox (badness 10000) in paragraph at lines 4338--4338
  [][] 
  []
 
@@ -5130,12 +5132,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [145
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 4336--4336
+Underfull \hbox (badness 10000) in paragraph at lines 4338--4338
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4336--4336
+Underfull \hbox (badness 10000) in paragraph at lines 4338--4338
  [][] 
  []
 
@@ -5150,12 +5152,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [146]
-Underfull \hbox (badness 10000) in paragraph at lines 4336--4336
+Underfull \hbox (badness 10000) in paragraph at lines 4338--4338
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4336--4336
+Underfull \hbox (badness 10000) in paragraph at lines 4338--4338
  [][] 
  []
 
@@ -5170,12 +5172,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [147]
-Underfull \hbox (badness 10000) in paragraph at lines 4336--4336
+Underfull \hbox (badness 10000) in paragraph at lines 4338--4338
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4336--4336
+Underfull \hbox (badness 10000) in paragraph at lines 4338--4338
  [][] 
  []
 
@@ -5186,12 +5188,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [148]
-Underfull \hbox (badness 10000) in paragraph at lines 4336--4336
+Underfull \hbox (badness 10000) in paragraph at lines 4338--4338
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4336--4336
+Underfull \hbox (badness 10000) in paragraph at lines 4338--4338
  [][] 
  []
 
@@ -5235,7 +5237,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [152]
-Underfull \hbox (badness 10000) in paragraph at lines 4443--4444
+Underfull \hbox (badness 10000) in paragraph at lines 4445--4446
  [][] 
  []
 
@@ -5252,62 +5254,62 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [153
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 4483--4485
+Underfull \hbox (badness 10000) in paragraph at lines 4485--4487
  []\TU/Shlomo(1)/m/n/10 עָלֵָיהָ וִיבָרֲכֶֽהָ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4483--4485
+Underfull \hbox (badness 10000) in paragraph at lines 4485--4487
  []\TU/Shlomo(1)/m/n/10 וִירַפְּֿאֶֽהָ וִיחַזְּֿקֶֽהָ[] 
  []
 
 
-Underfull \hbox (badness 1622) in paragraph at lines 4483--4485
+Underfull \hbox (badness 1622) in paragraph at lines 4485--4487
  []\TU/Shlomo(1)/m/n/10 וִיחַיֶּֽהָ וְיַצִּילֶֽהָ, מִכָּל[] 
  []
 
 
-Underfull \hbox (badness 4739) in paragraph at lines 4483--4485
+Underfull \hbox (badness 4739) in paragraph at lines 4485--4487
  []\TU/Shlomo(1)/m/n/10 צָרָה וְצוּקָה וְיִשְׁלַח[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4483--4485
+Underfull \hbox (badness 10000) in paragraph at lines 4485--4487
  []\TU/Shlomo(1)/m/n/10 לְכָל־אֵבָרָיהָ וְגִידֶֽיהָ[] 
  []
 
 
-Underfull \hbox (badness 2005) in paragraph at lines 4483--4485
+Underfull \hbox (badness 2005) in paragraph at lines 4485--4487
  []\TU/Shlomo(1)/m/n/10 וּלְכָל־ גּוּפָהּ וְנַפְשָׁהּ,[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4483--4485
+Underfull \hbox (badness 10000) in paragraph at lines 4485--4487
  []\TU/Shlomo(1)/m/n/10 וְיָנֽוּחוּ עָלְֶיהָ כָּל־[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4483--4485
+Underfull \hbox (badness 10000) in paragraph at lines 4485--4487
  []\TU/Shlomo(1)/m/n/10 הַבְּֿרָכוׂת, וִיבַטֵּל[] 
  []
 
 
-Underfull \hbox (badness 7415) in paragraph at lines 4483--4485
+Underfull \hbox (badness 7415) in paragraph at lines 4485--4487
  []\TU/Shlomo(1)/m/n/10 מֵעָלֶֽיהָ כָּל־ גְּזֵרוׂת[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4483--4485
+Underfull \hbox (badness 10000) in paragraph at lines 4485--4487
  []\TU/Shlomo(1)/m/n/10 קָשׁוׂת, וִימַלֵּא כָל־[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4483--4485
+Underfull \hbox (badness 10000) in paragraph at lines 4485--4487
  []\TU/Shlomo(1)/m/n/10 מִשְׁאֲלוׂת לִבָּהּ[] 
  []
 
 
-Underfull \hbox (badness 1946) in paragraph at lines 4483--4485
+Underfull \hbox (badness 1946) in paragraph at lines 4485--4487
  []\TU/Shlomo(1)/m/n/10 לְטוׂבָה, וְיַצְמִֽיחַ לָהּ[] 
  []
 
@@ -5318,57 +5320,57 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4486--4488
+Underfull \hbox (badness 10000) in paragraph at lines 4488--4490
  []\TU/Shlomo(1)/m/n/10 עָלֵָיו וִיבָרֲכֵֽהוּ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4486--4488
+Underfull \hbox (badness 10000) in paragraph at lines 4488--4490
  []\TU/Shlomo(1)/m/n/10 וִירַפְּֿאֵֽהוּ וִיחַזְּֿקֵהוּ[] 
  []
 
 
-Underfull \hbox (badness 4739) in paragraph at lines 4486--4488
+Underfull \hbox (badness 4739) in paragraph at lines 4488--4490
  []\TU/Shlomo(1)/m/n/10 צָרָה וְצוּקָה וְיִשְׁלַח[] 
  []
 
 
-Underfull \hbox (badness 3701) in paragraph at lines 4486--4488
+Underfull \hbox (badness 3701) in paragraph at lines 4488--4490
  []\TU/Shlomo(1)/m/n/10 לְכָל־ אֵבָרָיו וְגִידָיו[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4486--4488
+Underfull \hbox (badness 10000) in paragraph at lines 4488--4490
  []\TU/Shlomo(1)/m/n/10 וּלְכָל־ גּוּפוּ וְנַפְשׁוׂ,[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4486--4488
+Underfull \hbox (badness 10000) in paragraph at lines 4488--4490
  []\TU/Shlomo(1)/m/n/10 וְיָנֽוּחוּ עָלָיו כָּל־[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4486--4488
+Underfull \hbox (badness 10000) in paragraph at lines 4488--4490
  []\TU/Shlomo(1)/m/n/10 הַבְּֿרָכוׂת, וִיבַטֵּל[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4486--4488
+Underfull \hbox (badness 10000) in paragraph at lines 4488--4490
  []\TU/Shlomo(1)/m/n/10 מֵעָלָיו כָּל־גְּזֵרוׂת[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4486--4488
+Underfull \hbox (badness 10000) in paragraph at lines 4488--4490
  []\TU/Shlomo(1)/m/n/10 קָשׁוׂת, וִימַלֵּא כָל־[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4486--4488
+Underfull \hbox (badness 10000) in paragraph at lines 4488--4490
  []\TU/Shlomo(1)/m/n/10 וְיַצְמִֽיחַ לוׂ וּלְכָל־[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4486--4488
+Underfull \hbox (badness 10000) in paragraph at lines 4488--4490
  []\TU/Shlomo(1)/m/n/10 יִשְׂרָאֵל יְשׁוּעָה[] 
  []
 
@@ -5379,57 +5381,57 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4489--4491
+Underfull \hbox (badness 10000) in paragraph at lines 4491--4493
  []\TU/Shlomo(1)/m/n/10 עָלֵָיהֶם וִיבָרֲכְֶם[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4489--4491
+Underfull \hbox (badness 10000) in paragraph at lines 4491--4493
  []\TU/Shlomo(1)/m/n/10 וִירַפְּֿאֶֽם וִיחַזְּֿקֶֽם[] 
  []
 
 
-Underfull \hbox (badness 1776) in paragraph at lines 4489--4491
+Underfull \hbox (badness 1776) in paragraph at lines 4491--4493
  []\TU/Shlomo(1)/m/n/10 וִיחַיֶּֽם וְיַצִּילֶֽם, מִכָּל[] 
  []
 
 
-Underfull \hbox (badness 4739) in paragraph at lines 4489--4491
+Underfull \hbox (badness 4739) in paragraph at lines 4491--4493
  []\TU/Shlomo(1)/m/n/10 צָרָה וְצוּקָה וְיִשְׁלַח[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4489--4491
+Underfull \hbox (badness 10000) in paragraph at lines 4491--4493
  []\TU/Shlomo(1)/m/n/10 לְכָל־ אֵבָרָיהֶם[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4489--4491
+Underfull \hbox (badness 10000) in paragraph at lines 4491--4493
  []\TU/Shlomo(1)/m/n/10 וְגִידֶֽיהֶם וּלְכָל־[] 
  []
 
 
-Underfull \hbox (badness 3679) in paragraph at lines 4489--4491
+Underfull \hbox (badness 3679) in paragraph at lines 4491--4493
  []\TU/Shlomo(1)/m/n/10 גּוּפָם וְנַפְשָׁם, וְיָנֽוּחוּ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4489--4491
+Underfull \hbox (badness 10000) in paragraph at lines 4491--4493
  []\TU/Shlomo(1)/m/n/10 וִיבַטֵּל מֵעָלֶֽיהֶם[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4489--4491
+Underfull \hbox (badness 10000) in paragraph at lines 4491--4493
  []\TU/Shlomo(1)/m/n/10 כָּל־גְּזֵרוׂת קָשׁוׂת,[] 
  []
 
 
-Underfull \hbox (badness 1515) in paragraph at lines 4489--4491
+Underfull \hbox (badness 1515) in paragraph at lines 4491--4493
  []\TU/Shlomo(1)/m/n/10 לְהֶם וּלְכָל־ יִשְׂרָאֵל[] 
  []
 
 
-Underfull \hbox (badness 5147) in paragraph at lines 4489--4491
+Underfull \hbox (badness 5147) in paragraph at lines 4491--4493
  []\TU/Shlomo(1)/m/n/10 יְשׁוּעָה בְּקָרוׂב, וְכֵן[] 
  []
 
@@ -5461,7 +5463,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [155]
-Overfull \hbox (17.57988pt too wide) in paragraph at lines 4520--4526
+Overfull \hbox (17.57988pt too wide) in paragraph at lines 4522--4528
  [][][] [] 
  []
 
@@ -5534,14 +5536,11 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [162]
-Overfull \hbox (0.21275pt too wide) in alignment at lines 4708--4747
+Overfull \hbox (0.21275pt too wide) in alignment at lines 4710--4749
  [] [] 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [163]
+[163]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -5572,43 +5571,43 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [166]
-Underfull \hbox (badness 5711) in paragraph at lines 4814--4814
+Underfull \hbox (badness 5711) in paragraph at lines 4816--4816
  []\TU/Shlomo(1)/m/n/10 יְיָ אֱלֹהֵֽינוּ וֵאלֹהֵי אֲבוֹתֵֽינוּ[] 
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 4814--4814
+Underfull \hbox (badness 2119) in paragraph at lines 4816--4816
  []\TU/Shlomo(1)/m/n/10 בְּרֵאשִׁית: בְּרָכוֹת וְהוֹדָאוֹת[] 
  []
 
 
-Underfull \hbox (badness 3291) in paragraph at lines 4814--4814
+Underfull \hbox (badness 3291) in paragraph at lines 4816--4816
  []\TU/Shlomo(1)/m/n/10 לְשִׁמְךָ הַגָּדוֹל וְהַקָּדוֹשׁ עַל[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4814--4814
+Underfull \hbox (badness 10000) in paragraph at lines 4816--4816
  []\TU/Shlomo(1)/m/n/10 וּתְקַיְּֿמֵֽנוּ וְתֶאֱסוֹף גָּלֻיּוֹתֵֽינוּ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4814--4814
+Underfull \hbox (badness 10000) in paragraph at lines 4816--4816
  []\TU/Shlomo(1)/m/n/10 וְלַעֲשׂוֹת רְצֹנֶֽךָ וּלְעָבְדְּֿךָ[] 
  []
 
 
-Underfull \hbox (badness 1571) in paragraph at lines 4814--4814
+Underfull \hbox (badness 1571) in paragraph at lines 4816--4816
  [][]\TU/Shlomo(1)/bx/n/12 מוֹדִים \TU/Shlomo(1)/m/n/10.95 אֲנַֽחְנוּ לָךְ שָׁאַתָּ
 ה הוּא יְיָ[] 
  []
 
 
-Underfull \hbox (badness 4913) in paragraph at lines 4814--4814
+Underfull \hbox (badness 4913) in paragraph at lines 4816--4816
  []\TU/Shlomo(1)/m/n/10.95 הַפְּֿקוּדוֹת לָךְ וְעַל נִסֶּֽיךָ שֶׁבְּֿכָל[] 
  []
 
 
-Underfull \hbox (badness 3590) in paragraph at lines 4814--4814
+Underfull \hbox (badness 3590) in paragraph at lines 4816--4816
  []\TU/Shlomo(1)/m/n/10.95 שֶׁבְּֿכָל עֵת עֶֽרֶב וָבֹֽקֶר וְצָהֳרָֽיִם:[] 
  []
 
@@ -5628,32 +5627,32 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [168
 
 ]
-Underfull \hbox (badness 1184) in paragraph at lines 4845--4847
+Underfull \hbox (badness 1184) in paragraph at lines 4847--4849
  []\TU/Shlomo(1)/m/n/10 אַף אַתָּה עֲשֵׂה עִמָּֽנוּ כַּאֲשֶׁר הִבְטַחְתָּֽנוּ:[] 
  []
 
 
-Underfull \hbox (badness 1184) in paragraph at lines 4850--4852
+Underfull \hbox (badness 1184) in paragraph at lines 4852--4854
  []\TU/Shlomo(1)/m/n/10 שָׁלוֹם: יְהִי רָצוֹן שֶׁתָּשִׂים[] 
  []
 
 
-Underfull \hbox (badness 1472) in paragraph at lines 4850--4852
+Underfull \hbox (badness 1472) in paragraph at lines 4852--4854
  []\TU/Shlomo(1)/m/n/10 עָלֵֽינוּ וְעַל כָּל עַמְּךָ בֵּית[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4850--4852
+Underfull \hbox (badness 10000) in paragraph at lines 4852--4854
  []\TU/Shlomo(1)/m/n/10 יִשְׂרָאֵל חַיִּים וּבְרָכָה[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4866--4866
+Underfull \hbox (badness 10000) in paragraph at lines 4868--4868
  [][]\TU/Shlomo(1)/m/n/10.95 בָּרוּךְ אַתָּה יְיָ[] 
  []
 
 
-Underfull \hbox (badness 4353) in paragraph at lines 4866--4866
+Underfull \hbox (badness 4353) in paragraph at lines 4868--4868
  []\TU/Shlomo(1)/m/n/10.95 הַמְֿבָרֵךְ אֶת עַמּוֹ[] 
  []
 
@@ -5673,7 +5672,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [169
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 4871--4872
+Underfull \hbox (badness 10000) in paragraph at lines 4873--4874
  [][] 
  []
 
@@ -5707,12 +5706,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [172]
-Overfull \hbox (14.40498pt too wide) in alignment at lines 4918--4979
+Overfull \hbox (14.40498pt too wide) in alignment at lines 4920--4981
  [] [] 
  []
 
 
-Overfull \hbox (14.40498pt too wide) in alignment at lines 4979--5013
+Overfull \hbox (14.40498pt too wide) in alignment at lines 4981--5015
  [] [] 
  []
 
@@ -5794,12 +5793,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 LaTeX Warning: Marginpar on page 181 moved.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5140--5141
+Underfull \hbox (badness 10000) in paragraph at lines 5142--5143
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5141--5141
+Underfull \hbox (badness 10000) in paragraph at lines 5143--5143
  [][] 
  []
 
@@ -5835,7 +5834,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [183
 
 ]
-Overfull \hbox (0.21373pt too wide) in alignment at lines 5161--5188
+Overfull \hbox (0.21373pt too wide) in alignment at lines 5163--5190
  [] [] 
  []
 
@@ -5850,27 +5849,27 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [184]
-Underfull \hbox (badness 5711) in paragraph at lines 5206--5206
+Underfull \hbox (badness 5711) in paragraph at lines 5208--5208
  []\TU/Shlomo(1)/m/n/10 יְיָ אֱלֹהֵֽינוּ וֵאלֹהֵי אֲבוֹתֵֽינוּ[] 
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 5206--5206
+Underfull \hbox (badness 2119) in paragraph at lines 5208--5208
  []\TU/Shlomo(1)/m/n/10 בְּרֵאשִׁית: בְּרָכוֹת וְהוֹדָאוֹת[] 
  []
 
 
-Underfull \hbox (badness 3291) in paragraph at lines 5206--5206
+Underfull \hbox (badness 3291) in paragraph at lines 5208--5208
  []\TU/Shlomo(1)/m/n/10 לְשִׁמְךָ הַגָּדוֹל וְהַקָּדוֹשׁ עַל[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5206--5206
+Underfull \hbox (badness 10000) in paragraph at lines 5208--5208
  []\TU/Shlomo(1)/m/n/10 וּתְקַיְּֿמֵֽנוּ וְתֶאֱסוֹף גָּלֻיּוֹתֵֽינוּ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5206--5206
+Underfull \hbox (badness 10000) in paragraph at lines 5208--5208
  []\TU/Shlomo(1)/m/n/10 וְלַעֲשׂוֹת רְצֹנֶֽךָ וּלְעָבְדְּֿךָ[] 
  []
 
@@ -5881,18 +5880,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \hbox (badness 1571) in paragraph at lines 5206--5206
+Underfull \hbox (badness 1571) in paragraph at lines 5208--5208
  [][]\TU/Shlomo(1)/bx/n/12 מוֹדִים \TU/Shlomo(1)/m/n/10.95 אֲנַֽחְנוּ לָךְ שָׁאַתָּ
 ה הוּא יְיָ[] 
  []
 
 
-Underfull \hbox (badness 4913) in paragraph at lines 5206--5206
+Underfull \hbox (badness 4913) in paragraph at lines 5208--5208
  []\TU/Shlomo(1)/m/n/10.95 הַפְּֿקוּדוֹת לָךְ וְעַל נִסֶּֽיךָ שֶׁבְּֿכָל[] 
  []
 
 
-Underfull \hbox (badness 3590) in paragraph at lines 5206--5206
+Underfull \hbox (badness 3590) in paragraph at lines 5208--5208
  []\TU/Shlomo(1)/m/n/10.95 שֶׁבְּֿכָל עֵת עֶֽרֶב וָבֹֽקֶר וְצָהֳרָֽיִם:[] 
  []
 
@@ -5913,6 +5912,18 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5214--5214
+ [][]\TU/Shlomo(1)/m/n/10.95 בָּרוּךְ אַתָּה יְיָ[] 
+ []
+
+
+Underfull \hbox (badness 4353) in paragraph at lines 5214--5214
+ []\TU/Shlomo(1)/m/n/10.95 הַמְֿבָרֵךְ אֶת עַמּוֹ[] 
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 12.84935pt.
@@ -5920,15 +5931,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [186]
-Underfull \hbox (badness 10000) in paragraph at lines 5212--5212
- [][]\TU/Shlomo(1)/m/n/10.95 בָּרוּךְ אַתָּה יְיָ[] 
- []
-
-
-Underfull \hbox (badness 4353) in paragraph at lines 5212--5212
- []\TU/Shlomo(1)/m/n/10.95 הַמְֿבָרֵךְ אֶת עַמּוֹ[] 
- []
-
 
 LaTeX Warning: Marginpar on page 187 moved.
 
@@ -5943,13 +5945,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [187]
-Underfull \hbox (badness 3838) in paragraph at lines 5230--5231
+Underfull \hbox (badness 3838) in paragraph at lines 5232--5233
  []\TU/Shlomo(1)/m/n/10.95 רְכוּב֑וֹ הַֽ֝מְֿהַלֵּ֗ךְ עַל־כַּנְפֵי־רֽוּחַ׃ עֹשֶׂ֣ה מַל
 ְאָכָ֣יו רוּח֑וֹת מְ֝שָׁרֲתָ֗יו[] 
  []
 
 
-Underfull \hbox (badness 1742) in paragraph at lines 5230--5231
+Underfull \hbox (badness 1742) in paragraph at lines 5232--5233
  []\TU/Shlomo(1)/m/n/10.95 אֵ֣שׁ לֹהֵֽט׃ יָ֣סַד אֶ֖רֶץ עַל־מְכוֹנֶ֑יהָ בַּל־תִּ֝מּ֗וֹ
 ט עוֹלָ֥ם וָעֶֽד׃ תְּ֭הוֹם[] 
  []
@@ -5975,7 +5977,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [189]
-Underfull \hbox (badness 1603) in paragraph at lines 5243--5244
+Underfull \hbox (badness 1603) in paragraph at lines 5245--5246
  [][]\TU/Shlomo(1)/m/n/10.95 שִׁ֗יר []הַֽמַּֽ֫עֲל֥וֹת הַבּֽוֹטְֿחִ֥ים בַּֽיְיָ֑ כְּהַר
 ־צִיּ֥וֹן לֹֽא־יִ֝מּ֗וֹט לְעוֹלָ֥ם יֵשֵֽׁב׃[] 
  []
@@ -6001,7 +6003,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [191]
-Underfull \hbox (badness 2111) in paragraph at lines 5257--5258
+Underfull \hbox (badness 2111) in paragraph at lines 5259--5260
  []\TU/Shlomo(1)/m/n/10.95 עֻזֶּֽךָ׃ כֹּֽהֲנֶ֥יךָ יִלְבְּֿשׁוּ־צֶ֑דֶק וַֽחֲסִידֶ֥יךָ
  יְרַנֵּֽנוּ׃ בַּֽעֲב֣וּר דָּוִ֣ד עַבְדֶּ֑ךָ[] 
  []
@@ -6077,7 +6079,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [198]
-Underfull \hbox (badness 2635) in paragraph at lines 5442--5445
+Underfull \hbox (badness 2635) in paragraph at lines 5444--5447
  []\TU/Shlomo(1)/m/n/10.95 וְעוֹסְֿקִין בַּתּוֹרָה, שְׁכִינָה שְׁרוּיָה בֵּינֵי
 הֶם, שֶׁנֶּאֱמַר []אֱלֹהִ֗ים נִצָּ֥ב[] 
  []
@@ -6197,6 +6199,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 LaTeX Warning: Marginpar on page 210 moved.
 
 
+Underfull \hbox (badness 2359) in paragraph at lines 5768--5770
+ []\TU/Shlomo(1)/m/n/10.95 וּשְׁמוֹנָה דְבָרִים, וְאֵֽלוּ הֵן, בְּתַלְמוּד, בִּשְׁמִיעַ
+ת הָאֹֽזֶן, בַּעֲרִיכַת[] 
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -6207,10 +6215,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [210]
-Underfull \hbox (badness 2359) in paragraph at lines 5766--5768
- []\TU/Shlomo(1)/m/n/10.95 וּשְׁמוֹנָה דְבָרִים, וְאֵֽלוּ הֵן, בְּתַלְמוּד, בִּשְׁמִיעַ
-ת הָאֹֽזֶן, בַּעֲרִיכַת[] 
- []
+
+LaTeX Warning: Marginpar on page 211 moved.
 
 
 LaTeX Warning: Marginpar on page 211 moved.
@@ -6229,10 +6235,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [211]
-
-LaTeX Warning: Marginpar on page 212 moved.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -6243,7 +6245,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [212]
-Underfull \hbox (badness 1112) in paragraph at lines 5785--5787
+Underfull \hbox (badness 1112) in paragraph at lines 5787--5789
  []\TU/Shlomo(1)/m/n/10.95 לִכְבוֹדוֹ, שֶׁנֶּאֱמַר: []כֹּ֚ל הַנִּקְרָ֣א בִשְׁמִ֔י וְלִ
 כְבוֹדִ֖י בְּרָאתִ֑יו יְצַרְתִּ֖יו[] 
  []
@@ -6257,7 +6259,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [213] [214
 
 ]
-Underfull \hbox (badness 6510) in paragraph at lines 5847--5847
+Underfull \hbox (badness 6510) in paragraph at lines 5849--5849
  [][][]\TU/Shlomo(1)/m/n/9 יִתְבָּרַךְ וְיִשְׁתַּבַּח וְיִתְפָּאַר[] 
  []
 
@@ -6351,78 +6353,78 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [221]
-Underfull \hbox (badness 1817) in paragraph at lines 5916--5916
+Underfull \hbox (badness 1817) in paragraph at lines 5918--5918
  [][]\TU/FreeSans(1)/m/n/8 בחנוכה:  \TU/Shlomo(1)/m/n/10 בִּימֵי מַתִּתְיָֽהוּ בֶּן
  יוֹחָנָן כֹּהֵן[] 
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 5916--5916
+Underfull \hbox (badness 1005) in paragraph at lines 5918--5918
  []\TU/Shlomo(1)/m/n/10 גָּדוֹל חַשְׁמֹנַי וּבָנָיו כְּשֶׁעָמְֿדָה מַלְכוּת יָוָן[] 
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 5916--5916
+Underfull \hbox (badness 1107) in paragraph at lines 5918--5918
  []\TU/Shlomo(1)/m/n/10 מָסַֽרְתָּ גִּבּוֹרִים בְּיַד חַלָּשִׁים וְרַבִּים בְּיַד[] 
  []
 
 
-Underfull \hbox (badness 4096) in paragraph at lines 5916--5916
+Underfull \hbox (badness 4096) in paragraph at lines 5918--5918
  [][]\TU/FreeSans(1)/m/n/8 בפורים:  \TU/Shlomo(1)/m/n/10 בִּימֵי מָרְדֳּכַי[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5916--5916
+Underfull \hbox (badness 10000) in paragraph at lines 5918--5918
  []\TU/Shlomo(1)/m/n/10 וְִאֶסְתֵּר בְּשׁוּשַׁן הַבִּירָה[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5916--5916
+Underfull \hbox (badness 10000) in paragraph at lines 5918--5918
  []\TU/Shlomo(1)/m/n/10 כְּשֶׁעָמַד עֲלֵיהֶם הָמָן[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5916--5916
+Underfull \hbox (badness 10000) in paragraph at lines 5918--5918
  []\TU/Shlomo(1)/m/n/10 הָרָשָׁע בִּקֵּשׁ   \TU/FreeSans(1)/m/n/6 (אסתר ג)[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5916--5916
+Underfull \hbox (badness 10000) in paragraph at lines 5918--5918
  []\TU/Shlomo(1)/m/n/10 לְהַשְׁמִ֡יד לַֽהֲרֹ֣ג וּלְאַבֵּ֣ד[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5916--5916
+Underfull \hbox (badness 10000) in paragraph at lines 5918--5918
  []\TU/Shlomo(1)/m/n/10 אֶת־כָּל־הַ֠יְּֿהוּדִים מִנַּ֨עַר[] 
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 5916--5916
+Underfull \hbox (badness 1077) in paragraph at lines 5918--5918
  []\TU/Shlomo(1)/m/n/10 וְעַד־זָקֵ֨ן טַ֤ף וְנָשִׁים֙ בְּי֣וֹם[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5916--5916
+Underfull \hbox (badness 10000) in paragraph at lines 5918--5918
  []\TU/Shlomo(1)/m/n/10 שְׁנֵים־עָשָׂ֖ר הוּא־חֹ֣דֶשׁ[] 
  []
 
 
-Underfull \hbox (badness 4673) in paragraph at lines 5916--5916
+Underfull \hbox (badness 4673) in paragraph at lines 5918--5918
  []\TU/Shlomo(1)/m/n/10 בְּרַחֲמֶֽיךָ הָרַבִּים הֵפַֽרְתָּ[] 
  []
 
 
-Underfull \hbox (badness 4954) in paragraph at lines 5916--5916
+Underfull \hbox (badness 4954) in paragraph at lines 5918--5918
  []\TU/Shlomo(1)/m/n/10 אֶת עֲצָתוֹ וְקִלְקַלְתָּ אֶת[] 
  []
 
 
-Underfull \hbox (badness 3058) in paragraph at lines 5916--5916
+Underfull \hbox (badness 3058) in paragraph at lines 5918--5918
  []\TU/Shlomo(1)/m/n/10 מַחֲשַׁבְתּוֹ וַהֲשֵׁבֽוֹתָ גְּמוּלוֹ[] 
  []
 
 
-Underfull \hbox (badness 3668) in paragraph at lines 5916--5916
+Underfull \hbox (badness 3668) in paragraph at lines 5918--5918
  []\TU/Shlomo(1)/m/n/10 בְּרֹאשׁוֹ וְתָלוּ אוֹתוֹ וְאֶת[] 
  []
 
@@ -6437,12 +6439,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [222]
-Underfull \hbox (badness 10000) in paragraph at lines 5934--5935
+Underfull \hbox (badness 10000) in paragraph at lines 5936--5937
  [][]\TU/Shlomo(1)/m/n/10.95 בָּרוּךְ אַתָּה יְיָ[] 
  []
 
 
-Underfull \hbox (badness 4353) in paragraph at lines 5934--5935
+Underfull \hbox (badness 4353) in paragraph at lines 5936--5937
  []\TU/Shlomo(1)/m/n/10.95 הַמְֿבָרֵךְ אֶת עַמּוֹ[] 
  []
 
@@ -6490,7 +6492,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 LaTeX Warning: Marginpar on page 226 moved.
 
 
-Underfull \hbox (badness 1521) in paragraph at lines 6061--6064
+Underfull \hbox (badness 1521) in paragraph at lines 6063--6066
  []\TU/Shlomo(1)/m/n/10.95 הוֹרַ֔י עַֽד־תַּֽאֲוַ֖ת גִּבְעֹ֣ת עוֹלָ֑ם תִּֽהְיֶ֨יןָ֙ ל
 ְרֹ֣אשׁ יוֹסֵ֔ף וּלְקָדְקֹ֖ד נְזִ֥יר[] 
  []
@@ -6541,13 +6543,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [230
 
 ]
-Underfull \hbox (badness 3260) in paragraph at lines 6156--6164
+Underfull \hbox (badness 3260) in paragraph at lines 6158--6166
  []\TU/Shlomo(1)/m/n/10.95 הַֽלֲלוּ֙יָהּ []הַֽלֲל֣וּ אֶת־יְ֖יָ מִן־הַשָּׁמַ֑יִם הַֽ֝
 לֲל֗וּהוּ בַּמְּֿרוֹמִֽים׃ ֭הַֽלֲל֥וּהוּ[] 
  []
 
 
-Underfull \hbox (badness 3568) in paragraph at lines 6156--6164
+Underfull \hbox (badness 3568) in paragraph at lines 6158--6166
  []\TU/Shlomo(1)/m/n/10.95 כָּל־מַלְאָכָ֑יו הַֽ֝לֲל֗וּהוּ כָּל־צְבָאָֽו׃ ֖הַֽלֲלֽוּה
 וּ שֶׁ֣מֶשׁ וְיָרֵ֑חַ הַֽ֝לֲל֗וּהוּ[] 
  []
@@ -6594,14 +6596,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [235]
-Overfull \hbox (0.21373pt too wide) in paragraph at lines 6293--6320
+Overfull \hbox (0.21373pt too wide) in paragraph at lines 6295--6322
  [][][][] 
  []
 
 [236
 
 ]
-Overfull \hbox (0.21373pt too wide) in paragraph at lines 6326--6353
+Overfull \hbox (0.21373pt too wide) in paragraph at lines 6328--6355
  [][][][] 
  []
 
@@ -6628,43 +6630,43 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [238]
-Underfull \hbox (badness 5711) in paragraph at lines 6420--6420
+Underfull \hbox (badness 5711) in paragraph at lines 6422--6422
  []\TU/Shlomo(1)/m/n/10 יְיָ אֱלֹהֵֽינוּ וֵאלֹהֵי אֲבוֹתֵֽינוּ[] 
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 6420--6420
+Underfull \hbox (badness 2119) in paragraph at lines 6422--6422
  []\TU/Shlomo(1)/m/n/10 בְּרֵאשִׁית: בְּרָכוֹת וְהוֹדָאוֹת[] 
  []
 
 
-Underfull \hbox (badness 3291) in paragraph at lines 6420--6420
+Underfull \hbox (badness 3291) in paragraph at lines 6422--6422
  []\TU/Shlomo(1)/m/n/10 לְשִׁמְךָ הַגָּדוֹל וְהַקָּדוֹשׁ עַל[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6420--6420
+Underfull \hbox (badness 10000) in paragraph at lines 6422--6422
  []\TU/Shlomo(1)/m/n/10 וּתְקַיְּֿמֵֽנוּ וְתֶאֱסוֹף גָּלֻיּוֹתֵֽינוּ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6420--6420
+Underfull \hbox (badness 10000) in paragraph at lines 6422--6422
  []\TU/Shlomo(1)/m/n/10 וְלַעֲשׂוֹת רְצֹנֶֽךָ וּלְעָבְדְּֿךָ[] 
  []
 
 
-Underfull \hbox (badness 1571) in paragraph at lines 6420--6420
+Underfull \hbox (badness 1571) in paragraph at lines 6422--6422
  [][]\TU/Shlomo(1)/bx/n/12 מוֹדִים \TU/Shlomo(1)/m/n/10.95 אֲנַֽחְנוּ לָךְ שָׁאַתָּ
 ה הוּא יְיָ[] 
  []
 
 
-Underfull \hbox (badness 4913) in paragraph at lines 6420--6420
+Underfull \hbox (badness 4913) in paragraph at lines 6422--6422
  []\TU/Shlomo(1)/m/n/10.95 הַפְּֿקוּדוֹת לָךְ וְעַל נִסֶּֽיךָ שֶׁבְּֿכָל[] 
  []
 
 
-Underfull \hbox (badness 3590) in paragraph at lines 6420--6420
+Underfull \hbox (badness 3590) in paragraph at lines 6422--6422
  []\TU/Shlomo(1)/m/n/10.95 שֶׁבְּֿכָל עֵת עֶֽרֶב וָבֹֽקֶר וְצָהֳרָֽיִם:[] 
  []
 
@@ -6679,32 +6681,32 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [239]
-Underfull \hbox (badness 2401) in paragraph at lines 6427--6427
+Underfull \hbox (badness 2401) in paragraph at lines 6429--6429
  []\TU/Shlomo(1)/m/n/10.95 עָלֵֽינוּ אַף אַתָּה עֲשֵׂה עִמָּֽנוּ כַּאֲשֶׁר[] 
  []
 
 
-Underfull \hbox (badness 1817) in paragraph at lines 6427--6427
+Underfull \hbox (badness 1817) in paragraph at lines 6429--6429
  []\TU/Shlomo(1)/m/n/10.95 הִבְטַחְתָּֽנוּ: הַשְׁקִ֩יפָה֩ מִמְּע֨וֹן קָדְשְׁךָ֜[] 
  []
 
 
-Underfull \hbox (badness 6047) in paragraph at lines 6427--6427
+Underfull \hbox (badness 6047) in paragraph at lines 6429--6429
  []\TU/Shlomo(1)/m/n/10.95 נִשְׁבַּ֨עְתָּ֙ לַֽאֲבֹתֵ֔ינוּ אֶ֛רֶץ זָבַ֥ת חָלָ֖ב[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6427--6427
+Underfull \hbox (badness 10000) in paragraph at lines 6429--6429
  []\TU/Shlomo(1)/m/n/10.95 בִּגְבוּרָה אַתָּה שָׁלוֹם[] 
  []
 
 
-Underfull \hbox (badness 2469) in paragraph at lines 6427--6427
+Underfull \hbox (badness 2469) in paragraph at lines 6429--6429
  []\TU/Shlomo(1)/m/n/10.95 שֶׁתָּשִׂים עָלֵֽינוּ וְעַל כָּל[] 
  []
 
 
-Underfull \hbox (badness 1194) in paragraph at lines 6427--6427
+Underfull \hbox (badness 1194) in paragraph at lines 6429--6429
  []\TU/Shlomo(1)/m/n/10.95 עַמְּךָ בֵּית יִשְׂרָאֵל חַיִּים[] 
  []
 
@@ -6729,24 +6731,24 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [241]
-Overfull \hbox (0.21373pt too wide) in paragraph at lines 6485--6511
+Overfull \hbox (0.21373pt too wide) in paragraph at lines 6487--6513
  [][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6485--6511
+Underfull \hbox (badness 10000) in paragraph at lines 6487--6513
  [][] 
  []
 
 [242
 
 ]
-Overfull \hbox (0.21373pt too wide) in paragraph at lines 6520--6562
+Overfull \hbox (0.21373pt too wide) in paragraph at lines 6522--6564
  [][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6520--6562
+Underfull \hbox (badness 10000) in paragraph at lines 6522--6564
  [][] 
  []
 
@@ -6770,12 +6772,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [244]
-Underfull \hbox (badness 10000) in paragraph at lines 6605--6612
+Underfull \hbox (badness 10000) in paragraph at lines 6607--6614
  [][][][] 
  []
 
 
-Underfull \hbox (badness 7869) in paragraph at lines 6628--6631
+Underfull \hbox (badness 7869) in paragraph at lines 6630--6633
  []\TU/Shlomo(1)/m/n/10.95 וּבְי֣וֹם []הַבִּכּוּרִ֗ים בְּהַקְרִ֨יבְֿכֶ֜ם מִנְחָ֤ה חֲד
 ָשָׁה֙ לַֽיְיָ֔ בְּשָֽׁבֻעֹ֖תֵיכֶ֑ם[] 
  []
@@ -6801,13 +6803,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [246
 
 ]
-Underfull \hbox (badness 1194) in paragraph at lines 6684--6687
+Underfull \hbox (badness 1194) in paragraph at lines 6686--6689
  []\TU/Shlomo(1)/m/n/10.95 לָאָֽיִל וְעִשָּׂרוֹן לַכֶּֽבֶשׂ וְיַֽיִן כְּנִסְכּוֹ: וְשָׂע
 ִיר לְכַפֵּר וּשְׁנֵי תְמִידִים[] 
  []
 
 
-Underfull \hbox (badness 1838) in paragraph at lines 6696--6698
+Underfull \hbox (badness 1838) in paragraph at lines 6698--6700
  []\TU/Shlomo(1)/m/n/10.95 וְהָשֵׁב כֹּהֲנִים לַעֲבוֹדָתָם וּלְוִיִּם לְשִׁירָם וּלְזִ
 מְרָם וְהָשֵׁב יִשְׂרָאֵל[] 
  []
@@ -6823,43 +6825,43 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [247]
-Underfull \hbox (badness 5711) in paragraph at lines 6708--6708
+Underfull \hbox (badness 5711) in paragraph at lines 6710--6710
  []\TU/Shlomo(1)/m/n/10 יְיָ אֱלֹהֵֽינוּ וֵאלֹהֵי אֲבוֹתֵֽינוּ[] 
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 6708--6708
+Underfull \hbox (badness 2119) in paragraph at lines 6710--6710
  []\TU/Shlomo(1)/m/n/10 בְּרֵאשִׁית: בְּרָכוֹת וְהוֹדָאוֹת[] 
  []
 
 
-Underfull \hbox (badness 3291) in paragraph at lines 6708--6708
+Underfull \hbox (badness 3291) in paragraph at lines 6710--6710
  []\TU/Shlomo(1)/m/n/10 לְשִׁמְךָ הַגָּדוֹל וְהַקָּדוֹשׁ עַל[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6708--6708
+Underfull \hbox (badness 10000) in paragraph at lines 6710--6710
  []\TU/Shlomo(1)/m/n/10 וּתְקַיְּֿמֵֽנוּ וְתֶאֱסוֹף גָּלֻיּוֹתֵֽינוּ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6708--6708
+Underfull \hbox (badness 10000) in paragraph at lines 6710--6710
  []\TU/Shlomo(1)/m/n/10 וְלַעֲשׂוֹת רְצֹנֶֽךָ וּלְעָבְדְּֿךָ[] 
  []
 
 
-Underfull \hbox (badness 1571) in paragraph at lines 6708--6708
+Underfull \hbox (badness 1571) in paragraph at lines 6710--6710
  [][]\TU/Shlomo(1)/bx/n/12 מוֹדִים \TU/Shlomo(1)/m/n/10.95 אֲנַֽחְנוּ לָךְ שָׁאַתָּ
 ה הוּא יְיָ[] 
  []
 
 
-Underfull \hbox (badness 4913) in paragraph at lines 6708--6708
+Underfull \hbox (badness 4913) in paragraph at lines 6710--6710
  []\TU/Shlomo(1)/m/n/10.95 הַפְּֿקוּדוֹת לָךְ וְעַל נִסֶּֽיךָ שֶׁבְּֿכָל[] 
  []
 
 
-Underfull \hbox (badness 3590) in paragraph at lines 6708--6708
+Underfull \hbox (badness 3590) in paragraph at lines 6710--6710
  []\TU/Shlomo(1)/m/n/10.95 שֶׁבְּֿכָל עֵת עֶֽרֶב וָבֹֽקֶר וְצָהֳרָֽיִם:[] 
  []
 
@@ -6870,32 +6872,32 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [248]
-Underfull \hbox (badness 2401) in paragraph at lines 6718--6718
+Underfull \hbox (badness 2401) in paragraph at lines 6720--6720
  []\TU/Shlomo(1)/m/n/10.95 עָלֵֽינוּ אַף אַתָּה עֲשֵׂה עִמָּֽנוּ כַּאֲשֶׁר[] 
  []
 
 
-Underfull \hbox (badness 1817) in paragraph at lines 6718--6718
+Underfull \hbox (badness 1817) in paragraph at lines 6720--6720
  []\TU/Shlomo(1)/m/n/10.95 הִבְטַחְתָּֽנוּ: הַשְׁקִ֩יפָה֩ מִמְּע֨וֹן קָדְשְׁךָ֜[] 
  []
 
 
-Underfull \hbox (badness 6047) in paragraph at lines 6718--6718
+Underfull \hbox (badness 6047) in paragraph at lines 6720--6720
  []\TU/Shlomo(1)/m/n/10.95 נִשְׁבַּ֨עְתָּ֙ לַֽאֲבֹתֵ֔ינוּ אֶ֛רֶץ זָבַ֥ת חָלָ֖ב[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6718--6718
+Underfull \hbox (badness 10000) in paragraph at lines 6720--6720
  []\TU/Shlomo(1)/m/n/10.95 בִּגְבוּרָה אַתָּה שָׁלוֹם[] 
  []
 
 
-Underfull \hbox (badness 2469) in paragraph at lines 6718--6718
+Underfull \hbox (badness 2469) in paragraph at lines 6720--6720
  []\TU/Shlomo(1)/m/n/10.95 שֶׁתָּשִׂים עָלֵֽינוּ וְעַל כָּל[] 
  []
 
 
-Underfull \hbox (badness 1194) in paragraph at lines 6718--6718
+Underfull \hbox (badness 1194) in paragraph at lines 6720--6720
  []\TU/Shlomo(1)/m/n/10.95 עַמְּךָ בֵּית יִשְׂרָאֵל חַיִּים[] 
  []
 
@@ -6922,43 +6924,43 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [250]
-Underfull \hbox (badness 5711) in paragraph at lines 6760--6760
+Underfull \hbox (badness 5711) in paragraph at lines 6762--6762
  []\TU/Shlomo(1)/m/n/10 יְיָ אֱלֹהֵֽינוּ וֵאלֹהֵי אֲבוֹתֵֽינוּ[] 
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 6760--6760
+Underfull \hbox (badness 2119) in paragraph at lines 6762--6762
  []\TU/Shlomo(1)/m/n/10 בְּרֵאשִׁית: בְּרָכוֹת וְהוֹדָאוֹת[] 
  []
 
 
-Underfull \hbox (badness 3291) in paragraph at lines 6760--6760
+Underfull \hbox (badness 3291) in paragraph at lines 6762--6762
  []\TU/Shlomo(1)/m/n/10 לְשִׁמְךָ הַגָּדוֹל וְהַקָּדוֹשׁ עַל[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6760--6760
+Underfull \hbox (badness 10000) in paragraph at lines 6762--6762
  []\TU/Shlomo(1)/m/n/10 וּתְקַיְּֿמֵֽנוּ וְתֶאֱסוֹף גָּלֻיּוֹתֵֽינוּ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6760--6760
+Underfull \hbox (badness 10000) in paragraph at lines 6762--6762
  []\TU/Shlomo(1)/m/n/10 וְלַעֲשׂוֹת רְצֹנֶֽךָ וּלְעָבְדְּֿךָ[] 
  []
 
 
-Underfull \hbox (badness 1571) in paragraph at lines 6760--6760
+Underfull \hbox (badness 1571) in paragraph at lines 6762--6762
  [][]\TU/Shlomo(1)/bx/n/12 מוֹדִים \TU/Shlomo(1)/m/n/10.95 אֲנַֽחְנוּ לָךְ שָׁאַתָּ
 ה הוּא יְיָ[] 
  []
 
 
-Underfull \hbox (badness 4913) in paragraph at lines 6760--6760
+Underfull \hbox (badness 4913) in paragraph at lines 6762--6762
  []\TU/Shlomo(1)/m/n/10.95 הַפְּֿקוּדוֹת לָךְ וְעַל נִסֶּֽיךָ שֶׁבְּֿכָל[] 
  []
 
 
-Underfull \hbox (badness 3590) in paragraph at lines 6760--6760
+Underfull \hbox (badness 3590) in paragraph at lines 6762--6762
  []\TU/Shlomo(1)/m/n/10.95 שֶׁבְּֿכָל עֵת עֶֽרֶב וָבֹֽקֶר וְצָהֳרָֽיִם:[] 
  []
 
@@ -6975,7 +6977,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [251
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 6793--6794
+Underfull \hbox (badness 10000) in paragraph at lines 6795--6796
  [][] 
  []
 
@@ -6997,32 +6999,32 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [253]
-Underfull \hbox (badness 2401) in paragraph at lines 6862--6864
+Underfull \hbox (badness 2401) in paragraph at lines 6864--6866
  []\TU/Shlomo(1)/m/n/10.95 עָלֵֽינוּ אַף אַתָּה עֲשֵׂה עִמָּֽנוּ כַּאֲשֶׁר[] 
  []
 
 
-Underfull \hbox (badness 1817) in paragraph at lines 6862--6864
+Underfull \hbox (badness 1817) in paragraph at lines 6864--6866
  []\TU/Shlomo(1)/m/n/10.95 הִבְטַחְתָּֽנוּ: הַשְׁקִ֩יפָה֩ מִמְּע֨וֹן קָדְשְׁךָ֜[] 
  []
 
 
-Underfull \hbox (badness 6047) in paragraph at lines 6862--6864
+Underfull \hbox (badness 6047) in paragraph at lines 6864--6866
  []\TU/Shlomo(1)/m/n/10.95 נִשְׁבַּ֨עְתָּ֙ לַֽאֲבֹתֵ֔ינוּ אֶ֛רֶץ זָבַ֥ת חָלָ֖ב[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6867--6869
+Underfull \hbox (badness 10000) in paragraph at lines 6869--6871
  []\TU/Shlomo(1)/m/n/10.95 בִּגְבוּרָה אַתָּה שָׁלוֹם[] 
  []
 
 
-Underfull \hbox (badness 2469) in paragraph at lines 6867--6869
+Underfull \hbox (badness 2469) in paragraph at lines 6869--6871
  []\TU/Shlomo(1)/m/n/10.95 שֶׁתָּשִׂים עָלֵֽינוּ וְעַל כָּל[] 
  []
 
 
-Underfull \hbox (badness 1194) in paragraph at lines 6867--6869
+Underfull \hbox (badness 1194) in paragraph at lines 6869--6871
  []\TU/Shlomo(1)/m/n/10.95 עַמְּךָ בֵּית יִשְׂרָאֵל חַיִּים[] 
  []
 
@@ -7047,7 +7049,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [255
 
 ]
-Underfull \hbox (badness 1527) in paragraph at lines 6953--6955
+Underfull \hbox (badness 1527) in paragraph at lines 6955--6957
 [][]|\TU/Shlomo(1)/m/n/10.95 יַעֲסִיס צוּף הָרִים: טְעֵם בִּמְאׂדֶֽךָ מֻבְחָרִי
 ם:[]
  []
@@ -7085,7 +7087,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [259
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 7169--7179
+Underfull \hbox (badness 10000) in paragraph at lines 7171--7181
  [][] 
  []
 
@@ -7093,7 +7095,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7169--7179
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [260]
-Underfull \hbox (badness 10000) in paragraph at lines 7202--7214
+Underfull \hbox (badness 10000) in paragraph at lines 7204--7216
  [][] 
  []
 
@@ -7107,7 +7109,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [263
 
 ]
-Underfull \hbox (badness 3601) in paragraph at lines 7280--7281
+Underfull \hbox (badness 3601) in paragraph at lines 7282--7283
  [][]\TU/Shlomo(1)/m/n/10.95 יְיָ֤ []אֲדֹנֵ֗ינוּ  מָֽה־אַדִּ֣יר שִׁ֭מְךָ בְּכָל
 ־הָאָ֑רֶץ  אֲשֶׁ֥ר תְּנָ֥ה ה֝וֹדְךָ֗[] 
  []
@@ -7135,12 +7137,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 LaTeX Warning: Marginpar on page 270 moved.
 
 [270]
-Underfull \hbox (badness 10000) in paragraph at lines 7548--7560
+Underfull \hbox (badness 10000) in paragraph at lines 7550--7562
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7568--7576
+Underfull \hbox (badness 10000) in paragraph at lines 7570--7578
  [][] 
  []
 
@@ -7150,7 +7152,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [271
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 7589--7592
+Underfull \hbox (badness 10000) in paragraph at lines 7591--7594
  [][] 
  []
 
@@ -7161,7 +7163,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [272]
-Underfull \hbox (badness 2635) in paragraph at lines 7648--7652
+Underfull \hbox (badness 2635) in paragraph at lines 7650--7654
  []\TU/Shlomo(1)/bx/n/12 יִזְכּוֹר אֱלֹהִים \TU/Shlomo(1)/m/n/10.95 נִשְׁמוׂת ה
 ַקְּֿדוׂשִׁים וְהַטְּֿהוׂרִים שֶׁהוּמָתוּ וְשֶנֶּהֶרְגוּ[] 
  []
@@ -7177,13 +7179,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 [276]
-Underfull \hbox (badness 3471) in paragraph at lines 7702--7703
+Underfull \hbox (badness 3471) in paragraph at lines 7704--7705
  [][]\TU/Shlomo(1)/m/n/10.95 אַתָּה יוֹדֵֽעַ רָזֵי עוֹלָם וְתַעֲלוּמוֹת סִתְרֵי כָּל־
 חָי: אַתָּה חֹ֝פֵ֗שׂ[] 
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 7702--7703
+Underfull \hbox (badness 1668) in paragraph at lines 7704--7705
  []\TU/Shlomo(1)/m/n/10.95 כָּל־חַדְרֵי־בָֽטֶן: וּבֹּחֵ֥ן כְּלָי֖וֹת וָלֵ֑ב אֵין דָּב
 ָר נֶעֱלָּם מִמֶּֽךָּ וְאֵין[] 
  []
@@ -7201,7 +7203,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [279]
 [280]
-Underfull \hbox (badness 10000) in paragraph at lines 7776--7779
+Underfull \hbox (badness 10000) in paragraph at lines 7778--7781
  [][] 
  []
 
@@ -7237,156 +7239,156 @@ LaTeX Warning: Marginpar on page 287 moved.
 LaTeX Warning: Marginpar on page 288 moved.
 
 
-Underfull \hbox (badness 2865) in paragraph at lines 7989--7992
+Underfull \hbox (badness 2865) in paragraph at lines 7991--7994
  []\TU/Shlomo(1)/m/n/10.95 בְּ֝זָכְרֵ֗נוּ אֶת־צִיּֽוֹן׃ עַֽל־עֲרָבִ֥ים בְּתוֹכָ
 ֑הּ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7989--7992
+Underfull \hbox (badness 10000) in paragraph at lines 7991--7994
  []\TU/Shlomo(1)/m/n/10.95 יְמִינִֽי׃ תִּדְבַּ֥ק־לְשׁוֹנִ֨י לְחִכִּי֮ אִם־לֹ֪א[
 ] 
  []
 
 
-Underfull \hbox (badness 6032) in paragraph at lines 7989--7992
+Underfull \hbox (badness 6032) in paragraph at lines 7991--7994
  []\TU/Shlomo(1)/m/n/10.95 אֶ֫זְכְּֿרֵ֥כִי אִם־לֹ֣א אַ֭עֲלֶה אֶת־יְרוּשָׁלִַ֑ם[
 ] 
  []
 
 
-Underfull \hbox (badness 4913) in paragraph at lines 7989--7992
+Underfull \hbox (badness 4913) in paragraph at lines 7991--7994
  []\TU/Shlomo(1)/m/n/10.95 עַ֝֗ד הַיְס֥וֹד בָּֽהּ׃ בַּת־בָּבֶ֗ל הַשְּׁד֫וּדָ֥ה[
 ] 
  []
 
 
-Underfull \hbox (badness 1515) in paragraph at lines 7989--7992
+Underfull \hbox (badness 1515) in paragraph at lines 7991--7994
  []\TU/Shlomo(1)/m/n/10.95 אַשְׁרֵ֥י שֶׁיְשַׁלֶּם־לָ֑ךְ אֶת־גְּ֝מוּלֵ֗ךְ שֶׁגָּ
 מַ֥לְתְּ[] 
  []
 
 
-Underfull \hbox (badness 3872) in paragraph at lines 7989--7992
+Underfull \hbox (badness 3872) in paragraph at lines 7991--7994
  []\TU/Shlomo(1)/m/n/10.95 לָֽנוּ׃ אַשְׁרֵ֤י שֶׁיֹּאחֵ֓ז וְנִפֵּ֬ץ אֶֽת־עֹ֝לָלַ
 ֗יִךְ[] 
  []
 
 
-Underfull \hbox (badness 2865) in paragraph at lines 7994--7997
+Underfull \hbox (badness 2865) in paragraph at lines 7996--7999
  []\TU/Shlomo(1)/bx/n/12 שִׁ֗יר הַֽמַּֽ֫עֲל֥וֹת \TU/Shlomo(1)/m/n/10.95 בְּשׁ֣וּב[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7994--7997
+Underfull \hbox (badness 10000) in paragraph at lines 7996--7999
  []\TU/Shlomo(1)/m/n/10.95 כְּחֹלְֿמִֽים׃ אָ֤ז יִמָּלֵ֢א[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7994--7997
+Underfull \hbox (badness 10000) in paragraph at lines 7996--7999
  []\TU/Shlomo(1)/m/n/10.95 יְ֜יָ֗ לַֽעֲשׂ֥וֹת עִם־אֵֽלֶּה׃[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7994--7997
+Underfull \hbox (badness 10000) in paragraph at lines 7996--7999
  []\TU/Shlomo(1)/m/n/10.95 אֶת־שְׁבִותֵ֑נוּ כַּֽאֲפִיקִ֥ים[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7994--7997
+Underfull \hbox (badness 10000) in paragraph at lines 7996--7999
  []\TU/Shlomo(1)/m/n/10.95 בְּרִנָּ֥ה יִקְצֹֽרוּ׃ הָ֘ל֤וֹךְ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7994--7997
+Underfull \hbox (badness 10000) in paragraph at lines 7996--7999
  []\TU/Shlomo(1)/m/n/10.95 יֵלֵ֨ךְ וּבָכֹה֘ נֹשֵׂ֢א[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7994--7997
+Underfull \hbox (badness 10000) in paragraph at lines 7996--7999
  []\TU/Shlomo(1)/m/n/10.95 מֶֽשֶׁךְ־הַ֫זָּ֥רַע בֹּֽא־יָבֹ֥א[] 
  []
 
 
-Overfull \hbox (15.53201pt too wide) in paragraph at lines 7999--8017
+Overfull \hbox (15.53201pt too wide) in paragraph at lines 8001--8019
  [][] [] 
  []
 
 [288
 
 ]
-Underfull \hbox (badness 1817) in paragraph at lines 8031--8031
+Underfull \hbox (badness 1817) in paragraph at lines 8033--8033
  [][]\TU/FreeSans(1)/m/n/8 בחנוכה:  \TU/Shlomo(1)/m/n/10 בִּימֵי מַתִּתְיָֽהוּ בֶּן
  יוֹחָנָן כֹּהֵן[] 
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 8031--8031
+Underfull \hbox (badness 1005) in paragraph at lines 8033--8033
  []\TU/Shlomo(1)/m/n/10 גָּדוֹל חַשְׁמֹנַי וּבָנָיו כְּשֶׁעָמְֿדָה מַלְכוּת יָוָן[] 
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 8031--8031
+Underfull \hbox (badness 1107) in paragraph at lines 8033--8033
  []\TU/Shlomo(1)/m/n/10 מָסַֽרְתָּ גִּבּוֹרִים בְּיַד חַלָּשִׁים וְרַבִּים בְּיַד[] 
  []
 
 
-Underfull \hbox (badness 4096) in paragraph at lines 8031--8031
+Underfull \hbox (badness 4096) in paragraph at lines 8033--8033
  [][]\TU/FreeSans(1)/m/n/8 בפורים:  \TU/Shlomo(1)/m/n/10 בִּימֵי מָרְדֳּכַי[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8031--8031
+Underfull \hbox (badness 10000) in paragraph at lines 8033--8033
  []\TU/Shlomo(1)/m/n/10 וְִאֶסְתֵּר בְּשׁוּשַׁן הַבִּירָה[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8031--8031
+Underfull \hbox (badness 10000) in paragraph at lines 8033--8033
  []\TU/Shlomo(1)/m/n/10 כְּשֶׁעָמַד עֲלֵיהֶם הָמָן[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8031--8031
+Underfull \hbox (badness 10000) in paragraph at lines 8033--8033
  []\TU/Shlomo(1)/m/n/10 הָרָשָׁע בִּקֵּשׁ   \TU/FreeSans(1)/m/n/6 (אסתר ג)[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8031--8031
+Underfull \hbox (badness 10000) in paragraph at lines 8033--8033
  []\TU/Shlomo(1)/m/n/10 לְהַשְׁמִ֡יד לַֽהֲרֹ֣ג וּלְאַבֵּ֣ד[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8031--8031
+Underfull \hbox (badness 10000) in paragraph at lines 8033--8033
  []\TU/Shlomo(1)/m/n/10 אֶת־כָּל־הַ֠יְּֿהוּדִים מִנַּ֨עַר[] 
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 8031--8031
+Underfull \hbox (badness 1077) in paragraph at lines 8033--8033
  []\TU/Shlomo(1)/m/n/10 וְעַד־זָקֵ֨ן טַ֤ף וְנָשִׁים֙ בְּי֣וֹם[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8031--8031
+Underfull \hbox (badness 10000) in paragraph at lines 8033--8033
  []\TU/Shlomo(1)/m/n/10 שְׁנֵים־עָשָׂ֖ר הוּא־חֹ֣דֶשׁ[] 
  []
 
 
-Underfull \hbox (badness 4673) in paragraph at lines 8031--8031
+Underfull \hbox (badness 4673) in paragraph at lines 8033--8033
  []\TU/Shlomo(1)/m/n/10 בְּרַחֲמֶֽיךָ הָרַבִּים הֵפַֽרְתָּ[] 
  []
 
 
-Underfull \hbox (badness 4954) in paragraph at lines 8031--8031
+Underfull \hbox (badness 4954) in paragraph at lines 8033--8033
  []\TU/Shlomo(1)/m/n/10 אֶת עֲצָתוֹ וְקִלְקַלְתָּ אֶת[] 
  []
 
 
-Underfull \hbox (badness 3058) in paragraph at lines 8031--8031
+Underfull \hbox (badness 3058) in paragraph at lines 8033--8033
  []\TU/Shlomo(1)/m/n/10 מַחֲשַׁבְתּוֹ וַהֲשֵׁבֽוֹתָ גְּמוּלוֹ[] 
  []
 
 
-Underfull \hbox (badness 3668) in paragraph at lines 8031--8031
+Underfull \hbox (badness 3668) in paragraph at lines 8033--8033
  []\TU/Shlomo(1)/m/n/10 בְּרֹאשׁוֹ וְתָלוּ אוֹתוֹ וְאֶת[] 
  []
 
@@ -7406,13 +7408,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [292]
-Underfull \hbox (badness 1137) in paragraph at lines 8164--8165
+Underfull \hbox (badness 1137) in paragraph at lines 8166--8167
 [][]|\TU/Shlomo(1)/m/n/10.95 הָרַחֲמָן הוּא יְחַדֵּשׁ עָלֵֽינוּ אֶת הַחֹֽדֶשׁ הַזֶּה 
 לְטוֹבָה[]
  []
 
 
-Overfull \hbox (12.33212pt too wide) in alignment at lines 8158--8175
+Overfull \hbox (12.33212pt too wide) in alignment at lines 8160--8177
  [] [] 
  []
 
@@ -7426,1504 +7428,1504 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [294] [295
 
 ]
-Overfull \hbox (5.18472pt too wide) in paragraph at lines 8261--8271
+Overfull \hbox (5.18472pt too wide) in paragraph at lines 8263--8273
  [][][] [] 
  []
 
 [296
 
 ]
-Underfull \hbox (badness 6445) in paragraph at lines 8328--8333
+Underfull \hbox (badness 6445) in paragraph at lines 8330--8335
  []\TU/Shlomo(1)/m/n/9 וַֽיְהִי־אֽוֹר׃ וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָא֖וֹר[] 
  []
 
 
-Underfull \hbox (badness 5147) in paragraph at lines 8328--8333
+Underfull \hbox (badness 5147) in paragraph at lines 8330--8335
  []\TU/Shlomo(1)/m/n/9 כִּי־ט֑וֹב וַיַּבְדֵּ֣ל אֱלֹהִ֔ים בֵּ֥ין הָא֖וֹר[] 
  []
 
 
-Underfull \hbox (badness 7814) in paragraph at lines 8328--8333
+Underfull \hbox (badness 7814) in paragraph at lines 8330--8335
  []\TU/Shlomo(1)/m/n/9 כִּי־טֽוֹב׃ וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם[] 
  []
 
 
-Underfull \hbox (badness 7963) in paragraph at lines 8334--8336
+Underfull \hbox (badness 7963) in paragraph at lines 8336--8338
  []\TU/Shlomo(1)/m/n/9 כָּל־בָּשָׂ֛ר אֶת־דַּרְכּ֖וֹ עַל־הָאָֽרֶץ׃ \TU/Shlomo(1)/bx/n/
 9 ס[] 
  []
 
 
-Underfull \hbox (badness 6493) in paragraph at lines 8334--8336
+Underfull \hbox (badness 6493) in paragraph at lines 8336--8338
  []\TU/Shlomo(1)/m/n/9 אֶת־הַמַּבּ֥וּל מַ֨יִם֙ עַל־הָאָ֔רֶץ לְשַׁחֵ֣ת[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8334--8336
+Underfull \hbox (badness 10000) in paragraph at lines 8336--8338
  []\TU/Shlomo(1)/m/n/9 אֶת־בְּרִיתִ֖י אִתָּ֑ךְ וּבָאתָ֙ אֶל־הַתֵּ֔בָה[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8334--8336
+Underfull \hbox (badness 10000) in paragraph at lines 8336--8338
  []\TU/Shlomo(1)/m/n/9 וּמִכָּל־הָ֠חַ֠י מִֽכָּל־בָּשָׂ֞ר שְׁנַ֧יִם מִכֹּ֛ל[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8337--8340
+Underfull \hbox (badness 10000) in paragraph at lines 8339--8342
  []\TU/Shlomo(1)/m/n/9 שָׁנָ֔ה בְּצֵאת֖וֹ מֵֽחָרָֽן׃ וַיִּקַּ֣ח אַבְרָם֩[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8337--8340
+Underfull \hbox (badness 10000) in paragraph at lines 8339--8342
  []\TU/Shlomo(1)/m/n/9 אֶת־שָׂרַ֨י אִשְׁתּ֜וֹ וְאֶת־ל֣וֹט בֶּן־אָחִ֗יו[] 
  []
 
 [297
 
 ]
-Underfull \hbox (badness 5359) in paragraph at lines 8341--8347
+Underfull \hbox (badness 5359) in paragraph at lines 8343--8349
  []\TU/Shlomo(1)/m/n/9 עָלָ֑יו וַיַּ֗רְא וַיָּ֤רָץ לִקְרָאתָם֙ מִפֶּ֣תַֽח[] 
  []
 
 
-Underfull \hbox (badness 6842) in paragraph at lines 8341--8347
+Underfull \hbox (badness 6842) in paragraph at lines 8343--8349
  []\TU/Shlomo(1)/m/n/9 אִם־נָ֨א מָצָ֤אתִי חֵן֙ בְּעֵינֶ֔יךָ אַל־נָ֥א[] 
  []
 
 
-Underfull \hbox (badness 6542) in paragraph at lines 8341--8347
+Underfull \hbox (badness 6542) in paragraph at lines 8343--8349
  []\TU/Shlomo(1)/m/n/9 תַֽעֲבֹ֖ר מֵעַ֥ל עַבְדֶּֽךָ׃  \TU/FreeSans(1)/m/n/8 (\TU/
 FreeSans(1)/bx/n/8 לוי למנהג[] 
  []
 
 
-Underfull \hbox (badness 6332) in paragraph at lines 8341--8347
+Underfull \hbox (badness 6332) in paragraph at lines 8343--8349
  []\TU/Shlomo(1)/m/n/9 ל֖וּשִׁי וַֽעֲשִׂ֥י עֻגֽוֹת׃ וְאֶל־הַבָּקָ֖ר רָ֣ץ[] 
  []
 
 
-Underfull \hbox (badness 6284) in paragraph at lines 8348--8350
+Underfull \hbox (badness 6284) in paragraph at lines 8350--8352
  []\TU/Shlomo(1)/m/n/9 קְבָרֵ֔ינוּ קְבֹ֖ר אֶת־מֵתֶ֑ךָ אִ֣ישׁ מִמֶּ֔נּוּ[] 
  []
 
 
-Underfull \hbox (badness 5985) in paragraph at lines 8348--8350
+Underfull \hbox (badness 5985) in paragraph at lines 8350--8352
  []\TU/Shlomo(1)/m/n/9 וַיָּ֧קָם אַבְרָהָ֛ם וַיִּשְׁתַּ֥חוּ לְעַם־הָאָ֖רֶץ[] 
  []
 
 
-Underfull \hbox (badness 5622) in paragraph at lines 8348--8350
+Underfull \hbox (badness 5622) in paragraph at lines 8350--8352
  []\TU/Shlomo(1)/m/n/9 אִם־יֵ֣שׁ אֶת־נַפְשְׁכֶ֗ם לִקְבֹּ֤ר אֶת־מֵתִי֙[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8348--8350
+Underfull \hbox (badness 10000) in paragraph at lines 8350--8352
  []\TU/Shlomo(1)/m/n/9 מִלְּפָנַ֔י שְׁמָע֕וּנִי וּפִגְעוּ־לִ֖י בְּעֶפְר֥וֹן[] 
  []
 
 
-Underfull \hbox (badness 6332) in paragraph at lines 8348--8350
+Underfull \hbox (badness 6332) in paragraph at lines 8350--8352
  []\TU/Shlomo(1)/m/n/9 אֶ֩רֶץ֩ אַרְבַּ֨ע מֵאֹ֧ת שֶֽׁקֶל־כֶּ֛סֶף בֵּינִ֥י[] 
  []
 
 [298]
-Underfull \hbox (badness 10000) in paragraph at lines 8351--8354
+Underfull \hbox (badness 10000) in paragraph at lines 8353--8356
  []\TU/Shlomo(1)/m/n/9 וְאֵ֛לֶּה תּֽוֹלְדֹ֥ת יִצְחָ֖ק בֶּן־אַבְרָהָ֑ם[] 
  []
 
 
-Underfull \hbox (badness 6380) in paragraph at lines 8351--8354
+Underfull \hbox (badness 6380) in paragraph at lines 8353--8356
  []\TU/Shlomo(1)/m/n/9 מִלְּבַד֙ הָֽרָעָ֣ב הָֽרִאשׁ֔וֹן אֲשֶׁ֥ר הָיָ֖ה[] 
  []
 
 [299]
-Underfull \hbox (badness 6396) in paragraph at lines 8355--8357
+Underfull \hbox (badness 6396) in paragraph at lines 8357--8359
  []\TU/Shlomo(1)/m/n/9 בּֽוֹ׃  \TU/FreeSans(1)/m/n/8 (\TU/FreeSans(1)/bx/n/8 לוי\
 TU/FreeSans(1)/m/n/8 )  \TU/Shlomo(1)/m/n/9 וְהִנֵּ֨ה יְיָ֜ נִצָּ֣ב עָלָיו֘[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8358--8360
+Underfull \hbox (badness 10000) in paragraph at lines 8360--8362
  []\TU/Shlomo(1)/m/n/9 אֹתָם֙ לֵאמֹ֔ר כֹּ֣ה תֹֽאמְר֔וּן לַֽאדֹנִ֖י[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8358--8360
+Underfull \hbox (badness 10000) in paragraph at lines 8360--8362
  []\TU/Shlomo(1)/m/n/9 וַיָּשֻׁ֨בוּ֙ הַמַּלְאָכִ֔ים אֶל־יַֽעֲקֹ֖ב לֵאמֹ֑ר[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8358--8360
+Underfull \hbox (badness 10000) in paragraph at lines 8360--8362
  []\TU/Shlomo(1)/m/n/9 אֲשֶׁר־אִתּ֗וֹ וְאֶת־הַצֹּ֧אן וְאֶת־הַבָּקָ֛ר[] 
  []
 
 
-Underfull \hbox (badness 7030) in paragraph at lines 8358--8360
+Underfull \hbox (badness 7030) in paragraph at lines 8360--8362
  []\TU/Shlomo(1)/m/n/9 וּלְמֽוֹלַדְתְּךָ֖ וְאֵיטִ֥יבָה עִמָּֽךְ׃ קָטֹ֝נְתִּי[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8358--8360
+Underfull \hbox (badness 10000) in paragraph at lines 8360--8362
  []\TU/Shlomo(1)/m/n/9 מִכֹּ֤ל הַֽחֲסָדִים֙ וּמִכָּל־הָ֣אֱמֶ֔ת אֲשֶׁ֥ר[] 
  []
 
 [300]
-Underfull \hbox (badness 10000) in paragraph at lines 8362--8364
+Underfull \hbox (badness 10000) in paragraph at lines 8364--8366
  []\TU/Shlomo(1)/m/n/9 וַיֵּ֣שֶׁב יַֽעֲקֹ֔ב בְּאֶ֖רֶץ מְגוּרֵ֣י אָבִ֑יו[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8362--8364
+Underfull \hbox (badness 10000) in paragraph at lines 8364--8366
  []\TU/Shlomo(1)/m/n/9 בְּאֶ֖רֶץ כְּנָֽעַן׃ אֵ֣לֶּה תֹּֽלְד֣וֹת יַֽעֲקֹ֗ב[] 
  []
 
 
-Underfull \hbox (badness 6978) in paragraph at lines 8362--8364
+Underfull \hbox (badness 6978) in paragraph at lines 8364--8366
  []\TU/Shlomo(1)/m/n/9 וַיִּרְא֣וּ אֶחָ֗יו כִּֽי־אֹת֞וֹ אָהַ֤ב אֲבִיהֶם֙[] 
  []
 
 
-Underfull \hbox (badness 5652) in paragraph at lines 8362--8364
+Underfull \hbox (badness 5652) in paragraph at lines 8364--8366
  []\TU/Shlomo(1)/m/n/9 אֶל־אָבִיו֘ וְאֶל־אֶחָיו֒ וַיִּגְעַר־בּ֣וֹ אָבִ֔יו[] 
  []
 
 
-Underfull \hbox (badness 6876) in paragraph at lines 8365--8367
+Underfull \hbox (badness 6876) in paragraph at lines 8367--8369
  []\TU/Shlomo(1)/m/n/9 הַפָּר֖וֹת עַל־שְׂפַ֥ת הַיְאֹֽר׃ וַתֹּאכַ֣לְנָה[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8365--8367
+Underfull \hbox (badness 10000) in paragraph at lines 8367--8369
  []\TU/Shlomo(1)/m/n/9 שֵׁנִ֑ית וְהִנֵּ֣ה שֶׁ֣בַע שִׁבֳּלִ֗ים עֹל֛וֹת[] 
  []
 
 
-Underfull \hbox (badness 5652) in paragraph at lines 8365--8367
+Underfull \hbox (badness 5652) in paragraph at lines 8367--8369
  []\TU/Shlomo(1)/m/n/9 וַיִּקְרָ֣א אֶת־יוֹסֵ֔ף וַיְרִיצֻ֖הוּ מִן־הַבּ֑וֹר[] 
  []
 
 
-Underfull \hbox (badness 7168) in paragraph at lines 8368--8370
+Underfull \hbox (badness 7168) in paragraph at lines 8370--8372
  []\TU/Shlomo(1)/m/n/9 וְאַל־יִ֥חַר אַפְּךָ֖ בְּעַבְדֶּ֑ךָ כִּ֥י כָמ֖וֹךָ[] 
  []
 
 
-Underfull \hbox (badness 6825) in paragraph at lines 8368--8370
+Underfull \hbox (badness 6825) in paragraph at lines 8370--8372
  []\TU/Shlomo(1)/m/n/9 הֽוֹרִדֻ֖הוּ אֵלָ֑י וְאָשִׂ֥ימָה עֵינִ֖י עָלָֽיו׃[] 
  []
 
 [301]
-Underfull \hbox (badness 10000) in paragraph at lines 8371--8375
+Underfull \hbox (badness 10000) in paragraph at lines 8373--8377
  []\TU/Shlomo(1)/m/n/9 בָנָיו֙ עִמּ֔וֹ אֶת־מְנַשֶּׁ֖ה וְאֶת־אֶפְרָֽיִם׃[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8371--8375
+Underfull \hbox (badness 10000) in paragraph at lines 8373--8377
  []\TU/Shlomo(1)/m/n/9 בָּ֣א אֵלֶ֑יךָ וַיִּתְחַזֵּק֙ יִשְׂרָאֵ֔ל וַיֵּ֖שֶׁב[] 
  []
 
 
-Underfull \hbox (badness 6893) in paragraph at lines 8371--8375
+Underfull \hbox (badness 6893) in paragraph at lines 8373--8377
  []\TU/Shlomo(1)/m/n/9 עַל־הַמִּטָּֽה׃ וַיֹּ֤אמֶר יַֽעֲקֹב֙ אֶל־יוֹסֵ֔ף[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8376--8380
+Underfull \hbox (badness 10000) in paragraph at lines 8378--8382
  []\TU/Shlomo(1)/m/n/9 וְאֵ֗לֶּה שְׁמוֹת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל הַבָּאִ֖ים[] 
  []
 
 
-Underfull \hbox (badness 5681) in paragraph at lines 8376--8380
+Underfull \hbox (badness 5681) in paragraph at lines 8378--8382
  []\TU/Shlomo(1)/m/n/9 וְכָל־אֶחָ֔יו וְכֹ֖ל הַדּ֥וֹר הַהֽוּא׃ וּבְנֵ֣י[] 
  []
 
 
-Underfull \hbox (badness 6725) in paragraph at lines 8376--8380
+Underfull \hbox (badness 6725) in paragraph at lines 8378--8382
  []\TU/Shlomo(1)/m/n/9 הִנֵּ֗ה עַ֚ם בְּנֵ֣י יִשְׂרָאֵ֔ל רַ֥ב וְעָצ֖וּם[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8376--8380
+Underfull \hbox (badness 10000) in paragraph at lines 8378--8382
  []\TU/Shlomo(1)/m/n/9 וְהָיָ֞ה כִּֽי־תִקְרֶ֤אנָה מִלְחָמָה֙ וְנוֹסַ֤ף[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8376--8380
+Underfull \hbox (badness 10000) in paragraph at lines 8378--8382
  []\TU/Shlomo(1)/m/n/9 אֶת־חַיֵּיהֶ֜ם בַּֽעֲבֹדָ֣ה קָשָׁ֗ה בְּחֹ֨מֶר֙[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8376--8380
+Underfull \hbox (badness 10000) in paragraph at lines 8378--8382
  []\TU/Shlomo(1)/m/n/9 וּבִלְבֵנִ֔ים וּבְכָל־עֲבֹדָ֖ה בַּשָּׂדֶ֑ה אֵ֚ת[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8376--8380
+Underfull \hbox (badness 10000) in paragraph at lines 8378--8382
  []\TU/Shlomo(1)/m/n/9 אֹת֔וֹ וְאִם־בַּ֥ת הִ֖וא וָחָֽיָה׃ וַתִּירֶ֤אןָ[] 
  []
 
 
-Underfull \hbox (badness 6001) in paragraph at lines 8376--8380
+Underfull \hbox (badness 6001) in paragraph at lines 8378--8382
  []\TU/Shlomo(1)/m/n/9 דִּבֶּ֥ר אֲלֵיהֶ֖ן מֶ֣לֶךְ מִצְרָ֑יִם וַתְּחַיֶּ֖יןָ[] 
  []
 
 [302]
-Underfull \hbox (badness 5133) in paragraph at lines 8381--8386
+Underfull \hbox (badness 5133) in paragraph at lines 8383--8388
  []\TU/Shlomo(1)/m/n/9 בֹּ֣א דַבֵּ֔ר אֶל־פַּרְעֹ֖ה מֶ֣לֶךְ מִצְרָ֑יִם[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8381--8386
+Underfull \hbox (badness 10000) in paragraph at lines 8383--8388
  []\TU/Shlomo(1)/m/n/9 וְאֶֽל־אַֽהֲרֹן֒ וַיְצַוֵּם֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8381--8386
+Underfull \hbox (badness 10000) in paragraph at lines 8383--8388
  []\TU/Shlomo(1)/m/n/9 וְאֶל־פַּרְעֹ֖ה מֶ֣לֶךְ מִצְרָ֑יִם לְהוֹצִ֥יא[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8387--8389
+Underfull \hbox (badness 10000) in paragraph at lines 8389--8391
  []\TU/Shlomo(1)/m/n/9 כִּֽי־אֲנִ֞י הִכְבַּ֤דְתִּי אֶת־לִבּוֹ֙ וְאֶת־לֵ֣ב[] 
  []
 
 
-Underfull \hbox (badness 6348) in paragraph at lines 8387--8389
+Underfull \hbox (badness 6348) in paragraph at lines 8389--8391
  []\TU/Shlomo(1)/m/n/9 אֵלָ֗יו כֹּֽה־אָמַ֤ר יְיָ֙ אֱלֹהֵ֣י הָֽעִבְרִ֔ים[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8387--8389
+Underfull \hbox (badness 10000) in paragraph at lines 8389--8391
  []\TU/Shlomo(1)/m/n/9 כָל־מִצְרַ֒יִם֒ אֲשֶׁ֨ר לֹֽא־רָא֤וּ אֲבֹתֶ֨יךָ֙[] 
  []
 
 [303]
-Underfull \hbox (badness 10000) in paragraph at lines 8391--8400
+Underfull \hbox (badness 10000) in paragraph at lines 8393--8402
  []\TU/Shlomo(1)/m/n/9 בִּרְאֹתָ֥ם מִלְחָמָ֖ה וְשָׁ֥בוּ מִצְרָֽיְמָה׃[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8391--8400
+Underfull \hbox (badness 10000) in paragraph at lines 8393--8402
  []\TU/Shlomo(1)/m/n/9 יַם־ס֑וּף וַֽחֲמֻשִׁ֛ים עָל֥וּ בְנֵֽי־יִשְׂרָאֵ֖ל[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8391--8400
+Underfull \hbox (badness 10000) in paragraph at lines 8393--8402
  []\TU/Shlomo(1)/m/n/9 אֶתְכֶ֔ם וְהַֽעֲלִיתֶ֧ם אֶת־עַצְמֹתַ֛י מִזֶּ֖ה[] 
  []
 
 
-Underfull \hbox (badness 6825) in paragraph at lines 8391--8400
+Underfull \hbox (badness 6825) in paragraph at lines 8393--8402
  []\TU/Shlomo(1)/m/n/9 בְּפַרְעֹה֙ וּבְכָל־חֵיל֔וֹ וְיָֽדְע֥וּ מִצְרַ֖יִם[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8391--8400
+Underfull \hbox (badness 10000) in paragraph at lines 8393--8402
  []\TU/Shlomo(1)/m/n/9 וַיֹּֽאמְרוּ֙ מַה־זֹּ֣את עָשִׂ֔ינוּ כִּֽי־שִׁלַּ֥חְנוּ[] 
  []
 
 [304]
-Underfull \hbox (badness 6910) in paragraph at lines 8404--8406
+Underfull \hbox (badness 6910) in paragraph at lines 8406--8408
  []\TU/Shlomo(1)/m/n/9 וִֽילָדֶ֗יהָ תִּֽהְיֶה֙ לַֽאדֹנֶ֔יהָ וְה֖וּא יֵצֵ֥א[] 
  []
 
 
-Underfull \hbox (badness 7326) in paragraph at lines 8404--8406
+Underfull \hbox (badness 7326) in paragraph at lines 8406--8408
  []\TU/Shlomo(1)/m/n/9 חָפְשִֽׁי׃ וְהִגִּישׁ֤וֹ אֲדֹנָיו֙ אֶל־הָ֣אֱלֹהִ֔ים[] 
  []
 
 
-Underfull \hbox (badness 6220) in paragraph at lines 8404--8406
+Underfull \hbox (badness 6220) in paragraph at lines 8406--8408
  []\TU/Shlomo(1)/m/n/9 לְאָמָ֑ה לֹ֥א תֵצֵ֖א כְּצֵ֥את הָֽעֲבָדִֽים׃[] 
  []
 
 [305]
-Underfull \hbox (badness 5985) in paragraph at lines 8410--8419
+Underfull \hbox (badness 5985) in paragraph at lines 8412--8421
  []\TU/Shlomo(1)/m/n/9 ר֣וּחַ חָכְמָ֑ה וְעָשׂ֞וּ אֶת־בִּגְדֵ֧י אַֽהֲרֹ֛ן[] 
  []
 
 
-Underfull \hbox (badness 5622) in paragraph at lines 8420--8424
+Underfull \hbox (badness 5622) in paragraph at lines 8422--8426
  []\TU/Shlomo(1)/m/n/9 אִ֣ישׁ כֹּ֧פֶר נַפְשׁ֛וֹ לַֽיְיָ֖ בִּפְקֹ֣ד אֹתָ֑ם[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8420--8424
+Underfull \hbox (badness 10000) in paragraph at lines 8422--8426
  []\TU/Shlomo(1)/m/n/9 הַכִּפֻּרִ֗ים מֵאֵת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וְנָֽתַתָּ֣[] 
  []
 
 
-Underfull \hbox (badness 7522) in paragraph at lines 8420--8424
+Underfull \hbox (badness 7522) in paragraph at lines 8422--8426
  []\TU/Shlomo(1)/m/n/9 אֹת֔וֹ עַל־עֲבֹדַ֖ת אֹ֣הֶל מוֹעֵ֑ד וְהָיָה֩[] 
  []
 
 
-Underfull \hbox (badness 5817) in paragraph at lines 8420--8424
+Underfull \hbox (badness 5817) in paragraph at lines 8422--8426
  []\TU/Shlomo(1)/m/n/9 יִרְחֲצוּ־מַ֖יִם וְלֹ֣א יָמֻ֑תוּ א֣וֹ בְגִשְׁתָּ֤ם[] 
  []
 
 [306]
-Underfull \hbox (badness 5231) in paragraph at lines 8425--8431
+Underfull \hbox (badness 5231) in paragraph at lines 8427--8433
  []\TU/Shlomo(1)/m/n/9 קֹ֛דֶשׁ שַׁבַּ֥ת שַׁבָּת֖וֹן לַֽיְיָ֑ כָּל־הָֽעֹשֶׂ֥ה[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8425--8431
+Underfull \hbox (badness 10000) in paragraph at lines 8427--8433
  []\TU/Shlomo(1)/m/n/9 בְּכֹ֖ל מֽשְׁבֹֽתֵיכֶ֑ם בְּי֖וֹם הַשַּׁבָּֽת׃ \TU/Shlomo(1)/bx/
 n/9 פ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8425--8431
+Underfull \hbox (badness 10000) in paragraph at lines 8427--8433
  []\TU/FreeSans(1)/m/n/8 (\TU/FreeSans(1)/bx/n/8 לוי\TU/FreeSans(1)/m/n/8 )  \T
 U/Shlomo(1)/m/n/9 וַיֹּ֣אמֶר מֹשֶׁ֔ה אֶל־כָּל־עֲדַ֥ת[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8425--8431
+Underfull \hbox (badness 10000) in paragraph at lines 8427--8433
  []\TU/Shlomo(1)/m/n/9 וְאֶת־מִכְסֵ֑הוּ אֶת־קְרָסָיו֙ וְאֶת־קְרָשָׁ֔יו[] 
  []
 
 
-Underfull \hbox (badness 7221) in paragraph at lines 8425--8431
+Underfull \hbox (badness 7221) in paragraph at lines 8427--8433
  []\TU/Shlomo(1)/m/n/9 אֶת־בְּרִיחָ֕ו [ק’ בְּרִיחָ֕יו] אֶת־עַמֻּדָ֖יו[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8425--8431
+Underfull \hbox (badness 10000) in paragraph at lines 8427--8433
  []\TU/Shlomo(1)/m/n/9 וְאֶת־אֲדָנָֽיו׃ אֶת־הָֽאָרֹ֥ן וְאֶת־בַּדָּ֖יו[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8425--8431
+Underfull \hbox (badness 10000) in paragraph at lines 8427--8433
  []\TU/Shlomo(1)/m/n/9 אֶת־הַכַּפֹּ֑רֶת וְאֵ֖ת פָּרֹ֥כֶת הַמָּסָֽךְ׃[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8425--8431
+Underfull \hbox (badness 10000) in paragraph at lines 8427--8433
  []\TU/Shlomo(1)/m/n/9 וְאֶת־כֵּלֶ֖יהָ וְאֶת־נֵֽרֹתֶ֑יהָ וְאֵ֖ת שֶׁ֥מֶן[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8425--8431
+Underfull \hbox (badness 10000) in paragraph at lines 8427--8433
  []\TU/Shlomo(1)/m/n/9 וְאֶת־מָסַ֥ךְ הַפֶּ֖תַח לְפֶ֥תַח הַמִּשְׁכָּֽן׃[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8425--8431
+Underfull \hbox (badness 10000) in paragraph at lines 8427--8433
  []\TU/Shlomo(1)/m/n/9 אֲשֶׁר־ל֔וֹ אֶת־בַּדָּ֖יו וְאֶת־כָּל־כֵּלָ֑יו[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8432--8434
+Underfull \hbox (badness 10000) in paragraph at lines 8434--8436
  []\TU/Shlomo(1)/m/n/9 אֲשֶׁ֥ר פֻּקַּ֖ד עַל־פִּ֣י מֹשֶׁ֑ה עֲבֹדַת֙[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8432--8434
+Underfull \hbox (badness 10000) in paragraph at lines 8434--8436
  []\TU/Shlomo(1)/m/n/9 וּבְצַלְאֵ֛ל בֶּן־אוּרִ֥י בֶן־ח֖וּר לְמַטֵּ֣ה[] 
  []
 
 
-Underfull \hbox (badness 5064) in paragraph at lines 8432--8434
+Underfull \hbox (badness 5064) in paragraph at lines 8434--8436
  []\TU/Shlomo(1)/m/n/9 יְהוּדָ֑ה עָשָׂ֕ה אֵ֛ת כָּל־אֲשֶׁר־צִוָּ֥ה יְיָ֖[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8432--8434
+Underfull \hbox (badness 10000) in paragraph at lines 8434--8436
  []\TU/Shlomo(1)/m/n/9 כָּל־יִתְדֹ֧ת הַמִּשְׁכָּ֛ן וְאֶת־כָּל־יִתְדֹ֥ת[] 
  []
 
 [307]
-Underfull \hbox (badness 10000) in paragraph at lines 8435--8441
+Underfull \hbox (badness 10000) in paragraph at lines 8437--8443
  []\TU/Shlomo(1)/m/n/9 קָרְבָּ֖ן לַֽיְיָ֑ מִן־הַבְּהֵמָ֗ה מִן־הַבָּקָר֙[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8435--8441
+Underfull \hbox (badness 10000) in paragraph at lines 8437--8443
  []\TU/Shlomo(1)/m/n/9 וּמִן־הַצֹּ֔אן תַּקְרִ֖יבוּ אֶת־קָרְבַּנְכֶֽם׃[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8435--8441
+Underfull \hbox (badness 10000) in paragraph at lines 8437--8443
  []\TU/Shlomo(1)/m/n/9 וְזָֽרְק֨וּ אֶת־הַדָּ֤ם עַל־הַמִּזְבֵּ֨חַ֙ סָבִ֔יב[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8435--8441
+Underfull \hbox (badness 10000) in paragraph at lines 8437--8443
  []\TU/Shlomo(1)/m/n/9 אֲשֶׁר־פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃ וְהִפְשִׁ֖יט[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8435--8441
+Underfull \hbox (badness 10000) in paragraph at lines 8437--8443
  []\TU/Shlomo(1)/m/n/9 בְּנֵ֨י אַֽהֲרֹ֧ן הַכֹּהֵ֛ן אֵ֖שׁ עַל־הַמִּזְבֵּ֑חַ[] 
  []
 
 
-Underfull \hbox (badness 5548) in paragraph at lines 8435--8441
+Underfull \hbox (badness 5548) in paragraph at lines 8437--8443
  []\TU/Shlomo(1)/m/n/9 וְאֶת־רֹאשׁ֖וֹ וְאֶת־פִּדְר֑וֹ וְעָרַ֤ךְ הַכֹּהֵן֙[] 
  []
 
 
-Underfull \hbox (badness 5504) in paragraph at lines 8442--8444
+Underfull \hbox (badness 5504) in paragraph at lines 8444--8446
  []\TU/Shlomo(1)/m/n/9 תּ֥וּקַד בּֽוֹ׃ וְלָבַ֨שׁ הַכֹּהֵ֜ן מִדּ֣וֹ בַ֗ד[] 
  []
 
 
-Underfull \hbox (badness 7722) in paragraph at lines 8442--8444
+Underfull \hbox (badness 7722) in paragraph at lines 8444--8446
  []\TU/Shlomo(1)/m/n/9 אַֽהֲרֹ֣ן וּבָנָ֑יו מַצּ֤וֹת תֵּֽאָכֵל֙ בְּמָק֣וֹם[] 
  []
 
 [308]
-Underfull \hbox (badness 7685) in paragraph at lines 8445--8447
+Underfull \hbox (badness 7685) in paragraph at lines 8447--8449
  []\TU/Shlomo(1)/m/n/9 וַיִּשְׁחַ֛ט אֶת־עֵ֥גֶל הַֽחַטָּ֖את אֲשֶׁר־לֽוֹ׃[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8445--8447
+Underfull \hbox (badness 10000) in paragraph at lines 8447--8449
  []\TU/Shlomo(1)/m/n/9 וְאֶת־הַדָּ֣ם יָצַ֔ק אֶל־יְס֖וֹד הַמִּזְבֵּֽחַ׃[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8445--8447
+Underfull \hbox (badness 10000) in paragraph at lines 8447--8449
  []\TU/Shlomo(1)/m/n/9 וְאֶת־הַבָּשָׂ֖ר וְאֶת־הָע֑וֹר שָׂרַ֣ף בָּאֵ֔שׁ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8445--8447
+Underfull \hbox (badness 10000) in paragraph at lines 8447--8449
  []\TU/Shlomo(1)/m/n/9 מִח֖וּץ לַֽמַּֽחֲנֶֽה׃ וַיִּשְׁחַ֖ט אֶת־הָֽעֹלָ֑ה[] 
  []
 
 
-Underfull \hbox (badness 6625) in paragraph at lines 8445--8447
+Underfull \hbox (badness 6625) in paragraph at lines 8447--8449
  []\TU/Shlomo(1)/m/n/9 וַ֠יַּמְצִ֠אוּ בְּנֵ֨י אַֽהֲרֹ֤ן אֵלָיו֙ אֶת־הַדָּ֔ם[] 
  []
 
 
-Underfull \hbox (badness 7012) in paragraph at lines 8445--8447
+Underfull \hbox (badness 7012) in paragraph at lines 8447--8449
  []\TU/Shlomo(1)/m/n/9 הִמְצִ֧יאוּ אֵלָ֛יו לִנְתָחֶ֖יהָ וְאֶת־הָרֹ֑אשׁ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8445--8447
+Underfull \hbox (badness 10000) in paragraph at lines 8447--8449
  []\TU/Shlomo(1)/m/n/9 וְאֶת־הַכְּרָעָ֑יִם וַיַּקְטֵ֥ר עַל־הָֽעֹלָ֖ה[] 
  []
 
 
-Underfull \hbox (badness 7981) in paragraph at lines 8448--8452
+Underfull \hbox (badness 7981) in paragraph at lines 8450--8454
  []\TU/Shlomo(1)/m/n/9 וַיְדַבֵּ֥ר יְיָ֖ אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ דַּבֵּ֞ר[] 
  []
 
 
-Underfull \hbox (badness 5460) in paragraph at lines 8448--8452
+Underfull \hbox (badness 5460) in paragraph at lines 8450--8454
  []\TU/Shlomo(1)/m/n/9 נִדַּ֥ת דְּוֹתָ֖הּ תִּטְמָֽא׃ וּבַיּ֖וֹם הַשְּׁמִינִ֑י[] 
  []
 
 
-Underfull \hbox (badness 7433) in paragraph at lines 8448--8452
+Underfull \hbox (badness 7433) in paragraph at lines 8450--8454
  []\TU/Shlomo(1)/m/n/9 יִמּ֖וֹל בְּשַׂ֥ר עָרְלָתֽוֹ׃ וּשְׁלֹשִׁ֥ים יוֹם֙[] 
  []
 
 
-Underfull \hbox (badness 7326) in paragraph at lines 8448--8452
+Underfull \hbox (badness 7326) in paragraph at lines 8450--8454
  []\TU/Shlomo(1)/m/n/9 וּשְׁלֹ֣שֶׁת יָמִ֔ים תֵּשֵׁ֖ב בִּדְמֵ֣י טָֽהֳרָ֑ה[] 
  []
 
 
-Underfull \hbox (badness 5637) in paragraph at lines 8448--8452
+Underfull \hbox (badness 5637) in paragraph at lines 8450--8454
  []\TU/Shlomo(1)/m/n/9 לְבַת֒ תָּבִ֞יא כֶּ֤בֶשׂ בֶּן־שְׁנָתוֹ֙ לְעֹלָ֔ה[] 
  []
 
 
-Underfull \hbox (badness 7433) in paragraph at lines 8448--8452
+Underfull \hbox (badness 7433) in paragraph at lines 8450--8454
  []\TU/Shlomo(1)/m/n/9 וּבֶן־יוֹנָ֥ה אוֹ־תֹ֖ר לְחַטָּ֑את אֶל־פֶּ֥תַח[] 
  []
 
 [309]
-Underfull \hbox (badness 10000) in paragraph at lines 8453--8455
+Underfull \hbox (badness 10000) in paragraph at lines 8455--8457
  []\TU/Shlomo(1)/m/n/9 אֶל־הַכֹּהֵֽן׃ וְיָצָא֙ הַכֹּהֵ֔ן אֶל־מִח֖וּץ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8453--8455
+Underfull \hbox (badness 10000) in paragraph at lines 8455--8457
  []\TU/Shlomo(1)/m/n/9 לַֽמַּֽחֲנֶ֑ה וְרָאָה֙ הַכֹּהֵ֔ן וְהִנֵּ֛ה נִרְפָּ֥א[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8453--8455
+Underfull \hbox (badness 10000) in paragraph at lines 8455--8457
  []\TU/Shlomo(1)/m/n/9 וְלָקַ֧ח לַמִּטַּהֵ֛ר שְׁתֵּֽי־צִפֳּרִ֥ים חַיּ֖וֹת[] 
  []
 
 
-Underfull \hbox (badness 5741) in paragraph at lines 8453--8455
+Underfull \hbox (badness 5741) in paragraph at lines 8455--8457
  []\TU/Shlomo(1)/m/n/9 שִׁבְעַ֥ת יָמִֽים׃ וְהָיָה֩ בַיּ֨וֹם הַשְּׁבִיעִ֜י[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8453--8455
+Underfull \hbox (badness 10000) in paragraph at lines 8455--8457
  []\TU/Shlomo(1)/m/n/9 שְׁנֵֽי־כְבָשִׂים֙ תְּמִימִ֔ם וְכַבְשָׂ֥ה אַחַ֛ת[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8456--8458
+Underfull \hbox (badness 10000) in paragraph at lines 8458--8460
  []\TU/Shlomo(1)/m/n/9 מִבֵּ֖ית לַפָּרֹ֑כֶת אֶל־פְּנֵ֨י הַכַּפֹּ֜רֶת[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8456--8458
+Underfull \hbox (badness 10000) in paragraph at lines 8458--8460
  []\TU/Shlomo(1)/m/n/9 אֶל־הַקֹּ֑דֶשׁ בְּפַ֧ר בֶּן־בָּקָ֛ר לְחַטָּ֖את[] 
  []
 
 
-Underfull \hbox (badness 7704) in paragraph at lines 8456--8458
+Underfull \hbox (badness 7704) in paragraph at lines 8458--8460
  []\TU/Shlomo(1)/m/n/9 עִזִּ֖ים לְחַטָּ֑את וְאַ֥יִל אֶחָ֖ד לְעֹלָֽה׃[] 
  []
 
 
-Underfull \hbox (badness 6396) in paragraph at lines 8456--8458
+Underfull \hbox (badness 6396) in paragraph at lines 8458--8460
  []\TU/Shlomo(1)/m/n/9 יְיָ֔ פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃ וְנָתַ֧ן אַֽהֲרֹ֛ן[] 
  []
 
 
-Underfull \hbox (badness 7064) in paragraph at lines 8456--8458
+Underfull \hbox (badness 7064) in paragraph at lines 8458--8460
  []\TU/Shlomo(1)/m/n/9 אֶת־הַכַּפֹּ֛רֶת אֲשֶׁ֥ר עַל־הָֽעֵד֖וּת וְלֹ֥א[] 
  []
 
 
-Underfull \hbox (badness 6978) in paragraph at lines 8456--8458
+Underfull \hbox (badness 6978) in paragraph at lines 8458--8460
  []\TU/Shlomo(1)/m/n/9 וְהֵבִיא֙ אֶת־דָּמ֔וֹ אֶל־מִבֵּ֖ית לַפָּרֹ֑כֶת[] 
  []
 
 [310]
-Underfull \hbox (badness 7981) in paragraph at lines 8459--8461
+Underfull \hbox (badness 7981) in paragraph at lines 8461--8463
  []\TU/Shlomo(1)/m/n/9 וַיְדַבֵּ֥ר יְיָ֖ אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ דַּבֵּ֞ר[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8459--8461
+Underfull \hbox (badness 10000) in paragraph at lines 8461--8463
  []\TU/Shlomo(1)/m/n/9 אֶל־כָּל־עֲדַ֧ת בְּנֵֽי־יִשְׂרָאֵ֛ל וְאָֽמַרְתָּ֥[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8459--8461
+Underfull \hbox (badness 10000) in paragraph at lines 8461--8463
  []\TU/FreeSans(1)/m/n/8 (\TU/FreeSans(1)/bx/n/8 ישראל\TU/FreeSans(1)/m/n/8 )  
 \TU/Shlomo(1)/m/n/9 לֹ֖א תִּגְנֹ֑בוּ וְלֹֽא־תְכַֽחֲשׁ֥וּ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8462--8464
+Underfull \hbox (badness 10000) in paragraph at lines 8464--8466
  []\TU/Shlomo(1)/m/n/9 בְּנֵ֣י אַֽהֲרֹ֑ן וְאָֽמַרְתָּ֣ אֲלֵהֶ֔ם לְנֶ֥פֶשׁ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8462--8464
+Underfull \hbox (badness 10000) in paragraph at lines 8464--8466
  []\TU/Shlomo(1)/m/n/9 לֹֽא־יִטַּמָּ֖א בְּעַמָּֽיו׃ כִּ֚י אִם־לִשְׁאֵר֔וֹ[] 
  []
 
 
-Underfull \hbox (badness 7740) in paragraph at lines 8462--8464
+Underfull \hbox (badness 7740) in paragraph at lines 8464--8466
  []\TU/Shlomo(1)/m/n/9 הַקָּרֹ֖ב אֵלָ֑יו לְאִמּ֣וֹ וּלְאָבִ֔יו וְלִבְנ֥וֹ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8462--8464
+Underfull \hbox (badness 10000) in paragraph at lines 8464--8466
  []\TU/Shlomo(1)/m/n/9 וּלְבִתּ֖וֹ וּלְאָחִֽיו׃ וְלַֽאֲחֹת֤וֹ הַבְּתוּלָה֙[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8462--8464
+Underfull \hbox (badness 10000) in paragraph at lines 8464--8466
  []\TU/Shlomo(1)/m/n/9 וּמִלֵּ֣א אֶת־יָד֔וֹ לִלְבֹּ֖שׁ אֶת־הַבְּגָדִ֑ים[] 
  []
 
 [311]
-Underfull \hbox (badness 6559) in paragraph at lines 8465--8467
+Underfull \hbox (badness 6559) in paragraph at lines 8467--8469
  []\TU/Shlomo(1)/m/n/9 שָׁנִ֖ים שֶׁ֣בַע פְּעָמִ֑ים וְהָי֣וּ לְךָ֗ יְמֵי֙[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8465--8467
+Underfull \hbox (badness 10000) in paragraph at lines 8467--8469
  []\TU/Shlomo(1)/m/n/9 אֵ֣ת שְׁנַ֤ת הַֽחֲמִשִּׁים֙ שָׁנָ֔ה וּקְרָאתֶ֥ם[] 
  []
 
 
-Underfull \hbox (badness 7722) in paragraph at lines 8465--8467
+Underfull \hbox (badness 7722) in paragraph at lines 8467--8469
  []\TU/Shlomo(1)/m/n/9 תִבְצְר֖וּ אֶת־נְזִרֶֽיהָ׃ כִּ֚י יוֹבֵ֣ל הִ֔וא[] 
  []
 
 
-Underfull \hbox (badness 5231) in paragraph at lines 8469--8471
+Underfull \hbox (badness 5231) in paragraph at lines 8471--8473
  []\TU/Shlomo(1)/m/n/9 פִּרְיֽוֹ׃ וְהִשִּׂ֨יג לָכֶ֥ם דַּ֨יִשׁ֙ אֶת־בָּצִ֔יר[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8469--8471
+Underfull \hbox (badness 10000) in paragraph at lines 8471--8473
  []\TU/Shlomo(1)/m/n/9 בְּתֽוֹכֲכֶ֑ם וְלֹֽא־תִגְעַ֥ל נַפְשִׁ֖י אֶתְכֶֽם׃[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8469--8471
+Underfull \hbox (badness 10000) in paragraph at lines 8471--8473
  []\TU/Shlomo(1)/m/n/9 וְהִתְהַלַּכְתִּי֙ בְּת֣וֹכֲכֶ֔ם וְהָיִ֥יתִי לָכֶ֖ם[] 
  []
 
 [312]
-Underfull \hbox (badness 10000) in paragraph at lines 8472--8474
+Underfull \hbox (badness 10000) in paragraph at lines 8474--8476
  []\TU/Shlomo(1)/m/n/9 וַיְדַבֵּ֨ר יְיָ֧ אֶל־מֹשֶׁ֛ה בְּמִדְבַּ֥ר סִינַ֖י[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8472--8474
+Underfull \hbox (badness 10000) in paragraph at lines 8474--8476
  []\TU/Shlomo(1)/m/n/9 לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם בְּמִסְפַּ֣ר[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8475--8477
+Underfull \hbox (badness 10000) in paragraph at lines 8477--8479
  []\TU/Shlomo(1)/m/n/9 וַיְדַבֵּ֥ר יְיָ֖ אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ נָשׂ֗א[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8475--8477
+Underfull \hbox (badness 10000) in paragraph at lines 8477--8479
  []\TU/Shlomo(1)/m/n/9 עֲבֹדָ֖ה בְּאֹ֥הֶל מוֹעֵֽד׃ זֹ֣את עֲבֹדַ֔ת[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8475--8477
+Underfull \hbox (badness 10000) in paragraph at lines 8477--8479
  []\TU/Shlomo(1)/m/n/9 מִשְׁפְּחֹ֖ת הַגֵּֽרְשֻׁנִּ֑י לַֽעֲבֹ֖ד וּלְמַשָּֽׂא׃[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8475--8477
+Underfull \hbox (badness 10000) in paragraph at lines 8477--8479
  []\TU/FreeSans(1)/m/n/8 (\TU/FreeSans(1)/bx/n/8 לוי\TU/FreeSans(1)/m/n/8 )  \T
 U/Shlomo(1)/m/n/9 וְנָ֨שְׂא֜וּ אֶת־יְרִיעֹ֤ת הַמִּשְׁכָּן֙[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8475--8477
+Underfull \hbox (badness 10000) in paragraph at lines 8477--8479
  []\TU/Shlomo(1)/m/n/9 וְעַל־הַמִּזְבֵּ֨חַ֙ סָבִ֔יב וְאֵת֙ מֵֽיתְרֵיהֶ֔ם[] 
  []
 
 
-Underfull \hbox (badness 6220) in paragraph at lines 8475--8477
+Underfull \hbox (badness 6220) in paragraph at lines 8477--8479
  []\TU/Shlomo(1)/m/n/9 יֵֽעָשֶׂ֛ה לָהֶ֖ם וְעָבָֽדוּ׃ עַל־פִּ֩י אַֽהֲרֹ֨ן[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8475--8477
+Underfull \hbox (badness 10000) in paragraph at lines 8477--8479
  []\TU/Shlomo(1)/m/n/9 עֲלֵהֶם֙ בְּמִשְׁמֶ֔רֶת אֵ֖ת כָּל־מַשָּׂאָֽם׃[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8475--8477
+Underfull \hbox (badness 10000) in paragraph at lines 8477--8479
  []\TU/Shlomo(1)/m/n/9 זֹ֣את עֲבֹדַ֗ת מִשְׁפְּחֹ֛ת בְּנֵ֥י הַגֵּֽרְשֻׁנִּ֖י[] 
  []
 
 
-Underfull \hbox (badness 7851) in paragraph at lines 8475--8477
+Underfull \hbox (badness 7851) in paragraph at lines 8477--8479
  []\TU/Shlomo(1)/m/n/9 בֶּן־חֲמִשִּׁ֥ים שָׁנָ֖ה תִּפְקְדֵ֑ם כָּל־הַבָּא֙[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8475--8477
+Underfull \hbox (badness 10000) in paragraph at lines 8477--8479
  []\TU/Shlomo(1)/m/n/9 וְעַמּוּדָ֥יו וַֽאֲדָנָֽיו׃ וְעַמּוּדֵי֩ הֶֽחָצֵ֨ר[] 
  []
 
 [313]
-Underfull \hbox (badness 6477) in paragraph at lines 8480--8481
+Underfull \hbox (badness 6477) in paragraph at lines 8482--8483
  []\TU/Shlomo(1)/m/n/9 אֶת־בְּנֵ֣י הַקְּהָתִ֑י לְמִשְׁפְּחֹתָ֖ם וּלְבֵ֥ית[] 
  []
 
 
-Underfull \hbox (badness 5954) in paragraph at lines 8480--8481
+Underfull \hbox (badness 5954) in paragraph at lines 8482--8483
  []\TU/Shlomo(1)/m/n/9 אֲבֹתָֽם׃ מִבֶּ֨ן שְׁלשִׁ֤ים שָׁנָה֙ וָמַ֔עְלָה[] 
  []
 
 
-Underfull \hbox (badness 7981) in paragraph at lines 8483--8487
+Underfull \hbox (badness 7981) in paragraph at lines 8485--8489
  []\TU/Shlomo(1)/m/n/9 וַיְדַבֵּ֥ר יְיָ֖ אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃ דַּבֵּר֙[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8483--8487
+Underfull \hbox (badness 10000) in paragraph at lines 8485--8489
  []\TU/Shlomo(1)/m/n/9 אֶֽל־אַֽהֲרֹ֔ן וְאָֽמַרְתָּ֖ אֵלָ֑יו בְּהַֽעֲלֹֽתְךָ֙[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8483--8487
+Underfull \hbox (badness 10000) in paragraph at lines 8485--8489
  []\TU/Shlomo(1)/m/n/9 בֶן־בָּקָ֖ר תִּקַּ֥ח לְחַטָּֽאת׃ וְהִקְרַבְתָּ֙[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8483--8487
+Underfull \hbox (badness 10000) in paragraph at lines 8485--8489
  []\TU/Shlomo(1)/m/n/9 בְנֵֽי־יִשְׂרָאֵ֛ל אֶת־יְדֵיהֶ֖ם עַל־הַֽלְוִיִּֽם׃[] 
  []
 
 
-Underfull \hbox (badness 5985) in paragraph at lines 8483--8487
+Underfull \hbox (badness 5985) in paragraph at lines 8485--8489
  []\TU/Shlomo(1)/m/n/9 יְיָ׃ וְהַֽלְוִיִּם֙ יִסְמְכ֣וּ אֶת־יְדֵיהֶ֔ם עַ֖ל[] 
  []
 
 
-Underfull \hbox (badness 5696) in paragraph at lines 8488--8490
+Underfull \hbox (badness 5696) in paragraph at lines 8490--8492
  []\TU/Shlomo(1)/m/n/9 בָהֶֽם׃ וַיִּשְׁלַ֨ח אֹתָ֥ם מֹשֶׁ֛ה מִמִּדְבַּ֥ר[] 
  []
 
 
-Underfull \hbox (badness 5475) in paragraph at lines 8488--8490
+Underfull \hbox (badness 5475) in paragraph at lines 8490--8492
  []\TU/Shlomo(1)/m/n/9 דָ֔ן עַמִּיאֵ֖ל בֶּן־גְּמַלִּֽי׃ לְמַטֵּ֣ה אָשֵׁ֔ר[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8488--8490
+Underfull \hbox (badness 10000) in paragraph at lines 8490--8492
  []\TU/Shlomo(1)/m/n/9 וְהִ֨תְחַזַּקְתֶּ֔ם וּלְקַחְתֶּ֖ם מִפְּרִ֣י הָאָ֑רֶץ[] 
  []
 
 [314]
-Underfull \hbox (badness 10000) in paragraph at lines 8494--8500
+Underfull \hbox (badness 10000) in paragraph at lines 8496--8502
  []\TU/Shlomo(1)/m/n/9 שֶׁ֥בַע פְּעָמִֽים׃ וְשָׂרַ֥ף אֶת־הַפָּרָ֖ה[] 
  []
 
 [315]
-Underfull \hbox (badness 10000) in paragraph at lines 8504--8509
+Underfull \hbox (badness 10000) in paragraph at lines 8506--8511
  []\TU/Shlomo(1)/m/n/9 בֶּן־אֶלְעָזָ֜ר בֶּן־אַֽהֲרֹ֣ן הַכֹּהֵ֗ן הֵשִׁ֤יב[] 
  []
 
 
-Underfull \hbox (badness 6876) in paragraph at lines 8504--8509
+Underfull \hbox (badness 6876) in paragraph at lines 8506--8511
  []\TU/Shlomo(1)/m/n/9 אֶת־חֲמָתִי֙ מֵעַ֣ל בְּנֵֽי־יִשְׂרָאֵ֔ל בְּקַנְא֥וֹ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8504--8509
+Underfull \hbox (badness 10000) in paragraph at lines 8506--8511
  []\TU/Shlomo(1)/m/n/9 אֶת־קִנְאָתִ֖י בְּתוֹכָ֑ם וְלֹֽא־כִלִּ֥יתִי[] 
  []
 
 
-Underfull \hbox (badness 6961) in paragraph at lines 8504--8509
+Underfull \hbox (badness 6961) in paragraph at lines 8506--8511
  []\TU/Shlomo(1)/m/n/9 וַיְדַבֵּ֨ר מֹשֶׁ֜ה וְאֶלְעָזָ֧ר הַכֹּהֵ֛ן אֹתָ֖ם[] 
  []
 
 [316]
-Underfull \hbox (badness 6364) in paragraph at lines 8511--8513
+Underfull \hbox (badness 6364) in paragraph at lines 8513--8515
  []\TU/Shlomo(1)/m/n/9 וְהֶֽחֱרִ֣ישׁ לָ֑הּ וְקָ֣מוּ נְדָרֶ֗יהָ וֶֽאֱסָרֶ֛הָ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8511--8513
+Underfull \hbox (badness 10000) in paragraph at lines 8513--8515
  []\TU/Shlomo(1)/m/n/9 עַל־נַפְשָׁ֖הּ יָק֥וּם עָלֶֽיהָ׃ וְאִם־בֵּ֥ית[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8514--8516
+Underfull \hbox (badness 10000) in paragraph at lines 8516--8518
  []\TU/Shlomo(1)/m/n/9 אֵ֜לֶּה מַסְעֵ֣י בְנֵֽי־יִשְׂרָאֵ֗ל אֲשֶׁ֥ר[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8514--8516
+Underfull \hbox (badness 10000) in paragraph at lines 8516--8518
  []\TU/Shlomo(1)/m/n/9 יָֽצְא֛וּ מֵאֶ֥רֶץ מִצְרַ֖יִם לְצִבְאֹתָ֑ם[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8514--8516
+Underfull \hbox (badness 10000) in paragraph at lines 8516--8518
  []\TU/Shlomo(1)/m/n/9 בְּיַד־מֹשֶׁ֖ה וְאַֽהֲרֹֽן׃ וַיִּכְתֹּ֨ב מֹשֶׁ֜ה[] 
  []
 
 
-Underfull \hbox (badness 7667) in paragraph at lines 8514--8516
+Underfull \hbox (badness 7667) in paragraph at lines 8516--8518
  []\TU/Shlomo(1)/m/n/9 אֶת־מוֹצָֽאֵיהֶ֛ם לְמַסְעֵיהֶ֖ם עַל־פִּ֣י יְיָ֑[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8514--8516
+Underfull \hbox (badness 10000) in paragraph at lines 8516--8518
  []\TU/Shlomo(1)/m/n/9 וְאֵ֥לֶּה מַסְעֵיהֶ֖ם לְמוֹצָֽאֵיהֶֽם׃ וַיִּסְע֤וּ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8517--8519
+Underfull \hbox (badness 10000) in paragraph at lines 8519--8521
  []\TU/Shlomo(1)/m/n/9 אֵ֣לֶּה הַדְּבָרִ֗ים אֲשֶׁ֨ר דִּבֶּ֤ר מֹשֶׁה֙[] 
  []
 
 
-Underfull \hbox (badness 5756) in paragraph at lines 8517--8519
+Underfull \hbox (badness 5756) in paragraph at lines 8519--8521
  []\TU/Shlomo(1)/m/n/9 בְּאֶחָ֣ד לַחֹ֑דֶשׁ דִּבֶּ֤ר מֹשֶׁה֙ אֶל־בְּנֵ֣י[] 
  []
 
 [317]
-Underfull \hbox (badness 10000) in paragraph at lines 8520--8523
+Underfull \hbox (badness 10000) in paragraph at lines 8522--8525
  []\TU/Shlomo(1)/m/n/9 אֶ֨ת־גָּדְלְךָ֔ וְאֶת־יָֽדְךָ֖ הַֽחֲזָקָ֑ה אֲשֶׁ֤ר[] 
  []
 
 
-Underfull \hbox (badness 6268) in paragraph at lines 8520--8523
+Underfull \hbox (badness 6268) in paragraph at lines 8522--8525
  []\TU/Shlomo(1)/m/n/9 מִי־אֵל֙ בַּשָּׁמַ֣יִם וּבָאָ֔רֶץ אֲשֶׁר־יַֽעֲשֶׂ֥ה[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8520--8523
+Underfull \hbox (badness 10000) in paragraph at lines 8522--8525
  []\TU/Shlomo(1)/m/n/9 כְמַֽעֲשֶׂ֖יךָ וְכִגְבֽוּרֹתֶֽךָ׃ אֶעְבְּרָה־נָּ֗א[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8524--8527
+Underfull \hbox (badness 10000) in paragraph at lines 8526--8529
  []\TU/Shlomo(1)/m/n/9 לַֽאֲבֹתֶ֖יךָ לָ֥תֶת לָֽךְ׃ בָּר֥וּךְ תִּֽהְיֶ֖ה[] 
  []
 
 
-Underfull \hbox (badness 5817) in paragraph at lines 8524--8527
+Underfull \hbox (badness 5817) in paragraph at lines 8526--8529
  []\TU/Shlomo(1)/m/n/9 תַֽעֲבֹד֙ אֶת־אֱלֹ֣הֵיהֶ֔ם כִּֽי־מוֹקֵ֥שׁ ה֖וּא[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8524--8527
+Underfull \hbox (badness 10000) in paragraph at lines 8526--8529
  []\TU/Shlomo(1)/m/n/9 יְיָ֣ אֱלֹהֶ֔יךָ לְפַרְעֹ֖ה וּלְכָל־מִצְרָֽיִם׃[] 
  []
 
 
-Underfull \hbox (badness 5592) in paragraph at lines 8524--8527
+Underfull \hbox (badness 5592) in paragraph at lines 8526--8529
  []\TU/Shlomo(1)/m/n/9 אֲשֶׁ֥ר הוֹצִֽאֲךָ֖ יְיָ֣ אֱלֹהֶ֑יךָ כֵּן־יַֽעֲשֶׂ֞ה[] 
  []
 
 
-Underfull \hbox (badness 5533) in paragraph at lines 8524--8527
+Underfull \hbox (badness 5533) in paragraph at lines 8526--8529
  []\TU/Shlomo(1)/m/n/9 יְיָ֤ אֱלֹהֶ֨יךָ֙ לְכָל־הָ֣עַמִּ֔ים אֲשֶׁר־אַתָּ֥ה[] 
  []
 
 
-Underfull \hbox (badness 6445) in paragraph at lines 8524--8527
+Underfull \hbox (badness 6445) in paragraph at lines 8526--8529
  []\TU/Shlomo(1)/m/n/9 הֽוּא׃ וְלֹֽא־תָבִ֤יא תֽוֹעֵבָה֙ אֶל־בֵּיתֶ֔ךָ[] 
  []
 
 
-Underfull \hbox (badness 5431) in paragraph at lines 8524--8527
+Underfull \hbox (badness 5431) in paragraph at lines 8526--8529
  []\TU/Shlomo(1)/m/n/9 כֹּ֖ל בָּ֑הּ אֶ֚רֶץ אֲשֶׁ֣ר אֲבָנֶ֣יהָ בַרְזֶ֔ל[] 
  []
 
 [318]
-Underfull \hbox (badness 6691) in paragraph at lines 8528--8534
+Underfull \hbox (badness 6691) in paragraph at lines 8530--8536
  []\TU/Shlomo(1)/m/n/9 וּקְלָלָֽה׃ אֶת־הַבְּרָכָ֑ה אֲשֶׁ֣ר תִּשְׁמְע֗וּ[] 
  []
 
 
-Underfull \hbox (badness 7047) in paragraph at lines 8528--8534
+Underfull \hbox (badness 7047) in paragraph at lines 8530--8536
  []\TU/Shlomo(1)/m/n/9 אֶל־מִצְוֹת֙ יְיָ֣ אֱלֹֽהֵיכֶ֔ם אֲשֶׁ֧ר אָֽנֹכִ֛י[] 
  []
 
 
-Underfull \hbox (badness 6493) in paragraph at lines 8528--8534
+Underfull \hbox (badness 6493) in paragraph at lines 8530--8536
  []\TU/Shlomo(1)/m/n/9 כִּ֤י אַתֶּם֙ עֹֽבְרִ֣ים אֶת־הַיַּרְדֵּ֔ן לָבֹא֙[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8528--8534
+Underfull \hbox (badness 10000) in paragraph at lines 8530--8536
  []\TU/Shlomo(1)/m/n/9 חַיִּ֖ים עַל־הָֽאֲדָמָֽה׃ אַבֵּ֣ד תְּ֠אַבְּד֠וּן[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8528--8534
+Underfull \hbox (badness 10000) in paragraph at lines 8530--8536
  []\TU/Shlomo(1)/m/n/9 וְשִׁבַּרְתֶּם֙ אֶת־מַצֵּ֣בֹתָ֔ם וַֽאֲשֵֽׁרֵיהֶם֙[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8528--8534
+Underfull \hbox (badness 10000) in paragraph at lines 8530--8536
  []\TU/Shlomo(1)/m/n/9 לֹא־תַֽעֲשׂ֣וּן כֵּ֔ן לַֽיְיָ֖ אֱלֹֽהֵיכֶֽם׃ כִּ֠י[] 
  []
 
 
-Underfull \hbox (badness 7362) in paragraph at lines 8528--8534
+Underfull \hbox (badness 7362) in paragraph at lines 8530--8536
  []\TU/Shlomo(1)/m/n/9 מִכָּל־שִׁבְטֵיכֶ֔ם לָשׂ֥וּם אֶת־שְׁמ֖וֹ שָׁ֑ם[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8528--8534
+Underfull \hbox (badness 10000) in paragraph at lines 8530--8536
  []\TU/Shlomo(1)/m/n/9 וַֽהֲבֵאתֶ֣ם שָׁ֗מָּה עֹלֹֽתֵיכֶם֙ וְזִבְחֵיכֶ֔ם[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8528--8534
+Underfull \hbox (badness 10000) in paragraph at lines 8530--8536
  []\TU/Shlomo(1)/m/n/9 עַד־עָ֑תָּה אֶל־הַמְּנוּחָה֙ וְאֶל־הַֽנַּֽחֲלָ֔ה[] 
  []
 
 [319] [320]
-Underfull \hbox (badness 10000) in paragraph at lines 8543--8549
+Underfull \hbox (badness 10000) in paragraph at lines 8545--8551
  []\TU/Shlomo(1)/m/n/9 בֵּיתֶ֑ךָ וְגִלְּחָה֙ אֶת־רֹאשָׁ֔הּ וְעָֽשְׂתָ֖ה[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8543--8549
+Underfull \hbox (badness 10000) in paragraph at lines 8545--8551
  []\TU/Shlomo(1)/m/n/9 אֶת־צִפָּרְנֶֽיהָ׃ וְהֵסִ֩ירָה֩ אֶת־שִׂמְלַ֨ת[] 
  []
 
 
-Underfull \hbox (badness 7273) in paragraph at lines 8543--8549
+Underfull \hbox (badness 7273) in paragraph at lines 8545--8551
  []\TU/Shlomo(1)/m/n/9 לְנַפְשָׁ֔הּ וּמָכֹ֥ר לֹֽא־תִמְכְּרֶ֖נָּה בַּכָּ֑סֶף[] 
  []
 
 
-Underfull \hbox (badness 7558) in paragraph at lines 8550--8556
+Underfull \hbox (badness 7558) in paragraph at lines 8552--8558
  []\TU/Shlomo(1)/m/n/9 שָֽׁם׃ וּבָאתָ֙ אֶל־הַכֹּהֵ֔ן אֲשֶׁ֥ר יִֽהְיֶ֖ה[] 
  []
 
 
-Underfull \hbox (badness 5388) in paragraph at lines 8550--8556
+Underfull \hbox (badness 5388) in paragraph at lines 8552--8558
  []\TU/Shlomo(1)/m/n/9 וְאֶת־עֲמָלֵ֖נוּ וְאֶֽת־לַֽחֲצֵֽנוּ׃ וַיּֽוֹצִאֵ֤נוּ יְיָ֙[] 
 
  []
 
 
-Underfull \hbox (badness 7168) in paragraph at lines 8550--8556
+Underfull \hbox (badness 7168) in paragraph at lines 8552--8558
  []\TU/Shlomo(1)/m/n/9 הַקֹּ֣דֶשׁ מִן־הַבַּ֗יִת וְגַ֨ם נְתַתִּ֤יו לַלֵּוִי֙[] 
  []
 
 
-Underfull \hbox (badness 6725) in paragraph at lines 8550--8556
+Underfull \hbox (badness 6725) in paragraph at lines 8552--8558
  []\TU/Shlomo(1)/m/n/9 אֲשֶׁ֣ר צִוִּיתָ֑נִי לֹֽא־עָבַ֥רְתִּי מִמִּצְוֹתֶ֖יךָ[] 
  []
 
 
-Underfull \hbox (badness 7667) in paragraph at lines 8550--8556
+Underfull \hbox (badness 7667) in paragraph at lines 8552--8558
  []\TU/Shlomo(1)/m/n/9 קָדְשְׁךָ֜ מִן־הַשָּׁמַ֗יִם וּבָרֵ֤ךְ אֶֽת־עַמְּךָ֙[] 
  []
 
 [321]
-Underfull \hbox (badness 5175) in paragraph at lines 8557--8563
+Underfull \hbox (badness 5175) in paragraph at lines 8559--8565
  []\TU/Shlomo(1)/m/n/9 יְיָ֖ אֱלֹהֵ֣י אֲבֹתָ֑ם אֲשֶׁר֙ כָּרַ֣ת עִמָּ֔ם[] 
  []
 
 [322] [323]
-Underfull \hbox (badness 10000) in paragraph at lines 8608--8614
+Underfull \hbox (badness 10000) in paragraph at lines 8610--8616
  []\TU/Shlomo(1)/m/n/9 וַיְהִ֡י בְּיוֹם֩ כַּלּ֨וֹת מֹשֶׁ֜ה לְהָקִ֣ים[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8608--8614
+Underfull \hbox (badness 10000) in paragraph at lines 8610--8616
  []\TU/Shlomo(1)/m/n/9 אֶת־הַמִּשְׁכָּ֗ן וַיִּמְשַׁ֨ח אֹת֜וֹ וַיְקַדֵּ֤שׁ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8608--8614
+Underfull \hbox (badness 10000) in paragraph at lines 8610--8616
  []\TU/Shlomo(1)/m/n/9 אֹתוֹ֙ וְאֶת־כָּל־כֵּלָ֔יו וְאֶת־הַמִּזְבֵּ֖חַ[] 
  []
 
 
-Underfull \hbox (badness 5862) in paragraph at lines 8608--8614
+Underfull \hbox (badness 5862) in paragraph at lines 8610--8616
  []\TU/Shlomo(1)/m/n/9 הַנְּשִׂיאִ֛ם אֶת־קָרְבָּנָ֖ם לִפְנֵ֥י הַמִּזְבֵּֽחַ׃[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8608--8614
+Underfull \hbox (badness 10000) in paragraph at lines 8610--8616
  []\TU/Shlomo(1)/m/n/9 שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃ וּלְזֶ֣בַֽח[] 
  []
 
 [324]
-Underfull \hbox (badness 10000) in paragraph at lines 8619--8622
+Underfull \hbox (badness 10000) in paragraph at lines 8621--8624
  []\TU/Shlomo(1)/m/n/9 נְשִׂ֖יא יִשָּׂשׂכָֽר׃ הִקְרִ֨ב אֶת־קָרְבָּנ֜וֹ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8619--8622
+Underfull \hbox (badness 10000) in paragraph at lines 8621--8624
  []\TU/Shlomo(1)/m/n/9 קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֘[] 
  []
 
 
-Underfull \hbox (badness 6063) in paragraph at lines 8619--8622
+Underfull \hbox (badness 6063) in paragraph at lines 8621--8624
  []\TU/Shlomo(1)/m/n/9 לְעֹלָֽה׃ שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8619--8622
+Underfull \hbox (badness 10000) in paragraph at lines 8621--8624
  []\TU/Shlomo(1)/m/n/9 זְבוּלֻ֑ן אֱלִיאָ֖ב בֶּן־חֵלֹֽן׃ קָרְבָּנ֜וֹ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8619--8622
+Underfull \hbox (badness 10000) in paragraph at lines 8621--8624
  []\TU/Shlomo(1)/m/n/9 קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֘[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8619--8622
+Underfull \hbox (badness 10000) in paragraph at lines 8621--8624
  []\TU/Shlomo(1)/m/n/9 שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃ וּלְזֶ֣בַֽח[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8627--8629
+Underfull \hbox (badness 10000) in paragraph at lines 8629--8631
  []\TU/Shlomo(1)/m/n/9 בֶּן־חֵלֹֽן׃ קָרְבָּנ֜וֹ קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת[] 
  []
 
 
-Underfull \hbox (badness 7221) in paragraph at lines 8627--8629
+Underfull \hbox (badness 7221) in paragraph at lines 8629--8631
  []\TU/Shlomo(1)/m/n/9 בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃ שְׂעִיר־עִזִּ֥ים אֶחָ֖ד[] 
  []
 
 
-Underfull \hbox (badness 5563) in paragraph at lines 8627--8629
+Underfull \hbox (badness 5563) in paragraph at lines 8629--8631
  []\TU/Shlomo(1)/m/n/9 בְּנֵֽי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קָרְבַּ֥ן אֱלִיאָ֖ב[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8627--8629
+Underfull \hbox (badness 10000) in paragraph at lines 8629--8631
  []\TU/Shlomo(1)/m/n/9 קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֘[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8627--8629
+Underfull \hbox (badness 10000) in paragraph at lines 8629--8631
  []\TU/Shlomo(1)/m/n/9 שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃ וּלְזֶ֣בַֽח[] 
  []
 
 [325]
-Underfull \hbox (badness 7221) in paragraph at lines 8634--8636
+Underfull \hbox (badness 7221) in paragraph at lines 8636--8638
  []\TU/Shlomo(1)/m/n/9 בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃ שְׂעִיר־עִזִּ֥ים אֶחָ֖ד[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8634--8636
+Underfull \hbox (badness 10000) in paragraph at lines 8636--8638
  []\TU/Shlomo(1)/m/n/9 קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֘[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8634--8636
+Underfull \hbox (badness 10000) in paragraph at lines 8636--8638
  []\TU/Shlomo(1)/m/n/9 שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃ וּלְזֶ֣בַֽח[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8644--8646
+Underfull \hbox (badness 10000) in paragraph at lines 8646--8648
  [][]\TU/Shlomo(1)/m/n/9 בַּיּוֹם֙ הַֽחֲמִישִׁ֔י נָשִׂ֖יא לִבְנֵ֣י שִׁמְע֑וֹן[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8644--8646
+Underfull \hbox (badness 10000) in paragraph at lines 8646--8648
  []\TU/Shlomo(1)/m/n/9 שְׁלֻֽמִיאֵ֖ל בֶּן־צוּרִֽישַׁדָּֽי׃ קָרְבָּנ֜וֹ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8644--8646
+Underfull \hbox (badness 10000) in paragraph at lines 8646--8648
  []\TU/Shlomo(1)/m/n/9 קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֘[] 
  []
 
 
-Underfull \hbox (badness 6063) in paragraph at lines 8644--8646
+Underfull \hbox (badness 6063) in paragraph at lines 8646--8648
  []\TU/Shlomo(1)/m/n/9 לְעֹלָֽה׃ שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃[] 
  []
 
 
-Underfull \hbox (badness 7221) in paragraph at lines 8644--8646
+Underfull \hbox (badness 7221) in paragraph at lines 8646--8648
  []\TU/Shlomo(1)/m/n/9 בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃ שְׂעִיר־עִזִּ֥ים אֶחָ֖ד[] 
  []
 
 
-Underfull \hbox (badness 5711) in paragraph at lines 8644--8646
+Underfull \hbox (badness 5711) in paragraph at lines 8646--8648
  []\TU/Shlomo(1)/m/n/9 בְּנֵֽי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קָרְבַּ֥ן אֶלְיָסָ֖ף[] 
  []
 
 [326]
-Underfull \hbox (badness 7221) in paragraph at lines 8654--8655
+Underfull \hbox (badness 7221) in paragraph at lines 8656--8657
  []\TU/Shlomo(1)/m/n/9 בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃ שְׂעִיר־עִזִּ֥ים אֶחָ֖ד[] 
  []
 
 
-Underfull \hbox (badness 5711) in paragraph at lines 8654--8655
+Underfull \hbox (badness 5711) in paragraph at lines 8656--8657
  []\TU/Shlomo(1)/m/n/9 בְּנֵֽי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קָרְבַּ֥ן אֶלְיָסָ֖ף[] 
  []
 
 
-Underfull \hbox (badness 6893) in paragraph at lines 8663--8666
+Underfull \hbox (badness 6893) in paragraph at lines 8665--8668
  [][]\TU/Shlomo(1)/m/n/9 בַּיּוֹם֙ הַשְּׁבִיעִ֔י נָשִׂ֖יא לִבְנֵ֣י אֶפְרָ֑יִם[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8663--8666
+Underfull \hbox (badness 10000) in paragraph at lines 8665--8668
  []\TU/Shlomo(1)/m/n/9 אֱלִֽישָׁמָ֖ע בֶּן־עַמִּיהֽוּד׃ קָרְבָּנ֜וֹ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8663--8666
+Underfull \hbox (badness 10000) in paragraph at lines 8665--8668
  []\TU/Shlomo(1)/m/n/9 קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֘[] 
  []
 
 
-Underfull \hbox (badness 6063) in paragraph at lines 8663--8666
+Underfull \hbox (badness 6063) in paragraph at lines 8665--8668
  []\TU/Shlomo(1)/m/n/9 לְעֹלָֽה׃ שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8663--8666
+Underfull \hbox (badness 10000) in paragraph at lines 8665--8668
  []\TU/Shlomo(1)/m/n/9 קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֘[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8663--8666
+Underfull \hbox (badness 10000) in paragraph at lines 8665--8668
  []\TU/Shlomo(1)/m/n/9 שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃ וּלְזֶ֣בַֽח[] 
  []
 
 [327]
-Underfull \hbox (badness 7221) in paragraph at lines 8671--8677
+Underfull \hbox (badness 7221) in paragraph at lines 8673--8679
  []\TU/Shlomo(1)/m/n/9 בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃ שְׂעִיר־עִזִּ֥ים אֶחָ֖ד[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8671--8677
+Underfull \hbox (badness 10000) in paragraph at lines 8673--8679
  []\TU/Shlomo(1)/m/n/9 בִנְיָמִ֑ן אֲבִידָ֖ן בֶּן־גִּדְעֹנִֽי׃ קָרְבָּנ֜וֹ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8671--8677
+Underfull \hbox (badness 10000) in paragraph at lines 8673--8679
  []\TU/Shlomo(1)/m/n/9 קַֽעֲרַת־כֶּ֣סֶף אַחַ֗ת שְׁלֹשִׁ֣ים וּמֵאָה֘[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8671--8677
+Underfull \hbox (badness 10000) in paragraph at lines 8673--8679
  []\TU/Shlomo(1)/m/n/9 שְׂעִיר־עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃ וּלְזֶ֣בַֽח[] 
  []
 
 
-Underfull \hbox (badness 7221) in paragraph at lines 8671--8677
+Underfull \hbox (badness 7221) in paragraph at lines 8673--8679
  []\TU/Shlomo(1)/m/n/9 בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃ שְׂעִיר־עִזִּ֥ים אֶחָ֖ד[] 
  []
 
 
-Underfull \hbox (badness 7221) in paragraph at lines 8671--8677
+Underfull \hbox (badness 7221) in paragraph at lines 8673--8679
  []\TU/Shlomo(1)/m/n/9 בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃ שְׂעִיר־עִזִּ֥ים אֶחָ֖ד[] 
  []
 
 
-Underfull \hbox (badness 7221) in paragraph at lines 8671--8677
+Underfull \hbox (badness 7221) in paragraph at lines 8673--8679
  []\TU/Shlomo(1)/m/n/9 בֶּן־שְׁנָת֖וֹ לְעֹלָֽה׃ שְׂעִיר־עִזִּ֥ים אֶחָ֖ד[] 
  []
 
 
-Underfull \hbox (badness 5417) in paragraph at lines 8671--8677
+Underfull \hbox (badness 5417) in paragraph at lines 8673--8679
  []\TU/Shlomo(1)/m/n/9 בְּנֵֽי־שָׁנָ֖ה חֲמִשָּׁ֑ה זֶ֛ה קָרְבַּ֥ן אֲחִירַ֖ע[] 
  []
 
 
-Underfull \hbox (badness 5008) in paragraph at lines 8671--8677
+Underfull \hbox (badness 5008) in paragraph at lines 8673--8679
  []\TU/Shlomo(1)/m/n/9 זָהָ֖ב שְׁתֵּ֥ים עֶשְׂרֵֽה׃ שְׁלֹשִׁ֣ים וּמֵאָ֗ה[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8671--8677
+Underfull \hbox (badness 10000) in paragraph at lines 8673--8679
  []\TU/Shlomo(1)/m/n/9 הָֽאֶחָ֑ד כֹּ֚ל כֶּ֣סֶף הַכֵּלִ֔ים אַלְפַּ֥יִם[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8671--8677
+Underfull \hbox (badness 10000) in paragraph at lines 8673--8679
  []\TU/Shlomo(1)/m/n/9 הַכַּפּ֖וֹת עֶשְׂרִ֥ים וּמֵאָֽה׃ כָּל־הַבָּקָ֨ר[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8671--8677
+Underfull \hbox (badness 10000) in paragraph at lines 8673--8679
  []\TU/Shlomo(1)/m/n/9 לָֽעֹלָ֜ה שְׁנֵ֧ים עָשָׂ֣ר פָּרִ֗ים אֵילִ֤ם[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8671--8677
+Underfull \hbox (badness 10000) in paragraph at lines 8673--8679
  []\TU/Shlomo(1)/m/n/9 שְׁנֵים־עָשָׂר֙ כְּבָשִׂ֧ים בְּנֵֽי־שָׁנָ֛ה שְׁנֵ֥ים[] 
  []
 
 [328]
-Underfull \hbox (badness 10000) in paragraph at lines 8687--8692
+Underfull \hbox (badness 10000) in paragraph at lines 8689--8694
  []\TU/Shlomo(1)/m/n/9 וַיָּבֹ֖א עֲמָלֵ֑ק וַיִּלָּ֥חֶם עִם־יִשְׂרָאֵ֖ל[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8687--8692
+Underfull \hbox (badness 10000) in paragraph at lines 8689--8694
  []\TU/Shlomo(1)/m/n/9 בִּרְפִידִֽם׃ וַיֹּ֨אמֶר מֹשֶׁ֤ה אֶל־יְהוֹשֻׁ֨עַ֙[] 
  []
 
 [329]
-Underfull \hbox (badness 10000) in paragraph at lines 8712--8715
+Underfull \hbox (badness 10000) in paragraph at lines 8714--8717
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8712--8715
+Underfull \hbox (badness 10000) in paragraph at lines 8714--8717
  []\TU/Shlomo(1)/m/n/9 וְהִקְרַבְתֶּ֨ם אִשֶּׁ֤ה עֹלָה֙ לַֽיְיָ֔ פָּרִ֧ים[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8712--8715
+Underfull \hbox (badness 10000) in paragraph at lines 8714--8717
  []\TU/Shlomo(1)/m/n/9 הָֽאֶחָ֑ד לְשִׁבְעַ֖ת הַכְּבָשִֽׂים׃ וּשְׂעִ֥יר[] 
  []
 
 
-Underfull \hbox (badness 7981) in paragraph at lines 8712--8715
+Underfull \hbox (badness 7981) in paragraph at lines 8714--8717
  []\TU/Shlomo(1)/m/n/9 עֹלַ֣ת הַבֹּ֔קֶר אֲשֶׁ֖ר לְעֹלַ֣ת הַתָּמִ֑יד[] 
  []
 
 
-Underfull \hbox (badness 5203) in paragraph at lines 8716--8724
+Underfull \hbox (badness 5203) in paragraph at lines 8718--8726
  []\TU/Shlomo(1)/m/n/9 אֶבְיֹֽנְךָ֖ בְּרִיבֽוֹ׃ מִדְּבַר־שֶׁ֖קֶר תִּרְחָ֑ק[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8716--8724
+Underfull \hbox (badness 10000) in paragraph at lines 8718--8726
  []\TU/Shlomo(1)/m/n/9 אֶת־תְּבֽוּאָתָֽהּ׃ וְהַשְּׁבִיעִ֞ת תִּשְׁמְטֶ֣נָּה[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8716--8724
+Underfull \hbox (badness 10000) in paragraph at lines 8718--8726
  []\TU/Shlomo(1)/m/n/9 אֲשֶׁר־אָמַ֥רְתִּי אֲלֵיכֶ֖ם תִּשָּׁמֵ֑רוּ וְשֵׁ֨ם[] 
  []
 
 [330]
-Underfull \hbox (badness 10000) in paragraph at lines 8727--8733
+Underfull \hbox (badness 10000) in paragraph at lines 8729--8735
  []\TU/Shlomo(1)/m/n/9 אֶ֨ת־הַדְּבָרִ֔ים אֲשֶׁ֥ר הָי֛וּ עַל־הַלֻּחֹ֥ת[] 
  []
 
 
-Underfull \hbox (badness 8132) in paragraph at lines 8727--8733
+Underfull \hbox (badness 8132) in paragraph at lines 8729--8735
  []\TU/Shlomo(1)/m/n/9 עִמָּ֔ךְ וְגַם־אִ֥ישׁ אַל־יֵרָ֖א בְּכָל־הָהָ֑ר[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8727--8733
+Underfull \hbox (badness 10000) in paragraph at lines 8729--8735
  []\TU/Shlomo(1)/m/n/9 אֶת־מִזְבְּחֹתָם֙ תִּתֹּצ֔וּן וְאֶת־מַצֵּֽבֹתָ֖ם[] 
  []
 
 [331]
-Underfull \hbox (badness 5274) in paragraph at lines 8736--8743
+Underfull \hbox (badness 5274) in paragraph at lines 8738--8745
  []\TU/Shlomo(1)/m/n/9 הָֽרִאשׁ֖וֹן לֵאמֹֽר׃ וְיַֽעֲשׂ֧וּ בְנֵֽי־יִשְׂרָאֵ֛ל[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8736--8743
+Underfull \hbox (badness 10000) in paragraph at lines 8738--8745
  []\TU/Shlomo(1)/m/n/9 בְּמֹֽעֲד֑וֹ כְּכָל־חֻקֹּתָ֥יו וּכְכָל־מִשְׁפָּטָ֖יו[] 
  []
 
 
-Underfull \hbox (badness 8170) in paragraph at lines 8736--8743
+Underfull \hbox (badness 8170) in paragraph at lines 8738--8745
  []\TU/Shlomo(1)/m/n/9 תַּֽעֲשׂ֥וּ אֹתֽוֹ׃ וַיְדַבֵּ֥ר מֹשֶׁ֛ה אֶל־בְּנֵ֥י[] 
  []
 
 [332] [333]
-Underfull \hbox (badness 10000) in paragraph at lines 8766--8769
+Underfull \hbox (badness 10000) in paragraph at lines 8768--8771
  []\TU/Shlomo(1)/m/n/9 שְׁנֵ֥ים עָשָׂ֖ר אֵילִ֣ם שְׁנָ֑יִם כְּבָשִׂ֧ים[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8766--8769
+Underfull \hbox (badness 10000) in paragraph at lines 8768--8771
  []\TU/Shlomo(1)/m/n/9 עַשְׁתֵּי־עָשָׂ֖ר אֵילִ֣ם שְׁנָ֑יִם כְּבָשִׂ֧ים[] 
  []
 
 
-Underfull \hbox (badness 6461) in paragraph at lines 8770--8772
+Underfull \hbox (badness 6461) in paragraph at lines 8772--8774
  []\TU/Shlomo(1)/m/n/9 תְּמִימִֽם׃ וּמִנְחָתָ֣ם וְנִסְכֵּיהֶ֡ם לַ֠פָּרִ֠ים[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8779--8782
+Underfull \hbox (badness 10000) in paragraph at lines 8781--8784
  [][]\TU/FreeSans(1)/m/n/8 (\TU/FreeSans(1)/bx/n/8 רביעי\TU/FreeSans(1)/m/n/8 )
   \TU/Shlomo(1)/m/n/9 וּבַיּ֧וֹם הַשְּׁלִישִׁ֛י פָּרִ֥ים[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8779--8782
+Underfull \hbox (badness 10000) in paragraph at lines 8781--8784
  []\TU/Shlomo(1)/m/n/9 עַשְׁתֵּי־עָשָׂ֖ר אֵילִ֣ם שְׁנָ֑יִם כְּבָשִׂ֧ים[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8779--8782
+Underfull \hbox (badness 10000) in paragraph at lines 8781--8784
  []\TU/Shlomo(1)/m/n/9 תְּמִימִֽם׃ מִנְחָתָ֣ם וְנִסְכֵּיהֶ֡ם לַ֠פָּרִ֠ים[] 
  []
 
 [334
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 8783--8785
+Underfull \hbox (badness 10000) in paragraph at lines 8785--8787
  []\TU/Shlomo(1)/m/n/9 תְּמִימִֽם׃ מִנְחָתָ֣ם וְנִסְכֵּיהֶ֡ם לַ֠פָּרִ֠ים[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8792--8795
+Underfull \hbox (badness 10000) in paragraph at lines 8794--8797
  []\TU/Shlomo(1)/m/n/9 הַתָּמִ֔יד מִנְחָתָ֖הּ וְנִסְכָּֽהּ׃ \TU/Shlomo(1)/bx/n/9 ס 
 \TU/Shlomo(1)/m/n/9 וּבַיּ֧וֹם[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8792--8795
+Underfull \hbox (badness 10000) in paragraph at lines 8794--8797
  []\TU/Shlomo(1)/m/n/9 וּמִנְחָתָ֣ם וְנִסְכֵּיהֶ֡ם לַ֠פָּרִ֠ים לָֽאֵילִ֧ם[] 
  []
 
 
-Underfull \hbox (badness 7631) in paragraph at lines 8792--8795
+Underfull \hbox (badness 7631) in paragraph at lines 8794--8797
  []\TU/Shlomo(1)/m/n/9 חַטָּ֖את אֶחָ֑ד מִלְּבַד֙ עֹלַ֣ת הַתָּמִ֔יד[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8796--8798
+Underfull \hbox (badness 10000) in paragraph at lines 8798--8800
  []\TU/Shlomo(1)/m/n/9 תְּמִימִֽם׃ וּמִנְחָתָ֣ם וְנִסְכֵּהֶ֡ם לַ֠פָּרִ֠ים[] 
  []
 
 
-Underfull \hbox (badness 6461) in paragraph at lines 8808--8809
+Underfull \hbox (badness 6461) in paragraph at lines 8810--8811
  []\TU/Shlomo(1)/m/n/9 תְּמִימִֽם׃ וּמִנְחָתָ֣ם וְנִסְכֵּיהֶ֡ם לַ֠פָּרִ֠ים[] 
  []
 
 [335]
-Underfull \hbox (badness 6461) in paragraph at lines 8810--8813
+Underfull \hbox (badness 6461) in paragraph at lines 8812--8815
  []\TU/Shlomo(1)/m/n/9 תְּמִימִֽם׃ וּמִנְחָתָ֣ם וְנִסְכֵּיהֶ֡ם לַ֠פָּרִ֠ים[] 
  []
 
 
-Underfull \hbox (badness 6461) in paragraph at lines 8814--8816
+Underfull \hbox (badness 6461) in paragraph at lines 8816--8818
  []\TU/Shlomo(1)/m/n/9 תְּמִימִֽם׃ וּמִנְחָתָ֣ם וְנִסְכֵּיהֶ֡ם לַ֠פָּרִ֠ים[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8820--8823
+Underfull \hbox (badness 10000) in paragraph at lines 8822--8825
  []\TU/Shlomo(1)/m/n/9 עָשָׂ֖ר תְּמִימִֽם׃ וּמִנְחָתָ֣ם וְנִסְכֵּיהֶ֡ם[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8831--8837
+Underfull \hbox (badness 10000) in paragraph at lines 8833--8839
  []\TU/Shlomo(1)/m/n/9 בָּאָ֑רֶץ וְהִשְׁחַתֶּ֗ם וַֽעֲשִׂ֤יתֶם פֶּ֨סֶל֙[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8831--8837
+Underfull \hbox (badness 10000) in paragraph at lines 8833--8839
  []\TU/Shlomo(1)/m/n/9 אֱלֹהֶ֖יךָ לְהַכְעִיסֽוֹ׃ הַֽעִידֹ֩תִי֩ בָכֶ֨ם[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8831--8837
+Underfull \hbox (badness 10000) in paragraph at lines 8833--8839
  []\TU/Shlomo(1)/m/n/9 עֹֽבְרִ֧ים אֶת־הַיַּרְדֵּ֛ן שָׁ֖מָּה לְרִשְׁתָּ֑הּ[] 
  []
 
 
-Underfull \hbox (badness 5161) in paragraph at lines 8831--8837
+Underfull \hbox (badness 5161) in paragraph at lines 8833--8839
  []\TU/Shlomo(1)/m/n/9 תִּשָּֽׁמֵדֽוּן׃ וְהֵפִ֧יץ יְיָ֛ אֶתְכֶ֖ם בָּֽעַמִּ֑ים[] 
  []
 
 
-Underfull \hbox (badness 5288) in paragraph at lines 8831--8837
+Underfull \hbox (badness 5288) in paragraph at lines 8833--8839
  []\TU/Shlomo(1)/m/n/9 וְלֹ֥א יְרִיחֻֽן׃ וּבִקַּשְׁתֶּ֥ם מִשָּׁ֛ם אֶת־יְיָ֥[] 
  []
 
 [336]
-Underfull \hbox (badness 5622) in paragraph at lines 8844--8846
+Underfull \hbox (badness 5622) in paragraph at lines 8846--8848
  []\TU/Shlomo(1)/m/n/9 מֵֽאֲנ֥וּ דַֽעַת־אוֹתִ֖י נְאֻם־יְיָ׃ לָכֵ֗ן כֹּ֤ה[] 
  []
 
 
-Underfull \hbox (badness 5771) in paragraph at lines 8844--8846
+Underfull \hbox (badness 5771) in paragraph at lines 8846--8848
  []\TU/Shlomo(1)/m/n/9 נַפְשִֽׁי׃ עַל־הֶ֨הָרִ֜ים אֶשָּׂ֧א בְכִ֣י וָנֶ֗הִי[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8844--8846
+Underfull \hbox (badness 10000) in paragraph at lines 8846--8848
  []\TU/Shlomo(1)/m/n/9 וְעַל־נְא֤וֹת מִדְבָּר֙ קִינָ֔ה כִּ֤י נִצְּתוּ֙[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8844--8846
+Underfull \hbox (badness 10000) in paragraph at lines 8846--8848
  []\TU/Shlomo(1)/m/n/9 מִבְּלִי־אִ֣ישׁ עֹבֵ֔ר וְלֹ֥א שָֽׁמְע֖וּ ק֣וֹל[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8844--8846
+Underfull \hbox (badness 10000) in paragraph at lines 8846--8848
  []\TU/Shlomo(1)/m/n/9 הָלָֽכוּ׃ וְנָֽתַתִּ֧י אֶת־יְרֽוּשָׁלַ֛םִ לְגַלִּ֖ים[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8844--8846
+Underfull \hbox (badness 10000) in paragraph at lines 8846--8848
  []\TU/Shlomo(1)/m/n/9 מְע֣וֹן תַּנִּ֑ים וְאֶת־עָרֵ֧י יְהוּדָ֛ה אֶתֵּ֥ן[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8844--8846
+Underfull \hbox (badness 10000) in paragraph at lines 8846--8848
  []\TU/Shlomo(1)/m/n/9 וְיָבֵ֣ן אֶת־זֹ֔את וַֽאֲשֶׁ֨ר דִּבֶּ֧ר פִּֽי־יְיָ֛[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8844--8846
+Underfull \hbox (badness 10000) in paragraph at lines 8846--8848
  []\TU/Shlomo(1)/m/n/9 לַמְקוֹנְנ֖וֹת וּתְבוֹאֶ֑ינָה וְאֶל־הַֽחֲכָמ֥וֹת[] 
  []
 
 
-Underfull \hbox (badness 5954) in paragraph at lines 8844--8846
+Underfull \hbox (badness 5954) in paragraph at lines 8846--8848
  []\TU/Shlomo(1)/m/n/9 קִינָֽה׃ כִּי־עָ֤לָה מָ֨וֶת֙ בְּחַלּוֹנֵ֔ינוּ בָּ֖א[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8844--8846
+Underfull \hbox (badness 10000) in paragraph at lines 8846--8848
  []\TU/Shlomo(1)/m/n/9 בְּאַרְמְנוֹתֵ֑ינוּ לְהַכְרִ֤ית עוֹלָל֙ מִח֔וּץ[] 
  []
 
 [337]
-Underfull \hbox (badness 5288) in paragraph at lines 8853--8858
+Underfull \hbox (badness 5288) in paragraph at lines 8855--8860
  []\TU/Shlomo(1)/m/n/9 לָמָ֤ה יְיָ֙ יֶֽחֱרֶ֤ה אַפְּךָ֙ בְּעַמֶּ֔ךָ אֲשֶׁ֤ר[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8853--8858
+Underfull \hbox (badness 10000) in paragraph at lines 8855--8860
  []\TU/Shlomo(1)/m/n/9 לְזַֽרְעֲכֶ֔ם וְנָֽחֲל֖וּ לְעֹלָֽם׃ וַיִּנָּ֖חֶם יְיָ֑[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8853--8858
+Underfull \hbox (badness 10000) in paragraph at lines 8855--8860
  []\TU/Shlomo(1)/m/n/9 עַל־הַלֻּחֹ֔ת אֶ֨ת־הַדְּבָרִ֔ים אֲשֶׁ֥ר הָי֛וּ[] 
  []
 
 
-Underfull \hbox (badness 5175) in paragraph at lines 8853--8858
+Underfull \hbox (badness 5175) in paragraph at lines 8855--8860
  []\TU/Shlomo(1)/m/n/9 עַל־הַלֻּחֹ֥ת הָרִֽאשֹׁנִ֖ים אֲשֶׁ֥ר שִׁבַּֽרְתָּ׃[] 
  []
 
 [338]
-Underfull \hbox (badness 7203) in paragraph at lines 8865--8867
+Underfull \hbox (badness 7203) in paragraph at lines 8867--8869
  []\TU/Shlomo(1)/m/n/9 וְיָשֹׁ֤ב אֶל־יְיָ֙ וִירַֽחֲמֵ֔הוּ וְאֶל־אֱלֹהֵ֖ינוּ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8865--8867
+Underfull \hbox (badness 10000) in paragraph at lines 8867--8869
  []\TU/Shlomo(1)/m/n/9 אֲשֶׁ֥ר שְׁלַחְתִּֽיו׃ כִּֽי־בְשִׂמְחָ֣ה תֵצֵ֔אוּ[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8865--8867
+Underfull \hbox (badness 10000) in paragraph at lines 8867--8869
  []\TU/Shlomo(1)/m/n/9 וּבְשָׁל֖וֹם תּֽוּבָל֑וּן הֶֽהָרִ֣ים וְהַגְּבָע֗וֹת[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8865--8867
+Underfull \hbox (badness 10000) in paragraph at lines 8867--8869
  []\TU/Shlomo(1)/m/n/9 כִּֽי־קְרוֹבָ֤ה יְשֽׁוּעָתִי֙ לָב֔וֹא וְצִדְקָתִ֖י[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8865--8867
+Underfull \hbox (badness 10000) in paragraph at lines 8867--8869
  []\TU/Shlomo(1)/m/n/9 לְהִגָּלֽוֹת׃ אַשְׁרֵ֤י אֱנוֹשׁ֙ יַֽעֲשֶׂה־זֹּ֔את[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8865--8867
+Underfull \hbox (badness 10000) in paragraph at lines 8867--8869
  []\TU/Shlomo(1)/m/n/9 וּבֶן־אָדָ֖ם יַֽחֲזִ֣יק בָּ֑הּ שֹׁמֵ֤ר שַׁבָּת֙[] 
  []
 
 
-Underfull \hbox (badness 6961) in paragraph at lines 8865--8867
+Underfull \hbox (badness 6961) in paragraph at lines 8867--8869
  []\TU/Shlomo(1)/m/n/9 וְאַל־יֹאמַ֣ר בֶּן־הַנֵּכָ֔ר הַנִּלְוָ֤ה אֶל־יְיָ֙[] 
  []
 
 
-Underfull \hbox (badness 6300) in paragraph at lines 8865--8867
+Underfull \hbox (badness 6300) in paragraph at lines 8867--8869
  []\TU/Shlomo(1)/m/n/9 אֶת־שַׁבְּתוֹתַ֔י וּבָֽחֲר֖וּ בַּֽאֲשֶׁ֣ר חָפָ֑צְתִּי[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8865--8867
+Underfull \hbox (badness 10000) in paragraph at lines 8867--8869
  []\TU/Shlomo(1)/m/n/9 כָּל־שֹׁמֵ֤ר שַׁבָּת֙ מֵֽחַלְּל֔וֹ וּמַֽחֲזִיקִ֖ים[] 
  []
 
 
-Underfull \hbox (badness 6559) in paragraph at lines 8865--8867
+Underfull \hbox (badness 6559) in paragraph at lines 8867--8869
  []\TU/Shlomo(1)/m/n/9 וְשִׂמַּחְתִּים֙ בְּבֵ֣ית תְּפִלָּתִ֔י עוֹלֹתֵיהֶ֧ם[] 
  []
 
 [339]
-Underfull \hbox (badness 6893) in paragraph at lines 8874--8885
+Underfull \hbox (badness 6893) in paragraph at lines 8876--8887
  []\TU/Shlomo(1)/m/n/9 לַֽיְיָ׃ \TU/Shlomo(1)/bx/n/9 פ \TU/Shlomo(1)/m/n/9 וּבְי
 וֹם֙ הַשַּׁבָּ֔ת שְׁנֵֽי־כְבָשִׂ֥ים[] 
  []
 
 [340]
-Underfull \hbox (badness 10000) in paragraph at lines 8892--8893
+Underfull \hbox (badness 10000) in paragraph at lines 8894--8895
  [][] 
  []
 
@@ -8939,7 +8941,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  42438 strings out of 493007
  871536 string characters out of 6136720
- 881651 words of memory out of 5000000
+ 881646 words of memory out of 5000000
  45768 multiletter control sequences out of 15000+600000
  536976 words of font info for 118 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
